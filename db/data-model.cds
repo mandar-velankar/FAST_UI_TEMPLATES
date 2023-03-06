@@ -1,7 +1,7 @@
-namespace my.bookshop;
+namespace com.bayer.SXTENDER.templates;
 
-entity Books {
+entity Template {
   key ID : Integer;
-  title  : String;
-  stock  : Integer;
+  key countryCode : String;
+  key application  : String;
 }

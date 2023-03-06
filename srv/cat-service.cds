@@ -1,5 +1,5 @@
-using my.bookshop as my from '../db/data-model';
+using com.bayer.SXTENDER.templates as templates from '../db/data-model';
 
 service CatalogService {
-    @readonly entity Books as projection on my.Books;
+    @readonly entity Template as projection on templates.Template;
 }
