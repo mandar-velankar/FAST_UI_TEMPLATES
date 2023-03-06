@@ -8,7 +8,8 @@ build-parameters:
   before-all:
     - builder: custom
       commands:
-        - npx -p @sap/cds-dk cds build --production
+        - npm install
+        - npm run build:cf
 modules:
   - name: F_TNDR_CAG_FAST_UI_TEMPLATES-srv
     type: nodejs
@@ -23,6 +24,8 @@ modules:
           srv-url: ${default-url}
     requires:
       - name: F_TNDR_CAG_FAST_UI_TEMPLATES-db
+      - name: uaa_FAST
+      - name: F_TNDR_CAG_FAST_UI_TEMPLATES-dest-service
 
   - name: F_TNDR_CAG_FAST_UI_TEMPLATES-db-deployer
     type: hdb
@@ -37,4 +40,37 @@ resources:
     type: com.sap.xs.hdi-container
     parameters:
       service: hana
-      service-plan: hdi-shared
+      service-plan: hdi-shared 
+  - name: F_TNDR_CAG_FAST_UI_TEMPLATES-dest-service
+    type: org.cloudfoundry.managed-service
+    requires:
+      - name: srv-api
+    parameters:
+      config:
+        HTML5Runtime_enabled: true
+        init_data:
+          instance:
+            destinations:
+            - Authentication: NoAuthentication
+              Name: ui5
+              ProxyType: Internet
+              Type: HTTP
+              URL: https://ui5.sap.com
+            - Authentication: NoAuthentication
+              Name: fast-templates-api
+              ProxyType: Internet
+              Type: HTTP
+              URL: ~{srv-api/srv-url}
+              HTML5.DynamicDestination: true
+              HTML5.ForwardAuthToken: true
+            existing_destinations_policy: update
+        version: 1.0.0
+      service: destination
+      service-name: bc-dest-srv
+      service-plan: lite
+  - name: uaa_FAST
+    parameters:
+      path: ./xs-security.json
+      service-plan: application
+      service: xsuaa
+    type: org.cloudfoundry.managed-service
