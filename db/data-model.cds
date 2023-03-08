@@ -34,7 +34,7 @@ entity Tab: cuid {
 entity Table: cuid {
       Title: String;
       Description: String;
-      TabID: String;
+      // TabID: String;
       //Associations
       Tab             : Association to Tab;
       Columns         : Composition of many  Column on Columns.Table = $self;

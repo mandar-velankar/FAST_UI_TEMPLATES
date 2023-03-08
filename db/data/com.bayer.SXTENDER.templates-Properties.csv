@@ -1,0 +1,3 @@
+ID;NAME;VALUE;ISBINDING;CONTROL_ID
+a2008c91-5385-4a0f-bb42-863fe6134272;value;{{prop1 + prop2}};true;addd7e27-3e26-483f-b019-d51d5a8763cf
+a2008c91-5385-4a0f-bb42-863fe6134279;value;{{prop1 + prop2}};true;addd7e27-3e26-483f-b019-d51d5a8764cf

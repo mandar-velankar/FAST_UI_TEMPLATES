@@ -1,2 +1,2 @@
-ID;countryCode;application
-1;BE;XYZ
+ID;TITLE;DESCRIPTION;SERVICE;SAVEENTITY;READENTITY;TYPE;COUNTRYTEMPLATE_COUNTRYCODE;COUNTRYTEMPLATE_APPLICATION;TABLE_ID
+ba3214ff-9af8-45fb-a8cf-7a2bc2b91cf7;Lorem Ipsum;Lorem Ipsum;cat-service;Template;Template;template;BR;StandardTenders;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
