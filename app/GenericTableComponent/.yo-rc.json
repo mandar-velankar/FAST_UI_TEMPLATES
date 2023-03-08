@@ -1,0 +1,15 @@
+{
+  "generator-ui5-ts-app": {
+    "application": "GenericTableComponent",
+    "namespace": "com.bayer.SXTENDER.templates",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.111.1",
+    "author": "lemaiwo",
+    "initrepo": false,
+    "tstypes": "@sapui5/ts-types-esm",
+    "tstypesVersion": "1.111.1",
+    "appId": "com.bayer.SXTENDER.templates.GenericTableComponent",
+    "appURI": "com/bayer/SXTENDER/templates/GenericTableComponent",
+    "setupCompleted": true
+  }
+}
