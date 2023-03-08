@@ -17,8 +17,8 @@ entity Template: cuid {
       Type: String;
       //Associations
       CountryTemplate : Association to CountryTemplate;
-      Tab             : Association to Tab;
-      Tables          : Association to many Table on Tables.Template = $self;
+      Tabs            : Association to many Tab on Tabs.Template = $self;
+      Table           : Association to Table;
 }
 
 entity Tab: cuid {
@@ -26,6 +26,7 @@ entity Tab: cuid {
       Description: String;
       Icon: String;
       //Associations
+      Template         : Association to Template;
       Tables           : Association to many Table on Tables.Tab = $self;
       Forms            : Association to many Form on Forms.Tab = $self;
 }
@@ -35,7 +36,6 @@ entity Table: cuid {
       Description: String;
       TabID: String;
       //Associations
-      Template        : Association to Template;
       Tab             : Association to Tab;
       Columns         : Composition of many  Column on Columns.Table = $self;
 }
