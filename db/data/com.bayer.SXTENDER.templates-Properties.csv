@@ -1,3 +1,5 @@
 ID;NAME;VALUE;ISBINDING;CONTROL_ID
-a2008c91-5385-4a0f-bb42-863fe6134272;value;{{prop1 + prop2}};true;addd7e27-3e26-483f-b019-d51d5a8763cf
-a2008c91-5385-4a0f-bb42-863fe6134279;value;{{prop1 + prop2}};true;addd7e27-3e26-483f-b019-d51d5a8764cf
+a2008c91-5385-4a0f-bb42-863fe6134272;text;TenderID;true;0b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
+a2008c91-5385-4a0f-bb42-863fe6134273;text;CountryCode;true;1b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
+a2008c91-5385-4a0f-bb42-863fe6134274;text;DistributorID;true;2b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
+a2008c91-5385-4a0f-bb42-863fe6134279;text;SellingCompany;true;3b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce

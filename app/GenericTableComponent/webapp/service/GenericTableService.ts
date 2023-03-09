@@ -6,6 +6,7 @@ import Sorter from "sap/ui/model/Sorter";
 export interface CountryTemplateEntity {
     CountryCode: string;
     Application: string;
+    Page:string;
     Template: TemplateEntity;
 }
 
@@ -14,8 +15,7 @@ export interface TemplateEntity {
     Title: string;
     Description?: string;
     Service: string;
-    SaveEntity: string;
-    ReadEntity: string;
+    Entity: string;
     Type: string;
     CountryTemplate_CountryCode?: string;
     CountryTemplate_Application?: string;
@@ -62,8 +62,12 @@ export default class GenericTableService {
     constructor(model: ODataModel) {
         this.model = model;
     }
-    public async getTemplate(countryCode: string, appid: string): Promise<CountryTemplateEntity> {
-        const keys = await this.model.requestKeyPredicate('/CountryTemplate', { CountryCode: countryCode, Application: appid });
+    public async getTemplate(countryCode: string, appid: string,page:string): Promise<CountryTemplateEntity> {
+        const keys = await this.model.requestKeyPredicate('/CountryTemplate', { 
+            CountryCode: countryCode, 
+            Application: appid, 
+            Page: page
+        });
         const templateBinding = this.model.bindContext(`/CountryTemplate${keys}`, null, {
             $expand: {
                 "Template": {

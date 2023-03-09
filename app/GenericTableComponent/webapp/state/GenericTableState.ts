@@ -4,7 +4,8 @@ import CountryTemplate from "../model/CountryTemplate";
 import GenericTableService from "../service/GenericTableService";
 
 export type GenericTableModelData = {
-    countryTemplate:CountryTemplate
+    countryTemplate:CountryTemplate,
+    main:any
     // todoItems: Array<TodoItem>;
     // completedCount: number;
     // notCompletedCount: number;
@@ -38,8 +39,9 @@ export default class GenericTableState extends JSONModel {
         void this.read();
     }
     async read(): Promise<void> {
-        const templateResponse = await this.genericTableService.getTemplate('BR','StandardTenders');
+        const templateResponse = await this.genericTableService.getTemplate('BR','StandardTenders','MASTER');
         this.oData.countryTemplate = new CountryTemplate(templateResponse);
+        this.updateBindings(true);
     }
 
     // async create(title: string): Promise<void> {

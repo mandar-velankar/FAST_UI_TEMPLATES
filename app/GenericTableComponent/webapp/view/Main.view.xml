@@ -6,17 +6,13 @@
                 <f:heading>
                     <Title text="{i18n>appTitle}" level="H2" />
                 </f:heading>
-                <f:actions>
-                </f:actions>
+                <f:actions />
             </f:DynamicPageTitle>
         </f:title>
         <f:content>
-			<t:Table selectionMode="None"
-							columns="{path:'tempModel>/countryTemplate/template/table/columns', factory: '.createColumns'}"
-							visibleRowCountMode="Auto"
-							rows="{path:'data>/main'}"
-							>
-			</t:Table>
-		</f:content>
+            <t:Table id="genericTable" 
+                visibleRowCountMode="Auto" 
+                columns="{path:'tempModel>/countryTemplate/template/table/columns', factory: '.createColumns'}" />
+        </f:content>
     </f:DynamicPage>
 </mvc:View>

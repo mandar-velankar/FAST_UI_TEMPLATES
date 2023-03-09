@@ -8,6 +8,7 @@ import Template from "./Template";
 export default class CountryTemplate extends BaseObject<CountryTemplateEntity> {
     private countryCode: string;
     private application: string;
+    private page: string;
     private template: Template;
 
     constructor(data?: CountryTemplateEntity) {
@@ -16,13 +17,21 @@ export default class CountryTemplate extends BaseObject<CountryTemplateEntity> {
         if (data) {
             this.countryCode = data.CountryCode;
             this.application = data.Application;
+            this.page = data.Page;
             this.template = new Template(data.Template);
         }
+    }
+    /**
+     * getTemplate
+     */
+    public getTemplate() {
+        return this.template;
     }
     public getJSON(): CountryTemplateEntity {
         return {
             CountryCode: this.countryCode,
             Application: this.application,
+            Page: this.page,
             Template: this.template.getJSON()
         };
     }

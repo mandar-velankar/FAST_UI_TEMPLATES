@@ -4,7 +4,7 @@ import UI5Control, { $ControlSettings } from "sap/ui/core/Control";
 import { ControlEntity } from "../service/GenericTableService";
 import BaseObject from "./BaseObject";
 import ControlProperty from "./ControlPoperty";
-
+import Input from "sap/m/Input";
 /**
  * @namespace com.bayer.SXTENDER.templates.GenericTableComponent.models
  */
@@ -30,18 +30,19 @@ export default class Control extends BaseObject<ControlEntity> {
         return props;
     }
     public getControlPath() {
-        return `sap.m.${this.type}`;
+        return `sap/m/${this.type}`;
     }
-    public generateControl():any{
-        
-        // const p = this.getControlPath();
-        // const c = sap.ui.require(p) as Text;
-        // const props = this.getPropertiesAsObject() as $ControlSettings;
+    public generateControl():UI5Control{
+        const m = new Input();
+        const t = new Text();
+        const p = this.getControlPath();
+        const c = sap.ui.require(p) as UI5Control;
+        const props = this.getPropertiesAsObject() as $ControlSettings;
         // new Text();
-        // const r = new c();
+        const control = new c(props);
         // const r2 = new (<any>window)["TestClass"]()
         //@ts-ignore
-        const control = new (sap.ui.require(this.getControlPath()))(this.getPropertiesAsObject());
+        // const control = new (sap.ui.require(this.getControlPath()))(this.getPropertiesAsObject());
         
         return control;
     }

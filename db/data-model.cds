@@ -2,9 +2,11 @@ namespace com.bayer.SXTENDER.templates;
 
 using {cuid} from '@sap/cds/common';
 
+//todo: VIEW CountryTemplate + Template + Table
 entity CountryTemplate {
       key CountryCode : String;
       key Application : String;
+      key Page : String;
           //Associations
           Template    : Association to Template
                               on Template.CountryTemplate = $self;
@@ -14,8 +16,8 @@ entity Template : cuid {
       Title           : String;
       Description     : String;
       Service         : String;
-      SaveEntity      : String;
-      ReadEntity      : String;
+      Entity      : String;
+      // ReadEntity      : String;
       Type            : String;
       //Associations
       CountryTemplate : Association to CountryTemplate;
@@ -56,8 +58,8 @@ entity Form : cuid {
 }
 
 entity Column : cuid {
-      Title       : String;
-      Description : String;
+      Title       : String; //todo: rename to label or header?
+      Description : String; //tocheck: not needed?
       //Associations
       Table       : Association to Table;
       Control    : Association to Control

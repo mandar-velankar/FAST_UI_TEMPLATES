@@ -40,3 +40,5 @@ server:
         backend:
         - path: /UITemplates
           url: http://localhost:4004/
+        - path: /v2
+          url: https://bayer-fast-dev-fast-fast-api-approuter.cfapps.eu20.hana.ondemand.com/
