@@ -41,7 +41,6 @@ export default class Control extends BaseObject<ControlEntity> {
         // new Text();
         const control = new c(props);
         // const r2 = new (<any>window)["TestClass"]()
-        //@ts-ignore
         // const control = new (sap.ui.require(this.getControlPath()))(this.getPropertiesAsObject());
         
         return control;

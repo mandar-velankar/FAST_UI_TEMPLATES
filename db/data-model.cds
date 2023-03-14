@@ -6,7 +6,7 @@ using {cuid} from '@sap/cds/common';
 entity CountryTemplate {
       key CountryCode : String;
       key Application : String;
-      key Page : String;
+      key Page : String; //todo: change to Section
           //Associations
           Template    : Association to Template
                               on Template.CountryTemplate = $self;

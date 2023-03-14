@@ -8,7 +8,9 @@ import UIColumn from "sap/ui/table/Column";
 import Text from "sap/m/Text";
 import Control from "sap/ui/core/Control";
 import JSONModel from "sap/ui/model/json/JSONModel";
-import Table from "sap/ui/table/Table";
+import Table from "sap/m/Table";
+import ColumnListItem from "sap/m/ColumnListItem";
+import { AggregationBindingInfo } from "sap/ui/base/ManagedObject";
 
 /**
  * @namespace com.bayer.SXTENDER.templates.GenericTableComponent.controller
@@ -25,13 +27,17 @@ export default class Main extends BaseController {
 		await this.genericTableState.read();
 		this.setModel(this.genericTableStateData.countryTemplate.getTemplate().getODataModel(), "data");
 
-
+		const cols = this.genericTableStateData.countryTemplate.getTemplate().getTable().getColumns();
+		
 		const table = (this.byId("genericTable") as Table);
-		table.bindRows({
-			path: `/${this.genericTableStateData.countryTemplate.getTemplate().getEntity()}`,
+		table.bindItems({
+			path:`/${this.genericTableStateData.countryTemplate.getTemplate().getEntity()}`,
 			model: 'data',
-			suspended:false
-		});
+			template:new ColumnListItem({
+				cells:cols.map(col=>col.getControl().generateControl())
+			}),
+			templateShareable:true
+		})
 	}
 
 	public createColumns(id: string, context: Context): UIColumn {

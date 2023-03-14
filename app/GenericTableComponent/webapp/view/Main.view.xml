@@ -10,9 +10,13 @@
             </f:DynamicPageTitle>
         </f:title>
         <f:content>
-            <t:Table id="genericTable" 
-                visibleRowCountMode="Auto" 
-                columns="{path:'tempModel>/countryTemplate/template/table/columns', factory: '.createColumns'}" />
+            <Table id="genericTable" columns="{path:'tempModel>/countryTemplate/template/table/columns'}">
+                <columns>
+                    <Column>
+                        <Text text="{tempModel>title}" />
+                    </Column>
+                </columns>
+            </Table>
         </f:content>
     </f:DynamicPage>
 </mvc:View>

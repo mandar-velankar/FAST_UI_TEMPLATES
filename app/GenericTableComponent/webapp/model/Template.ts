@@ -33,6 +33,12 @@ export default class Template extends BaseObject<TemplateEntity> {
         return new ODataModel(`/v2/${this.service}`);
     }
     /**
+     * getTable
+     */
+    public getTable() {
+        return this.table;
+    }
+    /**
      * getEntity
      */
     public getEntity() {

@@ -21,6 +21,12 @@ export default class Table extends BaseObject<TableEntity> {
             }
         }
     }
+    /**
+     * getColumns
+     */
+    public getColumns() {
+        return this.columns;
+    }
     public getJSON(): TableEntity {
         return {
             ID: this.id,
