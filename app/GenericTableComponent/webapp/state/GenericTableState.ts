@@ -12,7 +12,7 @@ export type GenericTableModelData = {
     // new: TodoItem;
     // edit: TodoItem;
 };
-
+export type templateKeys = {countryCode:string,appID:string,page:string};
 /**
  * @namespace com.bayer.SXTENDER.templates.GenericTableComponent.state
  */
@@ -36,32 +36,11 @@ export default class GenericTableState extends JSONModel {
             synchronizationMode: "None"
         });
         this.genericTableService = new GenericTableService(model);
-        void this.read();
     }
-    async read(): Promise<void> {
-        const templateResponse = await this.genericTableService.getTemplate('BR','StandardTenders','MASTER');
+    async read(keys:templateKeys): Promise<void> {
+        const templateResponse = await this.genericTableService.getTemplate(keys);
         this.oData.countryTemplate = new CountryTemplate(templateResponse);
         this.updateBindings(true);
     }
 
-    // async create(title: string): Promise<void> {
-    //     await this.todoService.addTodo(new TodoItem({ title }).getJSON());
-    //     await this.read();
-    // }
-
-    // async delete(todoItem: TodoItem): Promise<void> {
-    //     await this.todoService.deleteTodo(todoItem.getId());
-    //     await this.read();
-    // }
-
-    // async update(todoItem: TodoItem): Promise<void> {
-    // await this.todoService.updateTodo(todoItem.getJSON());
-    // await this.read();
-    // }
-    // async updateTitle(id: number, title: string): Promise<void> {
-    // const todoItem = this.getTodoItem(id);
-    // todoItem.setCompleted(false);
-    // todoItem.setTitle(title);
-    // await this.update(todoItem);
-    // }
 }

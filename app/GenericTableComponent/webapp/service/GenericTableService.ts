@@ -2,6 +2,7 @@ import Filter from "sap/ui/model/Filter";
 import ODataListBinding from "sap/ui/model/odata/v4/ODataListBinding";
 import ODataModel from "sap/ui/model/odata/v4/ODataModel";
 import Sorter from "sap/ui/model/Sorter";
+import { templateKeys } from "../state/GenericTableState";
 
 export interface CountryTemplateEntity {
     CountryCode: string;
@@ -62,10 +63,10 @@ export default class GenericTableService {
     constructor(model: ODataModel) {
         this.model = model;
     }
-    public async getTemplate(countryCode: string, appid: string,page:string): Promise<CountryTemplateEntity> {
+    public async getTemplate({countryCode, appID,page}:templateKeys): Promise<CountryTemplateEntity> {
         const keys = await this.model.requestKeyPredicate('/CountryTemplate', { 
             CountryCode: countryCode, 
-            Application: appid, 
+            Application: appID, 
             Page: page
         });
         const templateBinding = this.model.bindContext(`/CountryTemplate${keys}`, null, {

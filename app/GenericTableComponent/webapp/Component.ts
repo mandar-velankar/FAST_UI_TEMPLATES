@@ -8,7 +8,15 @@ import models from "./model/models";
 export default class Component extends UIComponent {
 
 	public static metadata = {
-		manifest: "json"
+		manifest: "json",
+		events:{
+			itemPress:{
+				parameters: {
+					source:"object",
+					data:"object"
+				}
+			}
+		}
 	};
 
 	private contentDensityClass : string;

@@ -31,7 +31,7 @@
   "scripts": {
     "start": "cds run",
     "start-service:ts": "cds-ts run --with-mocks --in-memory",
-    "watch:ts": "cds-ts watch --profile hybrid",
+    "watch:ts": "cds-ts watch --port 4005 --profile hybrid",
     "build:cf": "npm run build:cds && npm run build:ts && npm run cleanup:ts && npm run cleanup:ts",
     "build:ts": "tsc",
     "build:cds": "cds-ts build --production",

@@ -39,6 +39,6 @@ server:
         ignoreCertError: false # If set to true, certificate errors will be ignored. E.g. self-signed certificates will be accepted
         backend:
         - path: /UITemplates
-          url: http://localhost:4004/
+          url: http://localhost:4005/
         - path: /v2
-          url: https://bayer-fast-dev-fast-fast-api-approuter.cfapps.eu20.hana.ondemand.com/
+          url: http://localhost:4004
