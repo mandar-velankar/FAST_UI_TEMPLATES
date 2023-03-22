@@ -3,6 +3,7 @@ ID: F_TNDR_CAG_FAST_UI_TEMPLATES
 version: 1.0.0
 description: "A simple CAP project."
 parameters:
+  deploy_mode: html5-repo
   enable-parallel-deployments: true
 build-parameters:
   before-all:
@@ -15,6 +16,8 @@ modules:
     type: nodejs
     path: gen/srv
     parameters:
+      memory: 512M
+      disk-quota: 512M
       buildpack: nodejs_buildpack
     build-parameters:
       builder: npm-ci
@@ -35,7 +38,37 @@ modules:
     requires:
       - name: F_TNDR_CAG_FAST_UI_TEMPLATES-db
 
+  - name: F_TNDR_CAG_FAST_UI_TEMPLATES-content
+    type: com.sap.application.content
+    path: .
+    requires:
+    - name: F_TNDR_CAG_FAST_UI_TEMPLATES-repo-host
+      parameters:
+        content-target: true
+    build-parameters:
+      build-result: resources
+      requires:
+      - artifacts:
+        - combayersxtendertemplatesgenerictablecomponent.zip
+        name: combayersxtendertemplatesgenerictablecomponent
+        target-path: resources/
+  - name: combayersxtendertemplatesgenerictablecomponent
+    type: html5
+    path: app/GenericTableComponent
+    build-parameters:
+      build-result: dist
+      builder: custom
+      commands:
+      - npm install
+      - npm run build:cf
+      supported-platforms: []
 resources:
+  - name: F_TNDR_CAG_FAST_UI_TEMPLATES-repo-host
+    type: org.cloudfoundry.managed-service
+    parameters:
+      service: html5-apps-repo
+      service-name: F_TNDR_CAG_FAST_UI_TEMPLATES-html5-srv
+      service-plan: app-host
   - name: F_TNDR_CAG_FAST_UI_TEMPLATES-db
     type: com.sap.xs.hdi-container
     parameters:
@@ -66,7 +99,7 @@ resources:
             existing_destinations_policy: update
         version: 1.0.0
       service: destination
-      service-name: bc-dest-srv
+      service-name: F_TNDR_CAG_FAST_UI_TEMPLATES-dest-service
       service-plan: lite
   - name: uaa_FAST
     parameters:

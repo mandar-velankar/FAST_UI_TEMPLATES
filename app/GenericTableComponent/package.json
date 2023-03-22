@@ -6,6 +6,7 @@
   "license": "Apache-2.0",
   "scripts": {
     "build": "ui5 build --clean-dest",
+    "build:cf": "ui5 build preload --clean-dest --config ui5-deploy.yaml --include-task=generateCachebusterInfo",
     "build:opt": "ui5 build self-contained --clean-dest --all",
     "start": "ui5 serve --port 8080 -o index.html",
     "start:dist": "ui5 serve  --port 8080 -o index.html --config ui5-dist.yaml",
@@ -21,13 +22,15 @@
     "eslint": "^8.27.0",
     "typescript": "^4.8.4",
     "ui5-middleware-livereload": "^0.7.0",
+    "ui5-task-zipper": "^0.7.4",
     "ui5-tooling-transpile": "^0.2.0"
   },
   "ui5": {
     "dependencies": [
       "ui5-middleware-livereload",
       "ui5-tooling-transpile",
-      "@sap/ux-ui5-tooling"
+      "@sap/ux-ui5-tooling",
+      "ui5-task-zipper"
     ]
   }
 }
