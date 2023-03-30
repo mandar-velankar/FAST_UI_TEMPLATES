@@ -72,22 +72,22 @@ entity Control : cuid {
       //Associations
       Properties  : Composition of many Properties
                           on Properties.Control = $self;
-      Calculation : Composition of many Calculation
-                          on Calculation.Control = $self;
+      // Calculation : Composition of many Calculation
+      //                     on Calculation.Control = $self;
 }
 
 entity Properties : cuid {
       Name      : String;
       Value     : String;
-      IsBinding : Boolean;
+      IsBinding : Boolean;//could be moved to UI, if binding syntax is found in value ==> binding otherwise static value 
       //Associations
       Control   : Association to Control;
 }
-
-entity Calculation : cuid {
-      Name                   : String;
-      Formula                : String;
-      ResultCalculationField : String;
-      //Associations
-      Control                : Association to Control;
-}
+//not needed when we bring binding completely to property value
+// entity Calculation : cuid {
+//       Name                   : String;
+//       Formula                : String;
+//       ResultCalculationField : String;
+//       //Associations
+//       Control                : Association to Control;
+// }

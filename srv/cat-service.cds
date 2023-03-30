@@ -9,5 +9,4 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
     entity Column as projection on templates.Column;
     entity Control as projection on templates.Control;
     entity Properties as projection on templates.Properties;
-    entity Calculation as projection on templates.Calculation;
 }

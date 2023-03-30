@@ -1,0 +1,51 @@
+<mvc:View
+	controllerName="com.bayer.SXTENDER.templates.GenericFormComponent.controller.Main"
+	displayBlock="true"
+	xmlns="sap.m"
+	xmlns:f="sap.f"
+	xmlns:l="sap.ui.layout"
+	xmlns:form="sap.ui.layout.form"
+	xmlns:mvc="sap.ui.core.mvc">
+	<f:DynamicPage id="formPage" stickySubheaderProvider="iconTabBar" class="sapUiNoContentPadding">
+        <f:title>
+            <f:DynamicPageTitle>
+                <f:heading>
+                    <Title text="{i18n>appTitle}" level="H2" />
+                </f:heading>
+                <f:actions />
+            </f:DynamicPageTitle>
+        </f:title>
+        <f:content>
+			<IconTabBar id="iconTabBar" class="sapUiResponsiveContentPadding" items="{tempModel>/countryTemplate/template/tabs}">
+				<items>
+					<IconTabFilter text="{tempModel>title}" icon="sap-icon://{tempModel>icon}" content="{path:'tempModel>forms'}">
+						<form:SimpleForm
+							editable="true"
+							layout="ResponsiveGridLayout"
+							title="Address"
+							labelSpanXL="3"
+							labelSpanL="3"
+							labelSpanM="3"
+							labelSpanS="12"
+							adjustLabelSpan="false"
+							emptySpanXL="4"
+							emptySpanL="4"
+							emptySpanM="4"
+							emptySpanS="0"
+							columnsXL="1"
+							columnsL="1"
+							columnsM="1"
+							singleContainerFullSize="false" 
+							content="{path:'tempModel>controls'}">
+							<form:content>
+								<Label text="Name" />
+								<Input id="name" value="{tempModel>type}" />
+							</form:content>
+						</form:SimpleForm>
+					</IconTabFilter>
+				</items>
+			</IconTabBar>
+        </f:content>
+    </f:DynamicPage>
+
+</mvc:View>
