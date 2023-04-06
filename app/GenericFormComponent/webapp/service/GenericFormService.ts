@@ -36,10 +36,27 @@ export interface FormEntity {
     Title:       string;
     Description: string;
     Tab_ID?:      string;
-    Controls:    ControlEntity[];
+    FormContainers:    FormContainerEntity[];
+    Layout:    LayoutEntity;
+}
+export interface FormContainerEntity {
+    ID:          string;
+    Title:       string;
+    FormElements:    FormElementEntity[];
+}
+export interface FormElementEntity {
+    ID:          string;
+    Label:       string;
+    Control:    ControlEntity;
 }
 
 export interface ControlEntity {
+    ID: string;
+    Type: string;
+    ParentID?: string;
+    Properties?: PropertyEntity[];
+}
+export interface LayoutEntity {
     ID: string;
     Type: string;
     ParentID?: string;
@@ -76,8 +93,19 @@ export default class GenericFormService {
                             $expand: {
                                 "Forms": {
                                     $expand: {
-                                        "Controls": {
-                                            $expand: "Properties"
+                                        "Layout":{
+                                            $expand:"Properties"
+                                        },
+                                        "FormContainers": {
+                                            $expand: {
+                                                "FormElements": {
+                                                    $expand: {
+                                                        "Control": {
+                                                            $expand: "Properties"
+                                                        }
+                                                    }
+                                                }
+                                            }
                                         }
                                     }
                                 }

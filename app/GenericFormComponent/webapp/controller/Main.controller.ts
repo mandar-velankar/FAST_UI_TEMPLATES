@@ -2,6 +2,7 @@ import MessageBox from "sap/m/MessageBox";
 import BaseController from "./BaseController";
 import formatter from "../model/formatter";
 import GenericFormState, { GenericFormModelData, templateKeys } from "../state/GenericFormState";
+import Context from "sap/ui/model/Context";
 
 /**
  * @namespace com.bayer.SXTENDER.templates.GenericFormComponent.controller
@@ -17,6 +18,10 @@ export default class Main extends BaseController {
 
 		await this.GenericFormState.read(this.getOwnerComponent().getComponentData() as templateKeys);
 		// this.setModel(this.GenericFormStateData.countryTemplate.getTemplate().getODataModel(), "data");
+	}
+	public layoutFactory(id:string,context:Context):void{
+		this.GenericFormState.getData()
+		console.log("fact")
 	}
 
 }

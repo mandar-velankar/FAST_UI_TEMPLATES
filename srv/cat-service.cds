@@ -6,7 +6,10 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
     entity Tab as projection on templates.Tab;
     entity Table as projection on templates.Table;
     entity Form as projection on templates.Form;
+    entity FormContainer as projection on templates.FormContainer;
+    entity FormElement as projection on templates.FormElement;
     entity Column as projection on templates.Column;
+    entity Layout as projection on templates.Layout;
     entity Control as projection on templates.Control;
     entity Properties as projection on templates.Properties;
 }
