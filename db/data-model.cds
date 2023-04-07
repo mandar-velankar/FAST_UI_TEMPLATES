@@ -78,31 +78,32 @@ entity FormElement : cuid {
       Label       : String;
       //Associations
       FormContainer         : Association to FormContainer;
-      Control    : Association to Control
-                          on Control.ParentID = ID;
+      Controls    : Association to many Control
+                          on Controls.ParentID = ID;
 }
 entity Control : cuid {
       Type        : String;
       ParentID    : UUID;
       //Associations
-      Properties  : Composition of many Properties
-                          on Properties.Control = $self;
+      Properties  : Association to many Properties
+                          on Properties.ParentID = ID;
       // Calculation : Composition of many Calculation
       //                     on Calculation.Control = $self;
 }
 entity Layout : cuid {
       Type:String;
       Form         : Association to Form;
-      Properties  : Composition of many Properties
-                          on Properties.Layout = $self;
+      Properties  : Association to many Properties
+                          on Properties.ParentID = ID;
 }
 entity Properties : cuid {
       Name      : String;
       Value     : String;//{}
       IsBinding : Boolean;//could be moved to UI, if binding syntax is found in value ==> binding otherwise static value 
+      ParentID    : UUID;
       //Associations
-      Control   : Association to Control;
-      Layout   : Association to Layout;
+      // Control   : Association to Control;
+      // Layout   : Association to Layout;
 }
 //not needed when we bring binding completely to property value
 // entity Calculation : cuid {

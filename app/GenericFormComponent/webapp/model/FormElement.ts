@@ -8,7 +8,7 @@ import Control from "./Control";
 export default class FormElement extends BaseObject<FormElementEntity> {
     private id: string;
     private label: string;
-    private control: Control;
+    private controls: Control[] = [];
 
     constructor(data?: FormElementEntity) {
         super();
@@ -16,7 +16,9 @@ export default class FormElement extends BaseObject<FormElementEntity> {
         if (data) {
             this.id = data.ID;
             this.label = data.Label;
-            this.control = new Control(data.Control)
+            for(const control of data.Controls){
+                this.controls.push(new Control(control));
+            }
             // for(const control of data.Controls){
             //     this.controls.push(new Control(control));
             // }
@@ -25,14 +27,14 @@ export default class FormElement extends BaseObject<FormElementEntity> {
     /**
      * getColumns
      */
-    public getControl() {
-        return this.control;
+    public getControls() {
+        return this.controls;
     }
     public getJSON(): FormElementEntity {
         return {
             ID: this.id,
             Label: this.label,
-            Control:this.control.getJSON()
+            Controls:this.controls.map(control => control.getJSON())
         };
     }
 }

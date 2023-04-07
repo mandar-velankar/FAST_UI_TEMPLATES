@@ -47,7 +47,7 @@ export interface FormContainerEntity {
 export interface FormElementEntity {
     ID:          string;
     Label:       string;
-    Control:    ControlEntity;
+    Controls:    ControlEntity[];
 }
 
 export interface ControlEntity {
@@ -100,7 +100,7 @@ export default class GenericFormService {
                                             $expand: {
                                                 "FormElements": {
                                                     $expand: {
-                                                        "Control": {
+                                                        "Controls": {
                                                             $expand: "Properties"
                                                         }
                                                     }

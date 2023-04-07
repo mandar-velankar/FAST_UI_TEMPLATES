@@ -45,10 +45,10 @@
 							<form:formContainers>
 								<form:FormContainer title="{tempModel>title}" formElements="{path:'tempModel>formElements'}">
 									<form:formElements>
-										<form:FormElement label="{tempModel>label}">
-											<form:fields>
+										<form:FormElement label="{tempModel>label}" fields="{path:'tempModel>controls',factory:'.fieldsFactory'}">
+											<!-- <form:fields>
 												<Input value="{tempModel>control/type}"/>
-											</form:fields>
+											</form:fields> -->
 										</form:FormElement>
 									</form:formElements>
 								</form:FormContainer>
