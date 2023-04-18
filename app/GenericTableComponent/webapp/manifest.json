@@ -36,7 +36,7 @@
 
 	"sap.ui5": {
 		"rootView": {
-			"viewName": "com.bayer.SXTENDER.templates.GenericTableComponent.view.App",
+			"viewName": "com.bayer.SXTENDER.templates.GenericTableComponent.view.Main",
 			"type": "XML",
 			"async": true,
 			"id": "app"

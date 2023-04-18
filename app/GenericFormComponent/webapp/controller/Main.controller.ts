@@ -18,16 +18,25 @@ export default class Main extends BaseController {
 	public async onInit(): Promise<void> {
 		this.GenericFormState = this.getOwnerComponent().getModel("tempModel") as GenericFormState;
 		this.GenericFormStateData = this.GenericFormState.getData() as GenericFormModelData;
+		const componentData = this.getOwnerComponent().getComponentData() as templateKeys;
 
-		await this.GenericFormState.read(this.getOwnerComponent().getComponentData() as templateKeys);
+		await this.GenericFormState.read(componentData);
 		this.setModel(this.GenericFormStateData.countryTemplate.getTemplate().getODataModel(), "data");
 		//if keys come in - keys should be incoming of startup params
 		// const keys = await this.getModel("data").createKey(`/${this.GenericFormStateData.countryTemplate.getTemplate().getEntity()}`,keys);
 		//no keys, generate createEntry
+		
 		await (this.getModel("data") as ODataModel).metadataLoaded();
-		const newEntryContext = (this.getModel("data") as ODataModel).createEntry(`/${this.GenericFormStateData.countryTemplate.getTemplate().getEntity()}`,{})
+		let path = "";
+		if(componentData.keys){
+			path = (this.getModel("data") as ODataModel).createKey(`/${this.GenericFormStateData.countryTemplate.getTemplate().getEntity()}`,componentData.keys);
+		}else{
+			const newEntryContext = (this.getModel("data") as ODataModel).createEntry(`/${this.GenericFormStateData.countryTemplate.getTemplate().getEntity()}`,{});
+			path = newEntryContext.getPath();
+		}
+		
 		this.getView().bindElement({
-			path:newEntryContext.getPath(),//`/${this.GenericFormStateData.countryTemplate.getTemplate().getEntity()}`,
+			path:path,//`/${this.GenericFormStateData.countryTemplate.getTemplate().getEntity()}`,
 			model: 'data'			
 		});
 	}

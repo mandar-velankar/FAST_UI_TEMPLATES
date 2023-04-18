@@ -36,7 +36,7 @@
 
 	"sap.ui5": {
 		"rootView": {
-			"viewName": "com.bayer.SXTENDER.templates.GenericFormComponent.view.App",
+			"viewName": "com.bayer.SXTENDER.templates.GenericFormComponent.view.Main",
 			"type": "XML",
 			"async": true,
 			"id": "app"
@@ -83,7 +83,7 @@
 			},
 			"routes": [
 				{
-					"pattern": "",
+					"pattern": "detail/{id}",
 					"name": "main",
 					"target": "main"
 				}

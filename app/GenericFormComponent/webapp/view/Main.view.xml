@@ -7,7 +7,7 @@
 	xmlns:form="sap.ui.layout.form"
 	xmlns:core="sap.ui.core"
 	xmlns:mvc="sap.ui.core.mvc">
-	<f:DynamicPage id="formPage" stickySubheaderProvider="iconTabBar" class="sapUiNoContentPadding">
+	<!-- <f:DynamicPage id="formPage" stickySubheaderProvider="iconTabBar" class="sapUiNoContentPadding">
         <f:title>
             <f:DynamicPageTitle>
                 <f:heading>
@@ -16,7 +16,7 @@
                 <f:actions />
             </f:DynamicPageTitle>
         </f:title>
-        <f:content>
+        <f:content> -->
 			<IconTabBar id="iconTabBar" class="sapUiResponsiveContentPadding" items="{tempModel>/countryTemplate/template/tabs}">
 				<items>
 					<IconTabFilter text="{tempModel>title}" icon="sap-icon://{tempModel>icon}" content="{path:'tempModel>forms'}" >
@@ -57,7 +57,7 @@
 					</IconTabFilter>
 				</items>
 			</IconTabBar>
-        </f:content>
-    </f:DynamicPage>
+        <!-- </f:content>
+    </f:DynamicPage> -->
 
 </mvc:View>
