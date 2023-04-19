@@ -14,6 +14,10 @@ export default class Component extends UIComponent {
 	private contentDensityClass : string;
 
 	public init() : void {
+		var oCompData = this.getComponentData();
+		if (oCompData) {
+			this.setInput(oCompData);
+		}
 		// call the base component's init function
 		super.init();
 
@@ -23,6 +27,14 @@ export default class Component extends UIComponent {
 		// this.getRouter().initialize();
 	}
 
+	public setInput(data:object) {
+		var bus = this.getEventBus();
+		if (data) {
+			bus.publish("singleform", "input", data);
+		}
+		// this.setProperty("data", data);
+		return this;
+	}
 	/**
 	 * This method can be called to determine whether the sapUiSizeCompact or sapUiSizeCozy
 	 * design mode class should be set, which influences the size appearance of some controls.

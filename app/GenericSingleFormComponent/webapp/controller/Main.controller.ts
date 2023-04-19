@@ -16,9 +16,19 @@ export default class Main extends BaseController {
 	protected GenericFormStateData: GenericFormModelData;
 
 	public async onInit(): Promise<void> {
+		this.getOwnerComponent().getEventBus().subscribe("singleform", "input", this.onUpdateInput, this);
+		let data = this.getOwnerComponent().getComponentData() as templateKeys;
+		if (data) {
+			this.onUpdateInput("singleform", "input", data);
+		}
+	}
+	public onExit() {
+		this.getOwnerComponent().getEventBus().unsubscribe("singleform", "input", this.onUpdateInput, this);
+	}
+	public async onUpdateInput(channel:String,action:String,data:templateKeys){
 		this.GenericFormState = this.getOwnerComponent().getModel("tempModel") as GenericFormState;
 		this.GenericFormStateData = this.GenericFormState.getData() as GenericFormModelData;
-		const componentData = this.getOwnerComponent().getComponentData() as templateKeys;
+		const componentData = data;//this.getOwnerComponent().getComponentData() as templateKeys;
 
 		await this.GenericFormState.read(componentData);
 		this.setModel(this.GenericFormStateData.countryTemplate.getTemplate().getODataModel(), "data");
