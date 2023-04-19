@@ -24,6 +24,7 @@ entity Template : cuid {
       Tabs            : Association to many Tab
                               on Tabs.Template = $self;
       Table           : Association to Table;
+      Form           : Association to Form;
 }
 
 entity Tab : cuid {
