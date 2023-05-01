@@ -1,4 +1,5 @@
 import Filter from "sap/ui/model/Filter";
+import Object from "sap/ui/base/Object";
 import ODataListBinding from "sap/ui/model/odata/v4/ODataListBinding";
 import ODataModel from "sap/ui/model/odata/v4/ODataModel";
 import Sorter from "sap/ui/model/Sorter";
@@ -57,7 +58,7 @@ export interface PropertyEntity {
 /**
  * @namespace com.bayer.SXTENDER.templates.GenericTableComponent.service
  */
-export default class GenericTableService {
+export default class GenericTableService extends Object{
     private model: ODataModel;
     private bookBinding: ODataListBinding;
     constructor(model: ODataModel) {
