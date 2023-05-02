@@ -65,8 +65,26 @@ b3c01d6c-3ef7-447a-aaa0-9eb1e6e53ad9;emptySpanS;0;false;57a1b2e7-e5e5-4fda-b00f-
 cd7cba4b-a0af-4090-bac3-2830db530796;columnsL;3;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
 c62e612c-5377-43ca-8a46-d61cc85a9362;columnsM;3;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
 a9d87e5a-3048-4fba-b0ac-a90dd2f125cf;singleContainerFullSize;false;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
-7ab1723e-cd42-4940-b62b-8de3a76d49f0;value;Tender Reference;false;388218ac-764f-46c7-8970-7d4a32492228
-8fcb4164-1864-41ab-b40d-2066e580dbbf;value;Classification;false;ba4262f5-fec0-4c8e-9ae0-8ef697040727
-23563168-433e-4201-9ad1-b76c990a17d0;value;Institute Type;false;e2b51192-ad0b-482e-8a10-a2857d62fdee
-b18f5318-c2a6-4bcd-867a-33fa505eb711;value;Institute Name;false;770600d0-f46f-4aec-bda0-9cc3f4447bbf
-605aeb34-e801-41a1-a14a-4887fdf2ffe1;value;Tender Channel;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
+7ab1723e-cd42-4940-b62b-8de3a76d49f0;value;TenderName;true;388218ac-764f-46c7-8970-7d4a32492228
+8fcb4164-1864-41ab-b40d-2066e580dbbf;value;Classification;true;ba4262f5-fec0-4c8e-9ae0-8ef697040727
+23563168-433e-4201-9ad1-b76c990a17d0;value;Institute/InstituteType;true;e2b51192-ad0b-482e-8a10-a2857d62fdee
+b18f5318-c2a6-4bcd-867a-33fa505eb711;value;Institute/InstituteName;true;770600d0-f46f-4aec-bda0-9cc3f4447bbf
+605aeb34-e801-41a1-a14a-4887fdf2ffe1;value;TenderChannel;true;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
+40789152-781f-4185-a4c6-14237a9f75f0;value;"path :'PublicationDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true}";true;0ead9aa0-2b08-43eb-adc1-b4b020693072
+4745e4c6-b107-4058-8a56-e47252e68405;value;"path :'BidDueDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true}";true;886819cc-8e97-40b2-b1b6-d00c9af0b8c0
+d4dee571-6da6-4d28-805a-567d036e825c;value;"path :'AwardDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true}";true;527652e2-e7fa-421b-abbb-d1a8d3ad14da
+9b305981-e0f0-4932-9027-42704c4a18fd;value;"path :'NextPublicationDye', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true}";true;33a41659-edb3-4bc1-8982-572fd1563945
+bbb0bafd-5f5c-4eb4-9e40-50b65d5c0393;value;ContractLength;true;afd196fc-8284-4a2c-bdb1-249606555e3c
+96240f49-82b2-4d01-844a-c0a95435ffaa;value;ContractExtenseion;true;55434006-52d3-4835-9fdd-4bfc8352d563
+1629e75b-db5c-4013-bd65-ba4c8e14af06;labelSpanL;3;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
+96b53ceb-bec0-48a5-a828-36e7722bb0bd;labelSpanM;3;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
+d12670ae-9d03-4ef5-9656-7d6138ed4ee4;labelSpanS;3;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
+c430434e-7eac-4bfa-b322-68f67da3227b;adjustLabelSpan;false;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
+6304342e-8cf6-4acf-8f37-f752133d7846;emptySpanXL;0;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
+f941afc6-60df-48ce-921d-2158039c0435;emptySpanL;0;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
+34857631-7b85-46dc-b38e-4a19a51252b6;emptySpanM;0;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
+b0e20964-377b-433c-a7ce-795fecb6c7c4;emptySpanS;0;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
+c6998300-5cf9-4776-9f90-003f564ac4a9;columnsXL;3;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
+279e610f-a5a7-4dad-a939-2cc3e41d49c6;columnsL;3;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
+cf9cf20d-1182-4d68-9f70-252dcdb101b2;columnsM;3;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
+0cd9d573-7b54-42aa-951b-aea0fee01cd0;singleContainerFullSize;false;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
