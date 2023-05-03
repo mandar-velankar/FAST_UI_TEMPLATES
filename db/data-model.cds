@@ -7,6 +7,7 @@ entity CountryTemplate {
       key CountryCode : String;
       key Application : String;
       key Page : String; //todo: change to Section
+      // key Section: String;
           //Associations
           Template    : Association to Template
                               on Template.CountryTemplate = $self;
@@ -33,10 +34,21 @@ entity Tab : cuid {
       Icon        : String;
       //Associations
       Template    : Association to Template;
+      XMLView     : Association to XMLView;
+      // Tables      : Association to many Table
+      //                     on Tables.Tab = $self;
+      // Forms       : Association to many Form
+      //                     on Forms.Tab = $self;
+}
+
+entity XMLView: cuid {
+      ViewName    : String;
+      Description : String;
+      //Associations
       Tables      : Association to many Table
-                          on Tables.Tab = $self;
+                          on Tables.XMLView = $self;
       Forms       : Association to many Form
-                          on Forms.Tab = $self;
+                          on Forms.XMLView = $self;
 }
 
 entity Table : cuid {
@@ -44,7 +56,7 @@ entity Table : cuid {
       Description : String;
       // TabID: String;
       //Associations
-      Tab         : Association to Tab;
+      XMLView     : Association to XMLView;
       Columns     : Composition of many Column
                           on Columns.Table = $self;
 }
@@ -53,7 +65,7 @@ entity Form : cuid {
       Title       : String;
       Description : String;
       //Associations
-      Tab         : Association to Tab;
+      XMLView           : Association to XMLView;
       FormContainers    : Association to many FormContainer
                           on FormContainers.Form = $self;
       Layout    : Association to Layout

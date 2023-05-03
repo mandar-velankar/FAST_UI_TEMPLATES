@@ -4,6 +4,7 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
     entity CountryTemplate as projection on templates.CountryTemplate;
     @readonly entity Template as projection on templates.Template;
     entity Tab as projection on templates.Tab;
+    entity XMLView as projection on templates.XMLView;
     entity Table as projection on templates.Table;
     entity Form as projection on templates.Form;
     entity FormContainer as projection on templates.FormContainer;
