@@ -7,8 +7,8 @@
           "apiEndpoint": "https://api.cf.eu20.hana.ondemand.com",
           "org": "Bayer-FAST-DEV",
           "space": "FAST",
-          "instance": "F_TNDR_CAG_FAST_UI_TEMPLATES-db-as",
-          "key": "F_TNDR_CAG_FAST_UI_TEMPLATES-db-as-key",
+          "instance": "F_TNDR_CAG_FAST_UI_TEMPLATES-db",
+          "key": "F_TNDR_CAG_FAST_UI_TEMPLATES-db-key",
           "resolved": false
         },
         "kind": "hana",
