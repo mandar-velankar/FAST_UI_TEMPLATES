@@ -54,6 +54,7 @@ entity XMLView: cuid {
 entity Table : cuid {
       Title       : String;
       Description : String;
+      TableID     : String; // this ID will be used in the UI to do the binding
       // TabID: String;
       //Associations
       XMLView     : Association to XMLView;
@@ -64,6 +65,7 @@ entity Table : cuid {
 entity Form : cuid {
       Title       : String;
       Description : String;
+      FormID      : String; // this ID will be used in the UI to do the binding
       //Associations
       XMLView           : Association to XMLView;
       FormContainers    : Association to many FormContainer

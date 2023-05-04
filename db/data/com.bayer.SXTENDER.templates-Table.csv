@@ -1,3 +1,3 @@
-ID;TITLE;DESCRIPTION;XMLVIEW_ID
-19d02332-079c-4f2e-8a6c-6fceb1f7af6a;Tenders;Tender Master table;
-317bec97-2cf2-4c09-8ad4-dd4fdab747e1;Award Criteria;Award Criteria table;c2cbb55c-b46b-4679-aac2-81ec29c2b131
+ID;TITLE;DESCRIPTION;TABLEID;XMLVIEW_ID
+19d02332-079c-4f2e-8a6c-6fceb1f7af6a;Tenders;Tender Master table;TandersMasterTable;
+317bec97-2cf2-4c09-8ad4-dd4fdab747e1;Award Criteria;Award Criteria table;AwardCriteriaTable;c2cbb55c-b46b-4679-aac2-81ec29c2b131
