@@ -34,6 +34,7 @@
     "watch:ts": "cds-ts watch --port 4005",
     "watch:ts:hybrid": "cds bind --exec npm run watch:ts --profile hybrid",
     "watch:ts:as": "cds bind --exec npm run watch:ts --profile artiom",
+    "watch:ts:jp": "cds bind --exec npm run watch:ts --profile jorj",
     "build:cf": "npm run build:cds && npm run build:ts && npm run cleanup:ts && npm run cleanup:ts",
     "build:ts": "tsc",
     "build:cds": "cds-ts build --production",
@@ -44,6 +45,7 @@
     "deploy:sql": "cds deploy --to sqlite",
     "deploy:hana": "cds deploy --to hana --profile hybrid",
     "deploy:hana:as": "cds bind --exec cds deploy --to hana --profile artiom",
+    "deploy:hana:jp": "cds bind --exec cds deploy --to hana --profile jorj",
     "deploy": "cf deploy mta_archives/archive.mtar --retries 1"
   },
   "cds": {
