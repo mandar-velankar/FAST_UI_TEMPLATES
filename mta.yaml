@@ -82,7 +82,7 @@ resources:
       config:
         HTML5Runtime_enabled: true
         init_data:
-          instance:
+          subaccount:
             destinations:
             - Authentication: NoAuthentication
               Name: ui5
