@@ -1,2 +1,5 @@
 ID;VIEWNAME;DESCRIPTION
 c2cbb55c-b46b-4679-aac2-81ec29c2b131;BasicInformation;Tender tab BasicInformation view
+022ffcb3-f0be-41f8-8389-cb93a3d33e12;OfferProducts;Offer tab OfferProducts view
+73874523-9713-44c7-9b82-e509bdffcd09;Information;Overview tab Information view
+9f391033-a7f1-47e6-a19a-2ac7a8109368;AwardedProducts;Awards tab AwardedProducts view
