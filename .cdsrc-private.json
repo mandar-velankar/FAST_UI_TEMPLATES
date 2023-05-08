@@ -156,7 +156,7 @@
           "org": "Bayer-FAST-DEV",
           "space": "FAST",
           "instance": "F_TNDR_CAG_FAST_UI_TEMPLATES-db-jv",
-          "key": "F_TNDR_CAG_FAST_UI_TEMPLATES-db-jv-key",
+          "key": "FAST_UI_TEMPLATES-db-JV-key",
           "resolved": false
         },
         "kind": "hana",
