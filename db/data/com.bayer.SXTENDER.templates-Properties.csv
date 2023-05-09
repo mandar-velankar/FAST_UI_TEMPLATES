@@ -69,9 +69,9 @@ a9d87e5a-3048-4fba-b0ac-a90dd2f125cf;singleContainerFullSize;false;false;57a1b2e
 d7c53e38-7083-4db5-b8b4-6a1562ed48e2;enabled;false;false;388218ac-764f-46c7-8970-7d4a32492228
 8fcb4164-1864-41ab-b40d-2066e580dbbf;value;Classification;true;ba4262f5-fec0-4c8e-9ae0-8ef697040727
 57e441bf-ebe3-40af-9437-a5b1c2c5c7b2;enabled;false;false;ba4262f5-fec0-4c8e-9ae0-8ef697040727
-23563168-433e-4201-9ad1-b76c990a17d0;value;Institute/InstituteType;true;e2b51192-ad0b-482e-8a10-a2857d62fdee
+23563168-433e-4201-9ad1-b76c990a17d0;value;InstituteType;true;e2b51192-ad0b-482e-8a10-a2857d62fdee
 f01cb9d4-3cca-46f6-b324-f2524d682615;enabled;false;false;e2b51192-ad0b-482e-8a10-a2857d62fdee
-b18f5318-c2a6-4bcd-867a-33fa505eb711;value;Institute/InstituteName;true;770600d0-f46f-4aec-bda0-9cc3f4447bbf
+b18f5318-c2a6-4bcd-867a-33fa505eb711;value;InstituteName;true;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 7a87db91-5690-42ae-8a85-3277a3827436;enabled;false;false;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 605aeb34-e801-41a1-a14a-4887fdf2ffe1;value;TenderChannel;true;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 f160c720-fdbd-40fc-84dd-6b491ad947cb;enabled;false;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
