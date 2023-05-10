@@ -17,7 +17,6 @@ entity Template : cuid {
       Title           : String;
       Description     : String;
       Service         : String;
-      Entity      : String;
       // ReadEntity      : String;
       Type            : String;
       //Associations
@@ -55,6 +54,7 @@ entity Table : cuid {
       Title       : String;
       Description : String;
       TableID     : String; // this ID will be used in the UI to do the binding
+      Entity      : String;
       // TabID: String;
       //Associations
       XMLView     : Association to XMLView;
@@ -66,6 +66,7 @@ entity Form : cuid {
       Title       : String;
       Description : String;
       FormID      : String; // this ID will be used in the UI to do the binding
+      Entity      : String;
       //Associations
       XMLView           : Association to XMLView;
       FormContainers    : Association to many FormContainer
