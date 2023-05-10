@@ -1,7 +1,11 @@
 ID;TITLE;DESCRIPTION;TABLE_ID
-6db62aee-6bc2-4eb2-b190-ffcc7c1482ca;Country;Country code;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-1b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;TenderID;Tender ID;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-2b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Institute;Institute number;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+f6df5ef6-ee78-11ed-a05b-0242ac120003;Country;CountryCode;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+6db62aee-6bc2-4eb2-b190-ffcc7c1482ca;ID;TenderID;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+1b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Classification;Classification;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+94853c32-ee6c-11ed-a05b-0242ac120003;Name/Reference;TenderName;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+94853ea8-ee6c-11ed-a05b-0242ac120003;Created By;Created By;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+94853fde-ee6c-11ed-a05b-0242ac120003;Distributor;Distributor Name;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+948542d6-ee6c-11ed-a05b-0242ac120003;Institute;Institute Name;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
 3b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;OfferID;Offer ID;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
 4b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Value;Value;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
 5b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Status;Status;19d02332-079c-4f2e-8a6c-6fceb1f7af6a

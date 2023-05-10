@@ -1,13 +1,17 @@
 ID;NAME;VALUE;ISBINDING;PARENTID
-a2008c91-5385-4a0f-bb42-863fe6134272;text;CountryCode;true;0b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
-a2008c91-5385-4a0f-bb42-863fe6134273;text;TenderID;true;1b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
-a2008c91-5385-4a0f-bb42-863fe6134274;text;InstituteID;true;2b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
-a2008c91-5385-4a0f-bb42-863fe6134279;text;Offer/OfferID;true;3b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
-483ea359-a464-428a-9c91-67bc105bf88c;text;Value;true;6deba627-e830-4b36-9fbc-6c29dfeba728
-2c641042-8ded-4626-807b-6ea0cd9a536d;text;Status;true;467399a2-3404-40ad-bb0f-ad68f6fd9c98
+a2008c91-5385-4a0f-bb42-863fe6134272;text;CountryCode;true;f6df5ef6-ee78-11ed-a05b-0242ac120003
+a2008c91-5385-4a0f-bb42-863fe6134273;text;TenderID;true;0b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
+3f22361c-ee6e-11ed-a05b-0242ac120003;text;Classification;true;1b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
+3f2238ec-ee6e-11ed-a05b-0242ac120003;text;TenderName;true;94853c32-ee6c-11ed-a05b-0242ac120003
+3f223a22-ee6e-11ed-a05b-0242ac120003;text;createdBy;true;94853ea8-ee6c-11ed-a05b-0242ac120003
+3f223b3a-ee6e-11ed-a05b-0242ac120003;text;DistributorName;true;94853fde-ee6c-11ed-a05b-0242ac120003
+a2008c91-5385-4a0f-bb42-863fe6134274;text;InstituteName;true;948542d6-ee6c-11ed-a05b-0242ac120003
+a2008c91-5385-4a0f-bb42-863fe6134279;text;OfferID;true;3b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
+483ea359-a464-428a-9c91-67bc105bf88c;text;VALUE;true;6deba627-e830-4b36-9fbc-6c29dfeba728
+2c641042-8ded-4626-807b-6ea0cd9a536d;text;STATUS;true;467399a2-3404-40ad-bb0f-ad68f6fd9c98
 1e5b5258-0309-4d0d-ab8c-b8074cad5a23;text;"path: 'PublicationDate',type: 'sap.ui.model.type.Date',formatOptions: {pattern: 'yyyy-MM-dd'}";true;703838c1-2123-4250-887f-f60f2a54b381
-9e13e3b6-17a7-4ad6-844b-81943992e425;text;"path: 'BidDueDate',type: 'sap.ui.model.type.Date',formatOptions: {pattern: 'yyyy-MM-dd'}";true;4365b01b-224b-4ce6-9596-e410ab8b7c2e
-10a6d1f4-78f0-4232-904f-73578679d444;text;ClosingDate;true;62b2bc34-ef7f-4059-a3e0-a35f293b1565
+9e13e3b6-17a7-4ad6-844b-81943992e425;text;"path: 'InternalBidDueDate',type: 'sap.ui.model.type.Date',formatOptions: {pattern: 'yyyy-MM-dd'}";true;4365b01b-224b-4ce6-9596-e410ab8b7c2e
+10a6d1f4-78f0-4232-904f-73578679d444;text;"path: 'BidDueDate',type: 'sap.ui.model.type.Date',formatOptions: {pattern: 'yyyy-MM-dd'}";true;62b2bc34-ef7f-4059-a3e0-a35f293b1565
 5d6e0d79-8661-4fcb-bf58-6bb743c025ec;text;Deliveries;false;c3d0dd86-e99e-4360-b532-b0412827adac
 a2008c91-5385-4a0f-bb42-863fe6134278;value;DistributorID;true;4b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
 a2008c91-5385-4a0f-bb42-863fe6134277;value;SellingCompany;true;5b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
