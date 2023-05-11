@@ -107,3 +107,6 @@ ffdfa62d-4d70-419d-aa8f-29641e4ba487;value;"Criteria";true;aef4fd64-d7ce-414b-8a
 2471ff53-b9ce-4999-b810-326da5efa38a;enabled;false;false;aef4fd64-d7ce-414b-8ab6-95fd216b55fd
 af79c7d7-335b-4ca5-ad4b-49303aaa91b8;value;"Weight";true;99b1f1ec-c7f2-468a-8387-c305b4a61787
 6b223f25-14a6-4f5a-a9f7-ee37f7edaaa8;enabled;true;false;99b1f1ec-c7f2-468a-8387-c305b4a61787
+a810826b-e073-40ae-a30c-9e54315a6d2a;value;;false;3fe59c1a-cf7c-4a58-8fee-0a322e06e2b8
+0c4065f1-c69b-438d-a137-bc398e27b9ca;enabled;false;false;3fe59c1a-cf7c-4a58-8fee-0a322e06e2b8
+e39e973e-67dc-4ec5-9a24-e098f93dfbbf;required;true;false;3fe59c1a-cf7c-4a58-8fee-0a322e06e2b8
