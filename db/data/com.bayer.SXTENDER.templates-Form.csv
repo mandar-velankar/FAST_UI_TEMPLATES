@@ -1,5 +1,5 @@
 ID;TITLE;DESCRIPTION;FORMID;ENTITY;XMLVIEW_ID
 30d02332-079c-4f2e-8a6c-6fceb1f7af6a;"";Tender Form;TenderForm;TenderFormView;c2cbb55c-b46b-4679-aac2-81ec29c2b131
-1517f8e2-5c6d-4e9a-8788-e5ab26eba316;"";Offer;OfferForm;;
+1517f8e2-5c6d-4e9a-8788-e5ab26eba316;"";Offer;OfferForm;OfferFormView;09611301-5b74-47bf-8eb9-5769a2ee7888
 59fc54dc-8b4a-4bf3-bf11-8fd5ea37956f;"";Overview;OverviewForm;;
 40d02332-079c-4f2e-8a6c-6fceb1f7af6a;"";Awards;AwardsForm;;
