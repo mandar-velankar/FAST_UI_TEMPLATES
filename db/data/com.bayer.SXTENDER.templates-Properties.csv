@@ -105,7 +105,7 @@ cf9cf20d-1182-4d68-9f70-252dcdb101b2;columnsM;3;false;57a1b2e7-e5e5-4fda-b00f-ed
 0cd9d573-7b54-42aa-951b-aea0fee01cd0;singleContainerFullSize;false;false;57a1b2e7-e5e5-4fda-b00f-ed82d0ed5d0d
 ffdfa62d-4d70-419d-aa8f-29641e4ba487;value;"Criteria";true;aef4fd64-d7ce-414b-8ab6-95fd216b55fd
 2471ff53-b9ce-4999-b810-326da5efa38a;enabled;false;false;aef4fd64-d7ce-414b-8ab6-95fd216b55fd
-af79c7d7-335b-4ca5-ad4b-49303aaa91b8;value;"Weight";true;99b1f1ec-c7f2-468a-8387-c305b4a61787
+af79c7d7-335b-4ca5-ad4b-49303aaa91b8;value;"path: 'Weight',type: 'com.bayer.tender.statenderapp.model.datatypes.CustomPercentageType'";true;99b1f1ec-c7f2-468a-8387-c305b4a61787
 6b223f25-14a6-4f5a-a9f7-ee37f7edaaa8;enabled;true;true;99b1f1ec-c7f2-468a-8387-c305b4a61787
 1e58c4d0-5629-4f61-acf3-81eb7f434f99;columnsXL;3;false;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
 b1d2d910-2c0a-42cb-a3b5-8bfa6c001fef;columnsL;3;false;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
