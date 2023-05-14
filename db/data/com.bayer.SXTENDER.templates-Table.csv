@@ -1,3 +1,4 @@
 ID;TITLE;DESCRIPTION;TABLEID;ENTITY;XMLVIEW_ID
-19d02332-079c-4f2e-8a6c-6fceb1f7af6a;Tenders;Tender Master table;TandersMasterTable;PT_TMTEND;
-317bec97-2cf2-4c09-8ad4-dd4fdab747e1;Award Criteria;Award Criteria table;AwardCriteriaTable;AwardCriteriaTableView;c2cbb55c-b46b-4679-aac2-81ec29c2b131
+19d02332-079c-4f2e-8a6c-6fceb1f7af6a;Tenders;Tender Master table;TandersMasterTable;TenderMasterView;
+317bec97-2cf2-4c09-8ad4-dd4fdab747e1;Award Criteria;Award Criteria table;AwardCriteria;AwardCriteriaTableView;c2cbb55c-b46b-4679-aac2-81ec29c2b131
+e2974134-cdb2-4dc2-a727-10e757b167b5;Products;Offer Products table;OfferProductsTable;OfferProductsTableView;09611301-5b74-47bf-8eb9-5769a2ee7888
