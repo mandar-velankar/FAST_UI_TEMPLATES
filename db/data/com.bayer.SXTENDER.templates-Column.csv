@@ -1,21 +1,21 @@
-ID;TITLE;DESCRIPTION;TABLE_ID
-f6df5ef6-ee78-11ed-a05b-0242ac120003;Country;CountryCode;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-6db62aee-6bc2-4eb2-b190-ffcc7c1482ca;ID;TenderID;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-1b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Classification;Classification;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-94853c32-ee6c-11ed-a05b-0242ac120003;Name/Reference;TenderName;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-94853ea8-ee6c-11ed-a05b-0242ac120003;Created By;Created By;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-94853fde-ee6c-11ed-a05b-0242ac120003;Distributor;Distributor Name;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-948542d6-ee6c-11ed-a05b-0242ac120003;Institute;Institute Name;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-3b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;OfferID;Offer ID;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-4b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Value;Value;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-5b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Status;Status;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-6b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Publication Date;Publication Date;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-7b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Bid Due Date;Bid Due Date;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-8b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Closing Date;Closing Date;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-0cf3a635-adcd-4000-bad5-dd168810476f;Criteria;Award Criteria table column;317bec97-2cf2-4c09-8ad4-dd4fdab747e1
-7cf0e468-b84c-4084-b6da-346f024e3b1e;Weight;Award Criteria table column;317bec97-2cf2-4c09-8ad4-dd4fdab747e1
-fb07d926-df24-4f2e-9e2e-dce0d82be266;Product;Offer Products table column;e2974134-cdb2-4dc2-a727-10e757b167b5
-acdbc228-b424-4cba-8317-c24f022d70d2;Requested Volume;Offer Products table column;e2974134-cdb2-4dc2-a727-10e757b167b5
-efd0d1cb-3892-4a14-aa01-3d68d0372e42;UoM;Offer Products table column;e2974134-cdb2-4dc2-a727-10e757b167b5
-22dfd09d-9802-418f-a293-3f327b821f04;Net Price;Offer Products table column;e2974134-cdb2-4dc2-a727-10e757b167b5
-615afcb3-4ae2-42ec-8e3c-bd19774de40b;Total Amount;Offer Products table column;e2974134-cdb2-4dc2-a727-10e757b167b5
+ID;TITLE;DESCRIPTION;IMPORTANCE;TABLE_ID
+f6df5ef6-ee78-11ed-a05b-0242ac120003;Country;CountryCode;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+6db62aee-6bc2-4eb2-b190-ffcc7c1482ca;ID;TenderID;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+1b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Classification;Classification;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+94853c32-ee6c-11ed-a05b-0242ac120003;Name/Reference;TenderName;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+94853ea8-ee6c-11ed-a05b-0242ac120003;Created By;Created By;High;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+94853fde-ee6c-11ed-a05b-0242ac120003;Distributor;Distributor Name;Low;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+948542d6-ee6c-11ed-a05b-0242ac120003;Institute;Institute Name;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+3b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;OfferID;Offer ID;High;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+4b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Value;Value;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+5b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Status;Status;High;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+6b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Publication Date;Publication Date;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+7b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Bid Due Date;Bid Due Date;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+8b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Closing Date;Closing Date;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+0cf3a635-adcd-4000-bad5-dd168810476f;Criteria;Award Criteria table column;None;317bec97-2cf2-4c09-8ad4-dd4fdab747e1
+7cf0e468-b84c-4084-b6da-346f024e3b1e;Weight;Award Criteria table column;None;317bec97-2cf2-4c09-8ad4-dd4fdab747e1
+fb07d926-df24-4f2e-9e2e-dce0d82be266;Product;Offer Products table column;None;e2974134-cdb2-4dc2-a727-10e757b167b5
+acdbc228-b424-4cba-8317-c24f022d70d2;Requested Volume;Offer Products table column;None;e2974134-cdb2-4dc2-a727-10e757b167b5
+efd0d1cb-3892-4a14-aa01-3d68d0372e42;UoM;Offer Products table column;None;e2974134-cdb2-4dc2-a727-10e757b167b5
+22dfd09d-9802-418f-a293-3f327b821f04;Net Price;Offer Products table column;None;e2974134-cdb2-4dc2-a727-10e757b167b5
+615afcb3-4ae2-42ec-8e3c-bd19774de40b;Total Amount;Offer Products table column;None;e2974134-cdb2-4dc2-a727-10e757b167b5
