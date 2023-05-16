@@ -78,6 +78,7 @@ entity Form : cuid {
 entity Column : cuid {
       Title       : String; //todo: rename to label or header?
       Description : String; //tocheck: not needed?
+      Importance  : String;
       //Associations
       Table       : Association to Table;
       Control    : Association to Control
