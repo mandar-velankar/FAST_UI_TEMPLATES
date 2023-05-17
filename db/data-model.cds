@@ -104,8 +104,18 @@ entity Control : cuid {
       //Associations
       Properties  : Association to many Properties
                           on Properties.ParentID = ID;
+      ValueHelp   : Association to ValueHelp 
+                              on ValueHelp.ParentID = ID;
       // Calculation : Composition of many Calculation
       //                     on Calculation.Control = $self;
+}
+
+entity ValueHelp: cuid {
+      Title       : String;
+      Type        : String; // Suggestions or Simple or Complex
+      ParentID    : UUID;
+      Searchable  : Boolean;
+      Table       : Association to Table;
 }
 entity Layout : cuid {
       Type:String;
