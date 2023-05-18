@@ -148,3 +148,16 @@ ac1bd917-9010-465a-8860-a683e1b054df;singleContainerFullSize;false;false;1517f8e
 a810826b-e073-40ae-a30c-9e54315a6d2a;value;;false;3fe59c1a-cf7c-4a58-8fee-0a322e06e2b8
 0c4065f1-c69b-438d-a137-bc398e27b9ca;enabled;false;false;3fe59c1a-cf7c-4a58-8fee-0a322e06e2b8
 e39e973e-67dc-4ec5-9a24-e098f93dfbbf;required;true;false;3fe59c1a-cf7c-4a58-8fee-0a322e06e2b8
+8048a27a-f5b2-11ed-b67e-0242ac120002;labelSpanXL;3;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
+8048a626-f5b2-11ed-b67e-0242ac120002;labelSpanL;3;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
+8048a9be-f5b2-11ed-b67e-0242ac120002;labelSpanM;3;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
+8048ab30-f5b2-11ed-b67e-0242ac120002;labelSpanS;3;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
+8048acb6-f5b2-11ed-b67e-0242ac120002;adjustLabelSpan;false;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
+8048b058-f5b2-11ed-b67e-0242ac120002;emptySpanXL;0;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
+8048b198-f5b2-11ed-b67e-0242ac120002;emptySpanL;0;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
+8048b2ba-f5b2-11ed-b67e-0242ac120002;emptySpanM;0;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
+8048b42c-f5b2-11ed-b67e-0242ac120002;emptySpanS;0;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
+8048b5a8-f5b2-11ed-b67e-0242ac120002;columnsXL;3;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
+8048b8f0-f5b2-11ed-b67e-0242ac120002;columnsL;3;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
+8048ba4e-f5b2-11ed-b67e-0242ac120002;columnsM;3;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
+8048bba2-f5b2-11ed-b67e-0242ac120002;singleContainerFullSize;false;false;8ce40ef8-f5b1-11ed-b67e-0242ac120002
