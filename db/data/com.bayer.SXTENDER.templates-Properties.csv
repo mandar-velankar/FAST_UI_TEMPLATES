@@ -81,6 +81,9 @@ b18f5318-c2a6-4bcd-867a-33fa505eb711;value;InstituteName;true;770600d0-f46f-4aec
 7a87db91-5690-42ae-8a85-3277a3827436;enabled;true;true;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 605aeb34-e801-41a1-a14a-4887fdf2ffe1;value;TenderChannel;true;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 f160c720-fdbd-40fc-84dd-6b491ad947cb;enabled;true;true;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
+2debc10e-7d09-4515-bd3c-73fd83da78d0;showValueHelp;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
+5397c2a7-fcd4-4731-aefa-0d06c604f366;valueHelpOnly;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
+3128d227-eee2-4568-8ba5-52b987ec201d;id;idTenderChannel;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 40789152-781f-4185-a4c6-14237a9f75f0;value;"path :'PublicationDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true}";true;0ead9aa0-2b08-43eb-adc1-b4b020693072
 3b1e2bb4-4087-4d7a-b125-c7719600a101;enabled;true;true;0ead9aa0-2b08-43eb-adc1-b4b020693072
 4745e4c6-b107-4058-8a56-e47252e68405;value;"path :'BidDueDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true}";true;886819cc-8e97-40b2-b1b6-d00c9af0b8c0
