@@ -115,6 +115,7 @@ entity ValueHelp: cuid {
       Type        : String; // Suggestions or Simple or Complex
       ParentID    : UUID;
       Searchable  : Boolean;
+      SelectedFieldName: String; 
       Table       : Association to Table;
 }
 entity Layout : cuid {
