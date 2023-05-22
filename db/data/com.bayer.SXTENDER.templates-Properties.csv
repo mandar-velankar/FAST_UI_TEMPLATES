@@ -120,22 +120,30 @@ b1d2d910-2c0a-42cb-a3b5-8bfa6c001fef;columnsL;3;false;1517f8e2-5c6d-4e9a-8788-e5
 ee632d94-c723-4c4e-a45f-7ca16fc06f8b;columnsM;3;false;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
 29a2086f-0be3-4b81-9857-f1d0c4769c1f;value;DistributorName;true;3747e509-6f2b-4af7-929c-56b47b1657d2
 8f927feb-53e5-47f1-aac2-8bfa02e1705f;required;true;false;3747e509-6f2b-4af7-929c-56b47b1657d2
-93564ee2-c6bc-4401-b3d5-4a5782eb3b56;enabled;false;false;3747e509-6f2b-4af7-929c-56b47b1657d2
+93564ee2-c6bc-4401-b3d5-4a5782eb3b56;enabled;true;true;3747e509-6f2b-4af7-929c-56b47b1657d2
+c9e519fd-db9d-4780-b305-725b329c7c15;showValueHelp;true;false;3747e509-6f2b-4af7-929c-56b47b1657d2
+5948ac69-7121-4070-af10-1275d3f95704;valueHelpOnly;true;false;3747e509-6f2b-4af7-929c-56b47b1657d2
 7e6a222b-4c5d-45a3-a620-32c72ba768cc;value;LegalEntityName;true;a25007d5-d866-4077-a302-7ee1ee171198
 3223d3ef-6eb0-4b1b-898c-40ae23baf06a;required;true;false;a25007d5-d866-4077-a302-7ee1ee171198
 4d110d80-f40e-4f2b-8dff-7cc2177cd9ac;enabled;false;false;a25007d5-d866-4077-a302-7ee1ee171198
+88238cba-d7af-49b1-b7fc-28ab4e4fefa8;showValueHelp;true;false;a25007d5-d866-4077-a302-7ee1ee171198
+500e2671-5b25-4344-a212-c16c2433f182;valueHelpOnly;true;false;a25007d5-d866-4077-a302-7ee1ee171198
 0907e3c4-e0e0-43bd-9333-cac04dd54ae5;value;path :'InternalBidDueDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
 b5207f1b-6cff-49dd-9788-1b3f0923b090;required;true;false;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
-f505ccbc-be80-49fd-b7f8-41ae7ea350ee;enabled;false;false;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
+f505ccbc-be80-49fd-b7f8-41ae7ea350ee;enabled;true;true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
 cd123ed1-e79d-4e76-87d9-6bcf95abfc9b;value;path :'BidDueDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;6d36157e-920c-4d30-8679-1ba3a56f0a3f
 8357943e-cc4e-4167-9145-754f5725efe9;required;false;false;6d36157e-920c-4d30-8679-1ba3a56f0a3f
-58e4cc1c-9853-42da-9cf5-7c77431897f0;enabled;false;false;6d36157e-920c-4d30-8679-1ba3a56f0a3f
+58e4cc1c-9853-42da-9cf5-7c77431897f0;enabled;true;true;6d36157e-920c-4d30-8679-1ba3a56f0a3f
 5e19c59d-b8c8-4b64-94cb-b468b3c0367f;value;WholesaleOffer;true;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
 79980f03-950c-4af0-bdd4-0f8bbd3d73f2;required;true;false;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
-73cb4d53-fc9c-4877-a1b0-77ea5991ebc9;enabled;false;false;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
+73cb4d53-fc9c-4877-a1b0-77ea5991ebc9;enabled;true;true;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
+b1ab086a-9897-4376-af6a-9f32b2acbc28;showValueHelp;true;false;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
+ee1df98c-5357-418d-8215-7887ae6d572f;valueHelpOnly;true;false;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
 47fe253b-6d03-46e2-88bc-836c378eb7db;value;Division;true;422c7e8e-f3f1-11ed-a05b-0242ac120003
 a3b237f4-cbba-4b0b-890a-5e080fe4d152;required;true;false;422c7e8e-f3f1-11ed-a05b-0242ac120003
-60ec8313-1727-4d1d-9a5a-53abd9b53f7d;enabled;false;false;422c7e8e-f3f1-11ed-a05b-0242ac120003
+60ec8313-1727-4d1d-9a5a-53abd9b53f7d;enabled;true;true;422c7e8e-f3f1-11ed-a05b-0242ac120003
+c40b05e6-f25e-4719-b1c3-e7d44c2c0798;showValueHelp;true;false;422c7e8e-f3f1-11ed-a05b-0242ac120003
+c5841a2a-7571-4d52-843f-97c86e739c37;valueHelpOnly;true;false;422c7e8e-f3f1-11ed-a05b-0242ac120003
 1bb7dd1f-9dbf-41ff-994d-c649c743b033;text;ProductPackName;true;48178cc0-d512-456d-90b8-2f0ec56cf28b
 68eeb1e7-e35b-41ff-a464-97c4ffc791bf;text;RequestedVolume;true;0235e5fc-29d4-402e-8a2f-a627595cc2c8
 00f15e23-1f46-4751-bbc1-a8a1c9f2c4a8;text;UoM;true;fc876cd7-ca18-4f15-ab35-102753f62d81
@@ -167,3 +175,5 @@ a0a45cda-a9ba-40f4-896f-c74b7cad682d;showValueHelp;true;false;770600d0-f46f-4aec
 79131ab4-9bff-43b3-9502-7496b87e605f;text;InstituteID;true;a3b944f4-8d6f-42bd-a306-280ae082ffaf
 a3457473-f063-4fcb-8c82-fd73cb896cec;text;CLASSIFICATION;true;9fffda57-429f-4c9e-9412-af6305c94260
 7db0699b-3810-4e7d-a661-0c4f16c90568;text;ChannelName;true;c7cff28b-200e-474d-8c14-99c987e874d7
+f13f935d-c5c8-44b4-98b8-948cb52741b4;text;DivisionName;true;8bd3b39e-483d-427f-a955-fe5b06b36014
+627573e0-7a7c-485d-add4-df02a40b3b24;text;DivisionId;true;667f063d-4874-4cc2-8afc-27f26d529094
