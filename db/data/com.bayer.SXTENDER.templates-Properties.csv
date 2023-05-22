@@ -77,7 +77,6 @@ d7c53e38-7083-4db5-b8b4-6a1562ed48e2;enabled;true;true;388218ac-764f-46c7-8970-7
 f01cb9d4-3cca-46f6-b324-f2524d682615;enabled;true;true;e2b51192-ad0b-482e-8a10-a2857d62fdee
 01c89180-ba83-4b21-befc-749c375eaa63;showValueHelp;true;false;e2b51192-ad0b-482e-8a10-a2857d62fdee
 180c302f-616f-43da-9c21-e6b5decb5a08;valueHelpOnly;true;false;e2b51192-ad0b-482e-8a10-a2857d62fdee
-c3b5af43-7f2f-4b08-8f73-e091c2a5a565;id;idInstituteType;false;e2b51192-ad0b-482e-8a10-a2857d62fdee
 7b0fad52-5914-475c-b5f2-1a99d942c321;required;true;false;e2b51192-ad0b-482e-8a10-a2857d62fdee
 b18f5318-c2a6-4bcd-867a-33fa505eb711;value;InstituteName;true;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 7a87db91-5690-42ae-8a85-3277a3827436;enabled;true;true;770600d0-f46f-4aec-bda0-9cc3f4447bbf
@@ -85,7 +84,6 @@ b18f5318-c2a6-4bcd-867a-33fa505eb711;value;InstituteName;true;770600d0-f46f-4aec
 f160c720-fdbd-40fc-84dd-6b491ad947cb;enabled;true;true;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 2debc10e-7d09-4515-bd3c-73fd83da78d0;showValueHelp;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 5397c2a7-fcd4-4731-aefa-0d06c604f366;valueHelpOnly;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
-3128d227-eee2-4568-8ba5-52b987ec201d;id;idTenderChannel;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 124e33b9-13ac-40d7-a1d9-f2465111160b;required;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 40789152-781f-4185-a4c6-14237a9f75f0;value;path :'PublicationDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;0ead9aa0-2b08-43eb-adc1-b4b020693072
 3b1e2bb4-4087-4d7a-b125-c7719600a101;enabled;true;true;0ead9aa0-2b08-43eb-adc1-b4b020693072
@@ -159,14 +157,11 @@ ac1bd917-9010-465a-8860-a683e1b054df;singleContainerFullSize;false;false;1517f8e
 a810826b-e073-40ae-a30c-9e54315a6d2a;value;BR-23-1001;false;3fe59c1a-cf7c-4a58-8fee-0a322e06e2b8
 0c4065f1-c69b-438d-a137-bc398e27b9ca;enabled;false;false;3fe59c1a-cf7c-4a58-8fee-0a322e06e2b8
 e39e973e-67dc-4ec5-9a24-e098f93dfbbf;required;true;false;3fe59c1a-cf7c-4a58-8fee-0a322e06e2b8
-1e13a437-6eaa-4cdb-80c8-e03f4f0269d2;id;idNewTenderId;false;3fe59c1a-cf7c-4a58-8fee-0a322e06e2b8
 79140086-5357-4ae9-8c70-2edab80a5028;showValueHelp;true;false;ba4262f5-fec0-4c8e-9ae0-8ef697040727
 e6a43fc4-ef5d-40e5-8e81-eac3b3c53c5c;valueHelpOnly;true;false;ba4262f5-fec0-4c8e-9ae0-8ef697040727
-2cb4abe3-54ff-4af6-8e44-25656617b751;id;idClassification;false;ba4262f5-fec0-4c8e-9ae0-8ef697040727
 6203e16f-2793-4575-9ed8-2973baf31429;required;true;false;ba4262f5-fec0-4c8e-9ae0-8ef697040727
 a0a45cda-a9ba-40f4-896f-c74b7cad682d;showValueHelp;true;false;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 5351b562-a84d-407a-b082-6c658bda5bfa;valueHelpOnly;true;false;770600d0-f46f-4aec-bda0-9cc3f4447bbf
-42c10867-84dd-4e07-bc3c-f688314e3ed0;id;idInstituteName;false;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 12dd9684-668f-4931-86a0-1ded444044d2;required;true;false;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 9cf91d80-b6f3-4f7d-b1b6-9801b360139f;text;InstituteName;true;2a8b6876-4da5-4d7d-82e5-63b7989378ac
 79131ab4-9bff-43b3-9502-7496b87e605f;text;InstituteID;true;a3b944f4-8d6f-42bd-a306-280ae082ffaf
