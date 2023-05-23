@@ -117,6 +117,14 @@ entity ValueHelp: cuid {
       Searchable  : Boolean;
       SelectedFieldName: String; 
       Table       : Association to Table;
+      Filters     : Association to many Filter on Filters.ValueHelp = $self;
+}
+entity Filter: cuid {
+      Path        : String;
+      Operator    : String; 
+      Value1      : String;
+      Value2      : String;
+      ValueHelp   : Association to ValueHelp;
 }
 entity Layout : cuid {
       Type:String;
