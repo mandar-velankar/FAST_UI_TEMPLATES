@@ -14,4 +14,5 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
     entity Control as projection on templates.Control;
     entity Properties as projection on templates.Properties;
     entity ValueHelp as projection on templates.ValueHelp;
+    entity Filter as projection on templates.Filter;
 }
