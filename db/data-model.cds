@@ -93,6 +93,7 @@ entity FormContainer : cuid {
 }
 entity FormElement : cuid {
       Label       : String;
+      Visible     : Boolean;
       //Associations
       FormContainer         : Association to FormContainer;
       Controls    : Association to many Control
