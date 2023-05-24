@@ -78,6 +78,7 @@ entity Form : cuid {
 entity Column : cuid {
       Title       : String; //todo: rename to label or header?
       Description : String; //tocheck: not needed?
+      Importance  : String;
       //Associations
       Table       : Association to Table;
       Control    : Association to Control
@@ -103,8 +104,27 @@ entity Control : cuid {
       //Associations
       Properties  : Association to many Properties
                           on Properties.ParentID = ID;
+      ValueHelp   : Association to ValueHelp 
+                              on ValueHelp.ParentID = ID;
       // Calculation : Composition of many Calculation
       //                     on Calculation.Control = $self;
+}
+
+entity ValueHelp: cuid {
+      Title       : String;
+      Type        : String; // Suggestions or Simple or Complex
+      ParentID    : UUID;
+      Searchable  : Boolean;
+      SelectedFieldName: String; 
+      Table       : Association to Table;
+      Filters     : Association to many Filter on Filters.ValueHelp = $self;
+}
+entity Filter: cuid {
+      Path        : String;
+      Operator    : String; 
+      Value1      : String;
+      Value2      : String;
+      ValueHelp   : Association to ValueHelp;
 }
 entity Layout : cuid {
       Type:String;
