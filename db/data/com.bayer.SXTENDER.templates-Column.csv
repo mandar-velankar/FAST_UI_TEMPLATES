@@ -1,28 +1,31 @@
-ID;TITLE;DESCRIPTION;IMPORTANCE;TABLE_ID
-f6df5ef6-ee78-11ed-a05b-0242ac120003;Country;CountryCode;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-6db62aee-6bc2-4eb2-b190-ffcc7c1482ca;ID;TenderID;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-1b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Classification;Classification;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-94853c32-ee6c-11ed-a05b-0242ac120003;Name/Reference;TenderName;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-94853ea8-ee6c-11ed-a05b-0242ac120003;Created By;Created By;High;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-94853fde-ee6c-11ed-a05b-0242ac120003;Distributor;Distributor Name;Low;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-948542d6-ee6c-11ed-a05b-0242ac120003;Institute;Institute Name;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-3b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;OfferID;Offer ID;High;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-4b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Value;Value;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-5b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Status;Status;High;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-6b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Publication Date;Publication Date;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-7b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Bid Due Date;Bid Due Date;Low;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-8b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Closing Date;Closing Date;None;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
-0cf3a635-adcd-4000-bad5-dd168810476f;Criteria;Award Criteria table column;None;317bec97-2cf2-4c09-8ad4-dd4fdab747e1
-7cf0e468-b84c-4084-b6da-346f024e3b1e;Weight;Award Criteria table column;None;317bec97-2cf2-4c09-8ad4-dd4fdab747e1
-fb07d926-df24-4f2e-9e2e-dce0d82be266;Product;Offer Products table column;None;e2974134-cdb2-4dc2-a727-10e757b167b5
-acdbc228-b424-4cba-8317-c24f022d70d2;Requested Volume;Offer Products table column;None;e2974134-cdb2-4dc2-a727-10e757b167b5
-efd0d1cb-3892-4a14-aa01-3d68d0372e42;UoM;Offer Products table column;None;e2974134-cdb2-4dc2-a727-10e757b167b5
-22dfd09d-9802-418f-a293-3f327b821f04;Net Price;Offer Products table column;None;e2974134-cdb2-4dc2-a727-10e757b167b5
-615afcb3-4ae2-42ec-8e3c-bd19774de40b;Total Amount;Offer Products table column;None;e2974134-cdb2-4dc2-a727-10e757b167b5
-1811e70c-e7cb-4ae9-a29a-4135f39037fb;Institute Name;Institute Name;None;5251c092-600e-4629-ae6e-b3424ef03597
-676c61ac-32c9-4bf8-9e05-248ebf459e13;Institute ID;Institute ID;None;5251c092-600e-4629-ae6e-b3424ef03597
-16c6352a-2617-4c97-ab33-df21301b87c2;Classification;Classification;None;403ee636-e2f7-4ce0-8dfb-9323a7f1335e
-fccf196c-57b1-4be7-bb95-bf4a9cb92c3c;Institute Type;Institute Type;None;8811b856-8026-47e7-8a84-75cc0e1fa72c
-e44d324a-2433-43ef-8f75-802d84cff620;Tender Channel;Tender Channel;None;4e3f438d-be56-4ffb-8175-313d183b3c6f
-8118b2e6-c599-42e2-a83d-562166d2a9c9;Division Name;Division Name;None;0d2203db-c1e1-4a1e-86a1-34bf001ef75a
-b41dbfcb-4db2-4041-8812-0c48d4f451f3;Division ID;Division ID;None;0d2203db-c1e1-4a1e-86a1-34bf001ef75a
+ID;TITLE;DESCRIPTION;IMPORTANCE;ISVALUEHELPKEY;ISVALUEHELPTEXT;TABLE_ID
+f6df5ef6-ee78-11ed-a05b-0242ac120003;Country;CountryCode;None;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+6db62aee-6bc2-4eb2-b190-ffcc7c1482ca;ID;TenderID;None;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+1b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Classification;Classification;None;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+94853c32-ee6c-11ed-a05b-0242ac120003;Name/Reference;TenderName;None;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+94853ea8-ee6c-11ed-a05b-0242ac120003;Created By;Created By;High;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+94853fde-ee6c-11ed-a05b-0242ac120003;Distributor;Distributor Name;Low;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+948542d6-ee6c-11ed-a05b-0242ac120003;Institute;Institute Name;None;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+3b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;OfferID;Offer ID;High;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+4b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Value;Value;None;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+5b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Status;Status;High;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+6b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Publication Date;Publication Date;None;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+7b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Bid Due Date;Bid Due Date;Low;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+8b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce;Closing Date;Closing Date;None;false;false;19d02332-079c-4f2e-8a6c-6fceb1f7af6a
+0cf3a635-adcd-4000-bad5-dd168810476f;Criteria;Award Criteria table column;None;false;false;317bec97-2cf2-4c09-8ad4-dd4fdab747e1
+7cf0e468-b84c-4084-b6da-346f024e3b1e;Weight;Award Criteria table column;None;false;false;317bec97-2cf2-4c09-8ad4-dd4fdab747e1
+fb07d926-df24-4f2e-9e2e-dce0d82be266;Product;Offer Products table column;None;false;false;e2974134-cdb2-4dc2-a727-10e757b167b5
+acdbc228-b424-4cba-8317-c24f022d70d2;Requested Volume;Offer Products table column;None;false;false;e2974134-cdb2-4dc2-a727-10e757b167b5
+efd0d1cb-3892-4a14-aa01-3d68d0372e42;UoM;Offer Products table column;None;false;false;e2974134-cdb2-4dc2-a727-10e757b167b5
+22dfd09d-9802-418f-a293-3f327b821f04;Net Price;Offer Products table column;None;false;false;e2974134-cdb2-4dc2-a727-10e757b167b5
+615afcb3-4ae2-42ec-8e3c-bd19774de40b;Total Amount;Offer Products table column;None;false;false;e2974134-cdb2-4dc2-a727-10e757b167b5
+1811e70c-e7cb-4ae9-a29a-4135f39037fb;Institute Name;Institute Name;None;false;false;5251c092-600e-4629-ae6e-b3424ef03597
+676c61ac-32c9-4bf8-9e05-248ebf459e13;Institute ID;Institute ID;None;false;false;5251c092-600e-4629-ae6e-b3424ef03597
+16c6352a-2617-4c97-ab33-df21301b87c2;Classification;Classification;None;false;false;403ee636-e2f7-4ce0-8dfb-9323a7f1335e
+fccf196c-57b1-4be7-bb95-bf4a9cb92c3c;Institute Type;Institute Type;None;false;false;8811b856-8026-47e7-8a84-75cc0e1fa72c
+e44d324a-2433-43ef-8f75-802d84cff620;Tender Channel;Tender Channel;None;false;false;4e3f438d-be56-4ffb-8175-313d183b3c6f
+8118b2e6-c599-42e2-a83d-562166d2a9c9;Division Name;Division Name;None;false;true;0d2203db-c1e1-4a1e-86a1-34bf001ef75a
+b41dbfcb-4db2-4041-8812-0c48d4f451f3;Division ID;Division ID;None;true;false;0d2203db-c1e1-4a1e-86a1-34bf001ef75a
+cc65eabb-5335-41fd-89f4-61aec5a7a12a;Distributor Name;Distributor Name;None;false;false;eadae450-4d37-4cda-ae30-b45103086c7e
+a47be2b6-15b8-4777-bff2-edcd52272247;Distributor ID;Distributor ID;None;false;false;eadae450-4d37-4cda-ae30-b45103086c7e
+94234bac-98f9-49e5-8d03-c9695e5437c3;Wholesale Offer;Wholesale Offer;None;false;false;cc8cf758-5472-4c10-af22-aacee902ae30
