@@ -80,10 +80,8 @@ f01cb9d4-3cca-46f6-b324-f2524d682615;enabled;true;true;e2b51192-ad0b-482e-8a10-a
 7b0fad52-5914-475c-b5f2-1a99d942c321;required;true;false;e2b51192-ad0b-482e-8a10-a2857d62fdee
 b18f5318-c2a6-4bcd-867a-33fa505eb711;value;InstituteName;true;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 7a87db91-5690-42ae-8a85-3277a3827436;enabled;true;true;770600d0-f46f-4aec-bda0-9cc3f4447bbf
-605aeb34-e801-41a1-a14a-4887fdf2ffe1;value;TenderChannel;true;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
+605aeb34-e801-41a1-a14a-4887fdf2ffe1;selectedKey;TenderChannel;true;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 f160c720-fdbd-40fc-84dd-6b491ad947cb;enabled;true;true;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
-2debc10e-7d09-4515-bd3c-73fd83da78d0;showValueHelp;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
-5397c2a7-fcd4-4731-aefa-0d06c604f366;valueHelpOnly;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 124e33b9-13ac-40d7-a1d9-f2465111160b;required;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 40789152-781f-4185-a4c6-14237a9f75f0;value;path :'PublicationDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;0ead9aa0-2b08-43eb-adc1-b4b020693072
 3b1e2bb4-4087-4d7a-b125-c7719600a101;enabled;true;true;0ead9aa0-2b08-43eb-adc1-b4b020693072
