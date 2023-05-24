@@ -3,3 +3,6 @@ ID;TITLE;TYPE;PARENTID;SEARCHABLE;SelectedFieldName;TABLE_ID
 c4e6903d-a654-478e-bfe0-bc86c968780f;Institute Type;;e2b51192-ad0b-482e-8a10-a2857d62fdee;true;ChannelName;8811b856-8026-47e7-8a84-75cc0e1fa72c
 d620f2f1-9063-471a-9a5a-a22b9dad9fbe;Institute Name;;770600d0-f46f-4aec-bda0-9cc3f4447bbf;true;InstituteName;5251c092-600e-4629-ae6e-b3424ef03597
 71f4dcae-5768-4ee5-9cd5-fb373e61e193;Tender Channel;;a9c108ea-95f4-4219-844f-d6ea26c7b4fa;true;;4e3f438d-be56-4ffb-8175-313d183b3c6f
+f4c273bf-2911-478c-9f33-25c02a0b20a6;Division;;422c7e8e-f3f1-11ed-a05b-0242ac120003;true;Division;0d2203db-c1e1-4a1e-86a1-34bf001ef75a
+c313b385-8d17-49fa-a863-f6cf14ab5003;Distributor;;3747e509-6f2b-4af7-929c-56b47b1657d2;true;DistributorName;eadae450-4d37-4cda-ae30-b45103086c7e
+3f9e5739-c4e2-419d-b333-cff446872d53;Wholesale Offer;;0907e3c4-e0e0-43bd-9333-cac04dd54ae5;true;WholesaleOffer;
