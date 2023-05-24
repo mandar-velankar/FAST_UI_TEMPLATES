@@ -112,13 +112,14 @@ entity Control : cuid {
 }
 
 entity ValueHelp: cuid {
-      Title       : String;
-      Type        : String; // Suggestions or Simple or Complex
-      ParentID    : UUID;
-      Searchable  : Boolean;
-      SelectedFieldName: String; 
-      Table       : Association to Table;
-      Filters     : Association to many Filter on Filters.ValueHelp = $self;
+      Title             : String;
+      Type              : String; // Suggestions or Simple or Complex
+      ParentID          : UUID;
+      Searchable        : Boolean;
+      SelectedFieldName : String;  
+      SelectedFieldID   : String; // Contains the name of the ID field of the selected Entity
+      Table             : Association to Table;
+      Filters           : Association to many Filter on Filters.ValueHelp = $self;
 }
 entity Filter: cuid {
       Path        : String;

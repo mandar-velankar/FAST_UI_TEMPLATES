@@ -1,5 +1,5 @@
-ID;TITLE;TYPE;PARENTID;SEARCHABLE;SelectedFieldName;TABLE_ID
-1c08908c-2e1a-4a1b-bbfa-76569f4d75dc;Classification;;ba4262f5-fec0-4c8e-9ae0-8ef697040727;true;CLASSIFICATION;403ee636-e2f7-4ce0-8dfb-9323a7f1335e
-c4e6903d-a654-478e-bfe0-bc86c968780f;Institute Type;;e2b51192-ad0b-482e-8a10-a2857d62fdee;true;ChannelName;8811b856-8026-47e7-8a84-75cc0e1fa72c
-d620f2f1-9063-471a-9a5a-a22b9dad9fbe;Institute Name;;770600d0-f46f-4aec-bda0-9cc3f4447bbf;true;InstituteName;5251c092-600e-4629-ae6e-b3424ef03597
-71f4dcae-5768-4ee5-9cd5-fb373e61e193;Tender Channel;;a9c108ea-95f4-4219-844f-d6ea26c7b4fa;true;;4e3f438d-be56-4ffb-8175-313d183b3c6f
+ID;TITLE;TYPE;PARENTID;SEARCHABLE;SelectedFieldName;SelectedFieldID;TABLE_ID
+1c08908c-2e1a-4a1b-bbfa-76569f4d75dc;Classification;;ba4262f5-fec0-4c8e-9ae0-8ef697040727;true;CLASSIFICATION;;403ee636-e2f7-4ce0-8dfb-9323a7f1335e
+c4e6903d-a654-478e-bfe0-bc86c968780f;Institute Type;;e2b51192-ad0b-482e-8a10-a2857d62fdee;true;ChannelName;;8811b856-8026-47e7-8a84-75cc0e1fa72c
+d620f2f1-9063-471a-9a5a-a22b9dad9fbe;Institute Name;;770600d0-f46f-4aec-bda0-9cc3f4447bbf;true;InstituteName;InstituteID;5251c092-600e-4629-ae6e-b3424ef03597
+71f4dcae-5768-4ee5-9cd5-fb373e61e193;Tender Channel;;a9c108ea-95f4-4219-844f-d6ea26c7b4fa;true;;;4e3f438d-be56-4ffb-8175-313d183b3c6f
