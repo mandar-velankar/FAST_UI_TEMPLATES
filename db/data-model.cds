@@ -79,6 +79,8 @@ entity Column : cuid {
       Title       : String; //todo: rename to label or header?
       Description : String; //tocheck: not needed?
       Importance  : String;
+      IsValueHelpKey: Boolean default false; //if dropdown, specify this field is key -- if using a db entity
+      IsValueHelpText: Boolean default false; //if dropdown, specify the text here -- if using a db entity
       //Associations
       Table       : Association to Table;
       Control    : Association to Control
@@ -93,6 +95,7 @@ entity FormContainer : cuid {
 }
 entity FormElement : cuid {
       Label       : String;
+      Visible     : Boolean;
       //Associations
       FormContainer         : Association to FormContainer;
       Controls    : Association to many Control
@@ -104,8 +107,36 @@ entity Control : cuid {
       //Associations
       Properties  : Association to many Properties
                           on Properties.ParentID = ID;
+      ValueHelp   : Association to ValueHelp 
+                              on ValueHelp.ParentID = ID;
       // Calculation : Composition of many Calculation
       //                     on Calculation.Control = $self;
+}
+
+entity ValueHelp: cuid {
+      Title             : String;
+      Type              : String; // Suggestions or Simple or Complex
+      ParentID          : UUID;
+      Searchable        : Boolean;
+      SelectedFieldName : String;  
+      SelectedFieldID   : String; // Contains the name of the ID field of the selected Entity
+      Table             : Association to Table;
+      Filters           : Association to many Filter on Filters.ValueHelp = $self;
+      StaticValues : Association to many StaticValue on StaticValues.ValueHelp = $self;
+}
+entity Filter: cuid {
+      Path        : String;
+      Operator    : String; 
+      Value1      : String;
+      Value2      : String;
+      ValueHelp   : Association to ValueHelp;
+}
+
+entity StaticValue: cuid {
+      CountryCode : String(2);
+      KeyID       : String(40);
+      ValueText   : String(40);
+      ValueHelp   : Association to ValueHelp;
 }
 entity Layout : cuid {
       Type:String;

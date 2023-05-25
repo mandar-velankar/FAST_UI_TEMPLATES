@@ -2,3 +2,11 @@ ID;TITLE;DESCRIPTION;TABLEID;ENTITY;XMLVIEW_ID
 19d02332-079c-4f2e-8a6c-6fceb1f7af6a;Tenders;Tender Master table;TandersMasterTable;TenderMasterView;
 317bec97-2cf2-4c09-8ad4-dd4fdab747e1;Award Criteria;Award Criteria table;AwardCriteria;AwardCriteriaTableView;c2cbb55c-b46b-4679-aac2-81ec29c2b131
 e2974134-cdb2-4dc2-a727-10e757b167b5;Products;Offer Products table;OfferProductsTable;OfferProductsTableView;09611301-5b74-47bf-8eb9-5769a2ee7888
+403ee636-e2f7-4ce0-8dfb-9323a7f1335e;Classification;Classification Value help Table;ClassificationTable;ClassifiactionsView;
+8811b856-8026-47e7-8a84-75cc0e1fa72c;Institute Type;Institute Type Value help Table;InstituteTypeTable;CountryInstituteTypeView;
+5251c092-600e-4629-ae6e-b3424ef03597;Institutes;Institute Name Value help Table;InstituteNamesTable;InstitutesView;
+4e3f438d-be56-4ffb-8175-313d183b3c6f;Tender Channel;Tender Channel Value help Table;TenderChannelTable;;
+0d2203db-c1e1-4a1e-86a1-34bf001ef75a;Division;Division Value help Table;DivisionsTable;Divisions;
+cc8cf758-5472-4c10-af22-aacee902ae30;Wholesale Offer;Wholesale Offer Value help Table;;;
+eadae450-4d37-4cda-ae30-b45103086c7e;Distributor Name;Distributor Name Value help Table;DistributorNamesTable;MasterDistributors;
+11d63cea-11c5-400f-91a8-54b21ee6087d;Selling Company;Selling Company Value help Table;SellingCompNamesTable;CountryLegalEntity;

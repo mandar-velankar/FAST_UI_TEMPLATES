@@ -1,0 +1,6 @@
+ID;PATH;OPERATOR;VALUE1;VALUE2;VALUEHELP_ID
+d217f5ff-ec99-4951-8fce-5cf58dc043c7;"CountryCode";"EQ";"SelectedCountry";;1c08908c-2e1a-4a1b-bbfa-76569f4d75dc
+bdb0086b-e7f4-4494-b47a-ae3c582bb6ab;"CountryCode";"EQ";"SelectedCountry";;c4e6903d-a654-478e-bfe0-bc86c968780f
+f6648a92-0b81-46f8-ab0b-516ad594c27f;"InstituteType";"EQ";"InstituteType";;d620f2f1-9063-471a-9a5a-a22b9dad9fbe
+93fa64d0-3b85-4c32-873f-866cfce838f2;"CountryCode";"EQ";"SelectedCountry";;d620f2f1-9063-471a-9a5a-a22b9dad9fbe
+b175f976-2804-454b-9eaa-ffab68dd1e2;"CountryCode";"EQ";"SelectedCountry";;71f4dcae-5768-4ee5-9cd5-fb373e61e193
