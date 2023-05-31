@@ -1,5 +1,5 @@
 ID;TITLE;DESCRIPTION;SERVICE;TYPE;COUNTRYTEMPLATE_COUNTRYCODE;COUNTRYTEMPLATE_APPLICATION;COUNTRYTEMPLATE_PAGE;TABLE_ID;FORM_ID
 ba3214ff-9af8-45fb-a8cf-7a2bc2b91cf7;Table Config;Table configuration for standard tender app;sta_tender;TABLE;BR;StandardTenders;MASTER;19d02332-079c-4f2e-8a6c-6fceb1f7af6a;30d02332-079c-4f2e-8a6c-6fceb1f7af6a
-ba3214ff-9af8-45fb-a8cf-7a2bc2b91cf8;Tab Template;Tabs configuration for standard tender app;sta_tender;TABS;BR;StandardTenders;DETAIL;;
+ba3214ff-9af8-45fb-a8cf-7a2bc2b91cf8;Tab Template;Tabs configuration for standard tender app;sta_tender;TABS;BR;StandardTenders;DETAIL;;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
 ba3214ff-9af8-45fb-a8cf-7a2bc2b91cf9;Form Only Template;Demo Form Only Template;sta_tender;FORM;BR;StandardTenders;DETAIL-TAB1;;40d02332-079c-4f2e-8a6c-6fceb1f7af6a
 1256ab92-f5b0-11ed-b67e-0242ac120002;Form Config;Form Config for the Product Detail Detail Page;sta_tender;FORM;BR;StandardTenders;DETAIL-OFFERPRODUCTDETAIL;;3bbfed68-f5b0-11ed-b67e-0242ac120002
