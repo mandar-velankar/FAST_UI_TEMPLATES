@@ -7,3 +7,8 @@ f4c273bf-2911-478c-9f33-25c02a0b20a6;Division;;422c7e8e-f3f1-11ed-a05b-0242ac120
 c313b385-8d17-49fa-a863-f6cf14ab5003;Distributor;;3747e509-6f2b-4af7-929c-56b47b1657d2;true;DistributorName;;eadae450-4d37-4cda-ae30-b45103086c7e
 3f9e5739-c4e2-419d-b333-cff446872d53;Wholesale Offer;;0907e3c4-e0e0-43bd-9333-cac04dd54ae5;true;WholesaleOffer;;
 5d600683-8ca4-4e1b-a0bc-78aa5c58f80d;Selling Company;;a25007d5-d866-4077-a302-7ee1ee171198;true;LegalEntityName;;11d63cea-11c5-400f-91a8-54b21ee6087d
+b2e6d106-fe6e-11ed-be56-0242ac120002;Alternate Offer;;0de7e488-febe-11ed-be56-0242ac120002;true;AlternateOfferYN;;
+b6cda4ac-fe6e-11ed-be56-0242ac120002;Unit Per Pack;;e6dc83a0-f5b0-11ed-b67e-0242ac120002;true;UnitPerPack;;
+b9d3578c-fe6e-11ed-be56-0242ac120002;Sample;;e6dc84c2-f5b0-11ed-b67e-0242ac120002;true;SampleYN;;
+bddf5402-fe6e-11ed-be56-0242ac120002;Documents Required;;e6dc8b34-f5b0-11ed-b67e-0242ac120002;true;DocumentsRequired;;
+ed91d6f2-fecd-11ed-be56-0242ac120002;Product Included;;e6dc88f0-f5b0-11ed-b67e-0242ac120002;true;ActiveProduct;;
