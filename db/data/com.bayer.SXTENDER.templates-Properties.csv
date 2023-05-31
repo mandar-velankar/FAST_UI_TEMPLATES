@@ -195,9 +195,11 @@ f2cf2eb8-13ec-4fad-a167-c2c238b872ca;selectedKey;DistributorID;true;3747e509-6f2
 208702d8-fdd6-11ed-be56-0242ac120002;selectedKey;AlternateOfferYN;true;0de7e488-febe-11ed-be56-0242ac120002
 208704cc-fdd6-11ed-be56-0242ac120002;enabled;true;true;e6dc826a-f5b0-11ed-b67e-0242ac120002
 2087088c-fdd6-11ed-be56-0242ac120002;value;RequestedVolume;true;e6dc826a-f5b0-11ed-b67e-0242ac120002
+d51f7e52-fed8-11ed-be56-0242ac120002;required;true;true;e6dc826a-f5b0-11ed-b67e-0242ac120002
 f672fe0a-fecc-11ed-be56-0242ac120002;type;Number;false;e6dc826a-f5b0-11ed-b67e-0242ac120002
 20870a08-fdd6-11ed-be56-0242ac120002;enabled;true;true;e6dc83a0-f5b0-11ed-b67e-0242ac120002
 20870b2a-fdd6-11ed-be56-0242ac120002;selectedKey;UnitPerPack;true;e6dc83a0-f5b0-11ed-b67e-0242ac120002
+cfe76f80-fed8-11ed-be56-0242ac120002;required;true;true;e6dc83a0-f5b0-11ed-b67e-0242ac120002
 20870c38-fdd6-11ed-be56-0242ac120002;enabled;true;true;e6dc84c2-f5b0-11ed-b67e-0242ac120002
 20870d3c-fdd6-11ed-be56-0242ac120002;selectedKey;SampleYN;true;e6dc84c2-f5b0-11ed-b67e-0242ac120002
 20870e4a-fdd6-11ed-be56-0242ac120002;enabled;true;true;e6dc87c4-f5b0-11ed-b67e-0242ac120002
