@@ -126,7 +126,7 @@ ee632d94-c723-4c4e-a45f-7ca16fc06f8b;columnsM;3;false;1517f8e2-5c6d-4e9a-8788-e5
 99c9590c-a60c-4eab-bb1d-c087370330f9;minDate;path :'ui>/minDate';true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
 b5207f1b-6cff-49dd-9788-1b3f0923b090;required;true;false;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
 f505ccbc-be80-49fd-b7f8-41ae7ea350ee;enabled;true;true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
-cd123ed1-e79d-4e76-87d9-6bcf95abfc9b;value;path :'NewOfferDueDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;6d36157e-920c-4d30-8679-1ba3a56f0a3f
+cd123ed1-e79d-4e76-87d9-6bcf95abfc9b;value;path :'OfferDueDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;6d36157e-920c-4d30-8679-1ba3a56f0a3f
 8357943e-cc4e-4167-9145-754f5725efe9;required;false;false;6d36157e-920c-4d30-8679-1ba3a56f0a3f
 58e4cc1c-9853-42da-9cf5-7c77431897f0;enabled;false;true;6d36157e-920c-4d30-8679-1ba3a56f0a3f
 5e19c59d-b8c8-4b64-94cb-b468b3c0367f;selectedKey;WholesaleOffer;true;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
