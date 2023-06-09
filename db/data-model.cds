@@ -118,11 +118,14 @@ entity ValueHelp: cuid {
       Type              : String; // Suggestions or Simple or Complex
       ParentID          : UUID;
       Searchable        : Boolean;
-      SelectedFieldName : String;  
-      SelectedFieldID   : String; // Contains the name of the ID field of the selected Entity
+      SelectedField     : Array of SelectedField;
       Table             : Association to Table;
       Filters           : Association to many Filter on Filters.ValueHelp = $self;
       StaticValues : Association to many StaticValue on StaticValues.ValueHelp = $self;
+}
+type SelectedField {
+      ID          : String;  
+      Name        : String;
 }
 entity Filter: cuid {
       Path        : String;

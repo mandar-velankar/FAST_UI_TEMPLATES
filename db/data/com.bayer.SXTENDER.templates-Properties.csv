@@ -80,7 +80,7 @@ f01cb9d4-3cca-46f6-b324-f2524d682615;enabled;true;true;e2b51192-ad0b-482e-8a10-a
 7b0fad52-5914-475c-b5f2-1a99d942c321;required;true;false;e2b51192-ad0b-482e-8a10-a2857d62fdee
 b18f5318-c2a6-4bcd-867a-33fa505eb711;value;InstituteName;true;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 7a87db91-5690-42ae-8a85-3277a3827436;enabled;true;true;770600d0-f46f-4aec-bda0-9cc3f4447bbf
-605aeb34-e801-41a1-a14a-4887fdf2ffe1;selectedKey;TenderChannel;true;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
+605aeb34-e801-41a1-a14a-4887fdf2ffe1;value;TenderChannel;true;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 f160c720-fdbd-40fc-84dd-6b491ad947cb;enabled;true;true;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 124e33b9-13ac-40d7-a1d9-f2465111160b;required;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 40789152-781f-4185-a4c6-14237a9f75f0;value;path :'PublicationDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;0ead9aa0-2b08-43eb-adc1-b4b020693072
@@ -221,3 +221,6 @@ d9061b0e-fecc-11ed-be56-0242ac120002;type;Number;false;e6dc8d78-f5b0-11ed-b67e-0
 e6f58e52-fecc-11ed-be56-0242ac120002;type;Number;false;e6dc8f12-f5b0-11ed-b67e-0242ac120002
 20872222-fdd6-11ed-be56-0242ac120002;enabled;true;true;e6dc9368-f5b0-11ed-b67e-0242ac120002
 20872330-fdd6-11ed-be56-0242ac120002;value;PaymentTerms;true;e6dc9368-f5b0-11ed-b67e-0242ac120002
+296249f9-dcd4-4505-b01a-d47c584f7d0c;text;ChannelName;true;835ad6c7-983b-4a41-b735-37ef404cdd98
+cce8a13b-301e-43f5-a644-f3c91c31f2a3;showValueHelp;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
+3295196c-7afc-4aa3-8131-7c3826a12dd0;valueHelpOnly;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
