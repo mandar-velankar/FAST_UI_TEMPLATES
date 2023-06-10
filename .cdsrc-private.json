@@ -184,6 +184,43 @@
           "*": true
         }
       }
+    },
+    "[nils]": {
+      "db": {
+        "binding": {
+          "type": "cf",
+          "apiEndpoint": "https://api.cf.eu20.hana.ondemand.com",
+          "org": "Bayer-FAST-DEV",
+          "space": "FAST",
+          "instance": "F_TNDR_CAG_FAST_UI_TEMPLATES-db-NV",
+          "key": "FAST_UI_TEMPLATES-db-NV-key",
+          "resolved": false
+        },
+        "kind": "hana",
+        "vcap": {
+          "name": "db"
+        }
+      },
+      "auth": {
+        "binding": {
+          "type": "cf",
+          "apiEndpoint": "https://api.cf.eu20.hana.ondemand.com",
+          "org": "Bayer-FAST-DEV",
+          "space": "FAST",
+          "instance": "uaa_FAST",
+          "key": "key",
+          "resolved": false
+        },
+        "kind": "basic",
+        "users": {
+          "admin": {
+            "password": "admin",
+            "ID": "admin",
+            "roles": []
+          },
+          "*": true
+        }
+      }
     }
   }
 }
