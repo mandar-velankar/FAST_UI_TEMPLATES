@@ -225,7 +225,7 @@ e6f58e52-fecc-11ed-be56-0242ac120002;type;Number;false;e6dc8f12-f5b0-11ed-b67e-0
 cce8a13b-301e-43f5-a644-f3c91c31f2a3;showValueHelp;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 3295196c-7afc-4aa3-8131-7c3826a12dd0;valueHelpOnly;true;false;a9c108ea-95f4-4219-844f-d6ea26c7b4fa
 42eb7975-6b65-4313-8f86-b4f2933cd3c3;value;path :'OFFERDATE', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;27fae7e5-6869-4d52-bc6d-c9d1dbf9d3b9
-ca9bb480-572f-49d5-928b-fb6b7e302fba;enabled;true;true;27fae7e5-6869-4d52-bc6d-c9d1dbf9d3b9
+ca9bb480-572f-49d5-928b-fb6b7e302fba;enabled;false;true;27fae7e5-6869-4d52-bc6d-c9d1dbf9d3b9
 0dd0bcc5-7ab5-46cb-9621-eaf097c23bbe;value;path :'OFFERVALIDITY', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;4bc89d04-89cc-46fa-bf04-f497322a6e45
 bf331d1b-2a67-42c5-b250-345ce6972639;enabled;true;true;4bc89d04-89cc-46fa-bf04-f497322a6e45
 1a71dfb5-5cc9-43e0-a979-010a098da950;value;SHIPMENTTERMS;true;8d949f30-052e-46e7-8c2e-ae8e97479ff9
@@ -233,13 +233,13 @@ bf331d1b-2a67-42c5-b250-345ce6972639;enabled;true;true;4bc89d04-89cc-46fa-bf04-f
 8194f202-138d-4300-baee-b319840d22fc;value;PAYMENTTERMS;true;077d87ff-9148-4023-a5a9-f547240f3403
 2f0c049d-666f-4831-85fe-bec6d0b49314;enabled;false;true;077d87ff-9148-4023-a5a9-f547240f3403
 824caa7f-08bc-4c6f-9f19-45ffc25480b1;value;DELIVERYTERMS;true;01839334-aaf5-4832-86e6-051d66e6c29f
-b0ebd6cb-9a7e-4c99-8e63-5f0bd83e5c45;enabled;true;true;01839334-aaf5-4832-86e6-051d66e6c29f
+b0ebd6cb-9a7e-4c99-8e63-5f0bd83e5c45;enabled;false;true;01839334-aaf5-4832-86e6-051d66e6c29f
 451ffb5d-3fa7-43a2-ab1d-432963eb7f30;value;CUSTOM_REMARKS;true;861babf5-54d5-4362-86b7-dcdc3d61d27c
 88b3389c-4643-4376-ba06-aff04f82f591;enabled;true;true;861babf5-54d5-4362-86b7-dcdc3d61d27c
 a5493a5a-5543-47ab-af54-eb2bc1c58f2a;enabled;true;true;34ec37fe-3177-4b4e-8332-3ee43d730181
-c34d5789-bcf5-436f-a337-b487a6e100e4;selectedKey;SELLING_COMPANY_AS1_TITLEI";true;34ec37fe-3177-4b4e-8332-3ee43d730181
+c34d5789-bcf5-436f-a337-b487a6e100e4;selectedKey;SELLING_COMPANY_AS1;true;34ec37fe-3177-4b4e-8332-3ee43d730181
 67153565-67f5-4b5c-a060-5bd18593141d;enabled;true;true;13677327-988c-4f53-917a-a3581f5dc10c
-f7be00b6-bfac-456c-ab2a-d7064dea2dce;selectedKey;SELLING_COMPANY_AS2_TITLEI;true;13677327-988c-4f53-917a-a3581f5dc10c
+f7be00b6-bfac-456c-ab2a-d7064dea2dce;selectedKey;SELLING_COMPANY_AS2;true;13677327-988c-4f53-917a-a3581f5dc10c
 6a639763-0e13-4105-a881-e87ca6c81335;text;NAME;true;c31aa309-7ef8-4b08-b6c1-088f72110d99
 a2089609-4697-4196-9913-6f6de44abfb2;key;AUTHORIZED_SIGNATORY;true;c31aa309-7ef8-4b08-b6c1-088f72110d99
 d96f0c1a-f1f3-4fda-a0df-d88b64274bdd;enabled;true;true;c31aa309-7ef8-4b08-b6c1-088f72110d99
