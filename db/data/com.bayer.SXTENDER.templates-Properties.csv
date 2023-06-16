@@ -233,7 +233,7 @@ bf331d1b-2a67-42c5-b250-345ce6972639;enabled;true;true;4bc89d04-89cc-46fa-bf04-f
 8194f202-138d-4300-baee-b319840d22fc;value;PAYMENTTERMS;true;077d87ff-9148-4023-a5a9-f547240f3403
 2f0c049d-666f-4831-85fe-bec6d0b49314;enabled;false;true;077d87ff-9148-4023-a5a9-f547240f3403
 824caa7f-08bc-4c6f-9f19-45ffc25480b1;value;DELIVERYTERMS;true;01839334-aaf5-4832-86e6-051d66e6c29f
-b0ebd6cb-9a7e-4c99-8e63-5f0bd83e5c45;enabled;true;true;01839334-aaf5-4832-86e6-051d66e6c29f
+b0ebd6cb-9a7e-4c99-8e63-5f0bd83e5c45;enabled;false;true;01839334-aaf5-4832-86e6-051d66e6c29f
 451ffb5d-3fa7-43a2-ab1d-432963eb7f30;value;CUSTOM_REMARKS;true;861babf5-54d5-4362-86b7-dcdc3d61d27c
 88b3389c-4643-4376-ba06-aff04f82f591;enabled;true;true;861babf5-54d5-4362-86b7-dcdc3d61d27c
 a5493a5a-5543-47ab-af54-eb2bc1c58f2a;enabled;true;true;34ec37fe-3177-4b4e-8332-3ee43d730181
