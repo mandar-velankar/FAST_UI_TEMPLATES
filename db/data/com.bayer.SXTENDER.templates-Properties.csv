@@ -122,7 +122,7 @@ ee632d94-c723-4c4e-a45f-7ca16fc06f8b;columnsM;3;false;1517f8e2-5c6d-4e9a-8788-e5
 7e6a222b-4c5d-45a3-a620-32c72ba768cc;value;LegalEntityName;true;a25007d5-d866-4077-a302-7ee1ee171198
 3223d3ef-6eb0-4b1b-898c-40ae23baf06a;required;true;false;a25007d5-d866-4077-a302-7ee1ee171198
 4d110d80-f40e-4f2b-8dff-7cc2177cd9ac;enabled;false;false;a25007d5-d866-4077-a302-7ee1ee171198
-0907e3c4-e0e0-43bd-9333-cac04dd54ae5;value;path :'InternalBidDueDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
+3489c514-a8fa-4a35-8ab3-5d1794234bd4;value;path :'InternalBidDueDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
 99c9590c-a60c-4eab-bb1d-c087370330f9;minDate;path :'ui>/minDate';true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
 b5207f1b-6cff-49dd-9788-1b3f0923b090;required;true;false;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
 f505ccbc-be80-49fd-b7f8-41ae7ea350ee;enabled;true;true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
@@ -180,13 +180,14 @@ a0a45cda-a9ba-40f4-896f-c74b7cad682d;showValueHelp;true;false;770600d0-f46f-4aec
 a3457473-f063-4fcb-8c82-fd73cb896cec;text;CLASSIFICATION;true;9fffda57-429f-4c9e-9412-af6305c94260
 7db0699b-3810-4e7d-a661-0c4f16c90568;text;ChannelName;true;c7cff28b-200e-474d-8c14-99c987e874d7
 f13f935d-c5c8-44b4-98b8-948cb52741b4;text;DivisionName;true;8bd3b39e-483d-427f-a955-fe5b06b36014
-627573e0-7a7c-485d-add4-df02a40b3b24;text;DivisionId;true;667f063d-4874-4cc2-8afc-27f26d529094
+627573e0-7a7c-485d-add4-df02a40b3b24;key;DivisionId;true;8bd3b39e-483d-427f-a955-fe5b06b36014
 e52066d0-97e2-4676-a0ff-dbade3a06bc1;text;DistributorName;true;e29dc329-5315-419c-b3c6-28d4aad4d5e0
+5b156ffd-32d8-418b-8d30-a037b18f9a6a;key;DistributorID;true;e29dc329-5315-419c-b3c6-28d4aad4d5e0
 2c06efd6-182a-4d3f-9668-dac02faafa76;text;DistributorID;true;8d242ea4-9961-400b-a06c-6af205f71c2b
 f2cf2eb8-13ec-4fad-a167-c2c238b872ca;selectedKey;DistributorID;true;3747e509-6f2b-4af7-929c-56b47b1657d2
 0b5451c1-c294-40d7-a897-5b006d5b3629;selectedKey;SellingCompany;true;a25007d5-d866-4077-a302-7ee1ee171198
 9f6678c1-a6f9-4957-983d-beb7bddfa9d9;text;LegalEntityName;true;93a9ecf1-383c-4f85-a65b-d323bfbffea0
-909dd9e6-28c6-4507-baf2-bb27eb390949;text;LegalEntityCode;true;0809cebe-7a41-4915-a1d0-806c90da770e
+909dd9e6-28c6-4507-baf2-bb27eb390949;key;LegalEntityCode;true;93a9ecf1-383c-4f85-a65b-d323bfbffea0
 2086fb9e-fdd6-11ed-be56-0242ac120002;enabled;true;true;e6dc949e-f5b0-11ed-b67e-0242ac120002
 2086fe32-fdd6-11ed-be56-0242ac120002;value;Comment;true;e6dc949e-f5b0-11ed-b67e-0242ac120002
 2086ff7c-fdd6-11ed-be56-0242ac120002;enabled;true;true;e6dc7c48-f5b0-11ed-b67e-0242ac120002
