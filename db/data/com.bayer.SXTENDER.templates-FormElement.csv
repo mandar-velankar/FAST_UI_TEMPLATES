@@ -41,3 +41,15 @@ f22b8265-0450-4a20-ac81-eb6b8ffde153;Payment Terms;true;88d3ea8b-de60-47c1-8fdb-
 f739b97d-c23c-41f9-bda0-8b069b8d3ce1;Remarks;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
 6a2968a5-78b6-4761-b96b-b2c5dd112624;Issued By;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
 0d45ce28-2629-4be7-9253-1889d66d4e4f;Company Stamp;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
+f50eeb1e-147c-4e55-8c77-7bf4b564c358;ContractNo;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+ed920e3a-ffa7-4fba-881d-354e87bd6933;Currency;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+7a576bb7-8127-40a0-8fac-365ebddc91ae;FOC;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+a3be29f5-1063-452d-a4df-0eb0fe08a13f;UoM;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+280ac4ba-bd93-4573-9276-26f4f5430d21;Outcome;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+e0efdb1a-0049-4635-8e1d-d0c3bfb1a782;Reason;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+f3220002-8af9-4d9b-abd8-050e78dd88ec;Awarded Company;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
+a081bfa3-a938-4d40-9b69-9c72f12bb134;Awarded Price;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
+f97f33d7-c484-4549-916d-2988829252fd;Requested Volume;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
+9ad7066d-1087-4cd2-bce1-3b3c5bf56dd9;Awarded Quantity;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
+e0fade04-c328-4f1f-b103-40f78200de02;Subm. Error;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
+6ff50e8e-acfc-4b92-b75e-a46552f7db6a;Comment;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
