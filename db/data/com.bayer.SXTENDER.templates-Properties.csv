@@ -1,6 +1,6 @@
 ID;NAME;VALUE;ISBINDING;PARENTID
 a389d516-1c1c-11ee-be56-0242ac120002;enabled;true;true;31c31570-1c1a-11ee-be56-0242ac120002
-a389d7be-1c1c-11ee-be56-0242ac120002;required;true;false;31c31570-1c1a-11ee-be56-0242ac120002
+a389d7be-1c1c-11ee-be56-0242ac120002;required;false;false;31c31570-1c1a-11ee-be56-0242ac120002
 a389d8f4-1c1c-11ee-be56-0242ac120002;value;Custom_String_1;true;31c31570-1c1a-11ee-be56-0242ac120002
 a389da34-1c1c-11ee-be56-0242ac120002;enabled;true;true;734b7104-1c1a-11ee-be56-0242ac120002
 a389db74-1c1c-11ee-be56-0242ac120002;required;true;false;734b7104-1c1a-11ee-be56-0242ac120002
