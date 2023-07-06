@@ -1,4 +1,10 @@
 ID;NAME;VALUE;ISBINDING;PARENTID
+a389d516-1c1c-11ee-be56-0242ac120002;enabled;true;true;31c31570-1c1a-11ee-be56-0242ac120002
+a389d7be-1c1c-11ee-be56-0242ac120002;required;true;false;31c31570-1c1a-11ee-be56-0242ac120002
+a389d8f4-1c1c-11ee-be56-0242ac120002;value;Custom_String_1;true;31c31570-1c1a-11ee-be56-0242ac120002
+a389da34-1c1c-11ee-be56-0242ac120002;enabled;true;true;734b7104-1c1a-11ee-be56-0242ac120002
+a389db74-1c1c-11ee-be56-0242ac120002;required;true;false;734b7104-1c1a-11ee-be56-0242ac120002
+a389dca0-1c1c-11ee-be56-0242ac120002;value;SubmittedBy;true;734b7104-1c1a-11ee-be56-0242ac120002
 a2008c91-5385-4a0f-bb42-863fe6134272;text;CountryCode;true;f6df5ef6-ee78-11ed-a05b-0242ac120003
 a2008c91-5385-4a0f-bb42-863fe6134273;text;TenderID;true;0b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
 3f22361c-ee6e-11ed-a05b-0242ac120003;text;Classification;true;1b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
