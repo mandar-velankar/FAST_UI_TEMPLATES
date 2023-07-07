@@ -135,9 +135,11 @@ f505ccbc-be80-49fd-b7f8-41ae7ea350ee;enabled;true;true;9dc93bbf-cc93-427e-9eec-f
 cd123ed1-e79d-4e76-87d9-6bcf95abfc9b;value;path :'OfferDueDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;6d36157e-920c-4d30-8679-1ba3a56f0a3f
 8357943e-cc4e-4167-9145-754f5725efe9;required;false;false;6d36157e-920c-4d30-8679-1ba3a56f0a3f
 58e4cc1c-9853-42da-9cf5-7c77431897f0;enabled;false;true;6d36157e-920c-4d30-8679-1ba3a56f0a3f
-5e19c59d-b8c8-4b64-94cb-b468b3c0367f;selectedKey;WholesaleOffer;true;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
+5e19c59d-b8c8-4b64-94cb-b468b3c0367f;selectedKey;'Custom_String_1';true;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
 79980f03-950c-4af0-bdd4-0f8bbd3d73f2;required;false;false;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
 73cb4d53-fc9c-4877-a1b0-77ea5991ebc9;enabled;true;true;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
+55d16aca-1cb5-11ee-be56-0242ac120002;enabled;true;true;099ff010-1cb3-11ee-be56-0242ac120002
+55d172ea-1cb5-11ee-be56-0242ac120002;value;Comment;true;099ff010-1cb3-11ee-be56-0242ac120002
 47fe253b-6d03-46e2-88bc-836c378eb7db;selectedKey;Division;true;422c7e8e-f3f1-11ed-a05b-0242ac120003
 a3b237f4-cbba-4b0b-890a-5e080fe4d152;required;true;false;422c7e8e-f3f1-11ed-a05b-0242ac120003
 60ec8313-1727-4d1d-9a5a-53abd9b53f7d;enabled;true;true;422c7e8e-f3f1-11ed-a05b-0242ac120003
