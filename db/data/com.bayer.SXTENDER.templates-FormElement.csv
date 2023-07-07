@@ -5,7 +5,7 @@ fdbdf626-9596-4592-a315-e51ee279d383;Classification;true;50d02332-079c-4f2e-8a6c
 ae54564a-8e32-42da-9758-8dafbb94ae20;Institute Type;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
 13ebded3-e2d4-41d3-89c8-1c97dacf856d;Institute Name;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
 5d554eeb-d9d9-4b5a-8d33-99bedeb5f867;Tender Channel;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
-6c105624-1c11-11ee-be56-0242ac120002;Tender Contract;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
+6c105624-1c11-11ee-be56-0242ac120002;Tender Contact;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
 df2a781c-1c19-11ee-be56-0242ac120002;Created By;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
 22d02332-079c-4f2e-8a6c-6fceb1f7af6a;Label A;true;51d02332-079c-4f2e-8a6c-6fceb1f7af6a
 23d02332-079c-4f2e-8a6c-6fceb1f7af6a;Label B;true;51d02332-079c-4f2e-8a6c-6fceb1f7af6a
@@ -55,3 +55,8 @@ f97f33d7-c484-4549-916d-2988829252fd;Requested Volume;true;75e0b14b-ebc4-4869-85
 9ad7066d-1087-4cd2-bce1-3b3c5bf56dd9;Awarded Quantity;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
 e0fade04-c328-4f1f-b103-40f78200de02;Subm. Error;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
 6ff50e8e-acfc-4b92-b75e-a46552f7db6a;Comment;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
+bcc1554f-b0ee-4dff-b185-0f4c02a09dd2;Awarded Qty;true;65523d86-3e0d-4fd5-bbc9-f1b9451c9dd4
+3e9ea266-b319-49ea-93b4-2f8ef19356ea;UoM;true;65523d86-3e0d-4fd5-bbc9-f1b9451c9dd4
+910d83e7-7605-40bb-979f-ce2b0647936e;Reason;true;65523d86-3e0d-4fd5-bbc9-f1b9451c9dd4
+3f3dd701-4ed1-471c-ae87-99dcdd1508c8;Comments;true;5eb4f756-34d0-40ce-83e2-bc6dfb684afc
+4f69c7c9-8876-44e2-aca9-1037727bea9b;Total Awarded Value;true;5eb4f756-34d0-40ce-83e2-bc6dfb684afc
