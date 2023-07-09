@@ -1,5 +1,8 @@
 ID;VIEWNAME;DESCRIPTION
 c2cbb55c-b46b-4679-aac2-81ec29c2b131;BasicInformation;Tender tab BasicInformation view
-022ffcb3-f0be-41f8-8389-cb93a3d33e12;OfferProducts;Offer tab OfferProducts view
+09611301-5b74-47bf-8eb9-5769a2ee7888;OfferProducts;Offer tab view
 73874523-9713-44c7-9b82-e509bdffcd09;Information;Overview tab Information view
 9f391033-a7f1-47e6-a19a-2ac7a8109368;AwardedProducts;Awards tab AwardedProducts view
+8697c3f4-e6ba-4adf-81c6-f3ca8eeeb028;OfferProductsTable;Offer tab OfferProducts 
+853caca8-0fe4-4f9d-a1c2-eaa88f2b83b5;AwardedProducts;Awards Detail Detail page AwardedProducts view
+ab6b217e-a1ca-445f-990c-3e148cfdd3bb;CompetitorResults;Competitor Results Detail form view

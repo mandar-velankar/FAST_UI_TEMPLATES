@@ -11,6 +11,7 @@ build-parameters:
       commands:
         - npm install
         - npm run build:cf
+        - npx rimraf gen/db/src/gen/data
 modules:
   - name: F_TNDR_CAG_FAST_UI_TEMPLATES-srv
     type: nodejs
@@ -82,7 +83,7 @@ resources:
       config:
         HTML5Runtime_enabled: true
         init_data:
-          instance:
+          subaccount:
             destinations:
             - Authentication: NoAuthentication
               Name: ui5

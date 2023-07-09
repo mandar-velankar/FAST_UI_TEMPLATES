@@ -1,5 +1,8 @@
-ID;TITLE;DESCRIPTION;FORMID;XMLVIEW_ID
-30d02332-079c-4f2e-8a6c-6fceb1f7af6a;"";Tender Form;TenderForm;c2cbb55c-b46b-4679-aac2-81ec29c2b131
-1517f8e2-5c6d-4e9a-8788-e5ab26eba316;"";Offer;OfferForm;
-59fc54dc-8b4a-4bf3-bf11-8fd5ea37956f;"";Overview;OverviewForm;
-40d02332-079c-4f2e-8a6c-6fceb1f7af6a;"";Awards;AwardsForm;
+ID;TITLE;DESCRIPTION;FORMID;ENTITY;XMLVIEW_ID
+30d02332-079c-4f2e-8a6c-6fceb1f7af6a;;Tender Form;TenderForm;TenderFormView;c2cbb55c-b46b-4679-aac2-81ec29c2b131
+1517f8e2-5c6d-4e9a-8788-e5ab26eba316;;Offer;OfferForm;OfferFormView;09611301-5b74-47bf-8eb9-5769a2ee7888
+59fc54dc-8b4a-4bf3-bf11-8fd5ea37956f;;Overview;OverviewForm;OfferValidation;73874523-9713-44c7-9b82-e509bdffcd09
+40d02332-079c-4f2e-8a6c-6fceb1f7af6a;;Awards;AwardsForm;;
+3bbfed68-f5b0-11ed-b67e-0242ac120002;Product Info;Product;ProductForm;OfferProductsDetailView;
+ed65ccaf-5ec3-490f-a8a7-451cbae6b300;Awarded Product;Awarded Products Form;AwardedProductForm;AwardedProductFormView;853caca8-0fe4-4f9d-a1c2-eaa88f2b83b5
+af148864-a2c3-4ddd-87ec-341a10887989;Competitor Results detail;Competitor Results Form;CompetitorResultsForm;CompetitorResultsTableView;ab6b217e-a1ca-445f-990c-3e148cfdd3bb

@@ -1,4 +1,6 @@
 COUNTRYCODE;APPLICATION;PAGE
-BR;StandardTenders;MASTER
-BR;StandardTenders;DETAIL
-BR;StandardTenders;DETAIL-TAB1
+GB;StandardTenders;MASTER
+GB;StandardTenders;DETAIL
+GB;StandardTenders;DETAIL-OFFERPRODUCTDETAIL
+GB;StandardTenders;DETAIL-TAB1
+GB;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL
