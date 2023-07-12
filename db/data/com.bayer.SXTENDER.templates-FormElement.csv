@@ -36,6 +36,19 @@ e6dc8d78-f5b0-11ed-b67e-0242ac120002;Number Of Lots;true;a1985daa-f5b0-11ed-b67e
 e6dc8f12-f5b0-11ed-b67e-0242ac120002;Interval b/w Shipments[Months];true;a1985daa-f5b0-11ed-b67e-0242ac120002
 e6dc9368-f5b0-11ed-b67e-0242ac120002;Payment Term;true;a1985daa-f5b0-11ed-b67e-0242ac120002
 e6dc949e-f5b0-11ed-b67e-0242ac120002;Comment;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+33bd4c74-15d9-4e36-af87-bae612cd104e;Molecule Name;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+e7d48e2b-e33c-4cff-8f65-8d8889ad277d;Decline Comment;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+05d214c2-5f3e-490e-9254-d8619c58840f;AAH product code;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+6d4b2143-7064-45da-80c4-e4ac44538699;License number;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+a6d3871e-4a0b-440f-82ac-7b67f12e40ad;Generic Product Description;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+3b85aa9f-351b-417a-bb99-cf6556b37d50;Pharma QC updated as required;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+7350f24d-4b62-4bb7-9265-0762d22489e0;Distribution;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+f04ae9ae-6df5-4d81-b822-d048d7a691cc;EAN / GTIN - the barcode;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+69263a5f-8f60-4434-b784-d6b4611cb974;PIP code;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+5c305272-5b7d-4947-9333-c75789803418;Pack size required;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+80582963-1caa-485a-ad0e-aabdbf3cc1ab;Buffer stock holding level;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+cb6beb83-696b-4999-ae71-7ed05b0351bc;Investment;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+156c589a-ea33-425d-a78c-a631db753a64;Budgeted profitability;true;a1985daa-f5b0-11ed-b67e-0242ac120002
 e9936d83-3d3d-46a2-bcc9-580d88c0d8a0;Offer Date;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
 29e18ce6-2180-4e64-bb21-5d1e6322499c;Offer Validity;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
 7c0863e8-553f-4523-92e2-4a7764b29d4f;Shipping Terms;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345

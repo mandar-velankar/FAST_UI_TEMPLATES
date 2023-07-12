@@ -21,3 +21,5 @@ be227299-85f7-4545-a418-2f311e8324d0;Issued By;;34ec37fe-3177-4b4e-8332-3ee43d73
 79cfb750-257b-40bc-a81b-d570e8aaeaf7;Subm. Error;;aa454525-ffd3-402a-ae30-64b884b37ca8;false;"[{""ID"": """", ""Name"": """"}]";
 5fc1fc1a-b792-4b3e-9ab5-f05a41eb1c0b;UoM;;2f8e72a5-6a3a-4909-97a2-ab59afbf02ff;false;"[{""ID"": """", ""Name"": """"}]";
 10b13bf1-7196-4288-b966-530253ca761f;Reason;;7108b7eb-03c3-4f80-b800-5d6a559dc48c;false;"[{""ID"": """", ""Name"": ""TenderOutcomeReasons""}]";d317c6cd-e40f-4d90-8c00-176fcaa7caf8
+3190523d-d402-4824-ad46-7056916a7225;Pharma QC updated as required;;907a4f76-209c-11ee-be56-0242ac120002;true;"[{""ID"": """", ""Name"": ""Custom_String_1""}]";
+f913deac-c703-4471-b94f-6a1fdfbf3a70;Distribution;;907a539a-209c-11ee-be56-0242ac120002;true;"[{""ID"": """", ""Name"": ""Channel""}]";
