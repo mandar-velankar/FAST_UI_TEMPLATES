@@ -249,6 +249,10 @@ a5493a5a-5543-47ab-af54-eb2bc1c58f2a;enabled;true;true;34ec37fe-3177-4b4e-8332-3
 c34d5789-bcf5-436f-a337-b487a6e100e4;selectedKey;SELLING_COMPANY_AS1;true;34ec37fe-3177-4b4e-8332-3ee43d730181
 67153565-67f5-4b5c-a060-5bd18593141d;enabled;true;true;13677327-988c-4f53-917a-a3581f5dc10c
 f7be00b6-bfac-456c-ab2a-d7064dea2dce;selectedKey;SELLING_COMPANY_AS2;true;13677327-988c-4f53-917a-a3581f5dc10c
+f4357c9a-d4d2-447b-8903-6b746bed5432;value;path :'EffectiveDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;26041f80-a107-46a2-a5f5-40236ad5d876
+eda3d88f-6d50-4580-ae9d-35697acada86;enabled;true;true;26041f80-a107-46a2-a5f5-40236ad5d876
+ceb860a5-806b-4f63-9716-3c302c10caf8;value;path :'ExpiryDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;9909e14b-a01b-4657-b605-3d8f9e5d5855
+077be382-afb7-4ec0-8c70-9b4c95ddc73f;enabled;true;true;9909e14b-a01b-4657-b605-3d8f9e5d5855
 6a639763-0e13-4105-a881-e87ca6c81335;text;NAME;true;c31aa309-7ef8-4b08-b6c1-088f72110d99
 a2089609-4697-4196-9913-6f6de44abfb2;key;AUTHORIZED_SIGNATORY;true;c31aa309-7ef8-4b08-b6c1-088f72110d99
 d96f0c1a-f1f3-4fda-a0df-d88b64274bdd;enabled;true;true;c31aa309-7ef8-4b08-b6c1-088f72110d99
