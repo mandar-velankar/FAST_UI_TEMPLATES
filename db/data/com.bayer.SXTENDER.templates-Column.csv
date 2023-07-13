@@ -37,3 +37,5 @@ cc65eabb-5335-41fd-89f4-61aec5a7a12a;Distributor Name;Distributor Name;None;true
 35652d82-2b3c-4472-84dd-fac089145814;Currency;Currency value;None;true;true;4df2f8cd-56e3-42d6-b861-d1368ce1e11a
 3bb81433-da95-4d01-af80-2e1ca8b10373;Outcome;Outcome;None;true;true;f13dcb6c-2226-447a-8040-2d28171a6888
 c4a42cd3-6aec-4899-a2a3-339258df1af0;Reason;Reason;None;true;true;d317c6cd-e40f-4d90-8c00-176fcaa7caf8
+854f0f6a-feb5-4487-b9ec-88993bd975b7;CWID;CWID;None;true;false;41c1a54b-e070-4d89-b95f-4b1564f0120d
+a6da583c-7d58-4bfe-aa8a-d44a2ce5f953;UserName;UserName;None;false;true;41c1a54b-e070-4d89-b95f-4b1564f0120d

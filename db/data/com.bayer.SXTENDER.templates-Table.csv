@@ -19,3 +19,4 @@ c1922284-5558-46d4-877a-598b2389c4e6;Company Stamp;Company Stamp Value help tabl
 4df2f8cd-56e3-42d6-b861-d1368ce1e11a;Currency;Currency Value help table;CurrencyTable;MasterCountryCurrencies;
 f13dcb6c-2226-447a-8040-2d28171a6888;Outcome;Outcome Value help table;OutcomeTable;MasterCountryOutComes;
 d317c6cd-e40f-4d90-8c00-176fcaa7caf8;Reason;Reason Value help table;ReasonTable;MasterOutComeReasons;
+41c1a54b-e070-4d89-b95f-4b1564f0120d;Contract Owner;Contract Owner Value Help Table;ContractOwnerTable;UsersPerCountry;
