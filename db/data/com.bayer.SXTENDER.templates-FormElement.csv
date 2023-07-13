@@ -19,8 +19,9 @@ fb57e036-12cb-4abf-b006-77ef7dc5ce7e;Distributor Name;true;ec306324-e407-4b8a-a8
 a25007d5-d866-4077-a302-7ee1ee171198;Selling Company;true;ec306324-e407-4b8a-a895-93d7ccfd1dce
 981b668e-b571-4b70-b3a7-487eba861af8;Internal Due Date;true;1890158e-c275-46e1-9f3b-9fa3f3d77ce0
 6d36157e-920c-4d30-8679-1ba3a56f0a3f;Offer Due Date;true;1890158e-c275-46e1-9f3b-9fa3f3d77ce0
-fc3a7dd9-d0a4-4371-8329-49e6e5a2ca67;Wholesale Offer;true;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
 6f169d0a-92da-4da3-9ec4-77e06fa399e8;Division;true;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
+fc3a7dd9-d0a4-4371-8329-49e6e5a2ca67;Payment Term;true;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
+02ec30b2-1cae-11ee-be56-0242ac120002;Client Comment;true;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
 e6dc7c48-f5b0-11ed-b67e-0242ac120002;Reference;true;a19856f2-f5b0-11ed-b67e-0242ac120002
 e6dc812a-f5b0-11ed-b67e-0242ac120002;Alternate Offer;true;a19856f2-f5b0-11ed-b67e-0242ac120002
 e6dc826a-f5b0-11ed-b67e-0242ac120002;Requested Volume;true;a19856f2-f5b0-11ed-b67e-0242ac120002
@@ -35,6 +36,19 @@ e6dc8d78-f5b0-11ed-b67e-0242ac120002;Number Of Lots;true;a1985daa-f5b0-11ed-b67e
 e6dc8f12-f5b0-11ed-b67e-0242ac120002;Interval b/w Shipments[Months];true;a1985daa-f5b0-11ed-b67e-0242ac120002
 e6dc9368-f5b0-11ed-b67e-0242ac120002;Payment Term;true;a1985daa-f5b0-11ed-b67e-0242ac120002
 e6dc949e-f5b0-11ed-b67e-0242ac120002;Comment;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+33bd4c74-15d9-4e36-af87-bae612cd104e;Molecule Name;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+e7d48e2b-e33c-4cff-8f65-8d8889ad277d;Decline Comment;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+05d214c2-5f3e-490e-9254-d8619c58840f;AAH product code;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+6d4b2143-7064-45da-80c4-e4ac44538699;License number;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+a6d3871e-4a0b-440f-82ac-7b67f12e40ad;Generic Product Description;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+3b85aa9f-351b-417a-bb99-cf6556b37d50;Pharma QC updated as required;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+7350f24d-4b62-4bb7-9265-0762d22489e0;Distribution;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+f04ae9ae-6df5-4d81-b822-d048d7a691cc;EAN / GTIN - the barcode;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+69263a5f-8f60-4434-b784-d6b4611cb974;PIP code;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+5c305272-5b7d-4947-9333-c75789803418;Pack size required;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+80582963-1caa-485a-ad0e-aabdbf3cc1ab;Buffer stock holding level;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+cb6beb83-696b-4999-ae71-7ed05b0351bc;Investment;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+156c589a-ea33-425d-a78c-a631db753a64;Budgeted profitability;true;a1985daa-f5b0-11ed-b67e-0242ac120002
 e9936d83-3d3d-46a2-bcc9-580d88c0d8a0;Offer Date;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
 29e18ce6-2180-4e64-bb21-5d1e6322499c;Offer Validity;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
 7c0863e8-553f-4523-92e2-4a7764b29d4f;Shipping Terms;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
@@ -43,6 +57,8 @@ f22b8265-0450-4a20-ac81-eb6b8ffde153;Payment Terms;true;88d3ea8b-de60-47c1-8fdb-
 f739b97d-c23c-41f9-bda0-8b069b8d3ce1;Remarks;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
 6a2968a5-78b6-4761-b96b-b2c5dd112624;Issued By;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
 0d45ce28-2629-4be7-9253-1889d66d4e4f;Company Stamp;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
+d3b5c500-0192-4ee8-93e7-5f05bea8d45e;Contract Start Date;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
+2a226bda-d53f-48e3-9848-6f22a7752358;Contract End Date;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
 f50eeb1e-147c-4e55-8c77-7bf4b564c358;ContractNo;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
 ed920e3a-ffa7-4fba-881d-354e87bd6933;Currency;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
 7a576bb7-8127-40a0-8fac-365ebddc91ae;FOC;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
@@ -60,3 +76,7 @@ bcc1554f-b0ee-4dff-b185-0f4c02a09dd2;Awarded Qty;true;65523d86-3e0d-4fd5-bbc9-f1
 910d83e7-7605-40bb-979f-ce2b0647936e;Reason;true;65523d86-3e0d-4fd5-bbc9-f1b9451c9dd4
 3f3dd701-4ed1-471c-ae87-99dcdd1508c8;Comments;true;5eb4f756-34d0-40ce-83e2-bc6dfb684afc
 4f69c7c9-8876-44e2-aca9-1037727bea9b;Total Awarded Value;true;5eb4f756-34d0-40ce-83e2-bc6dfb684afc
+56372c65-639c-4d54-b953-3cc6f4ebd17b;Contract termination reason;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+4a1f4358-c911-407c-a704-2a10d76af3f9;Contract Owner;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+8269a298-c8d3-41c7-bbd3-54854a978ac1;% Difference to Competitor;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+47fbb0d8-bdc2-4b25-b088-a583e6b9126b;Contract termination date;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
