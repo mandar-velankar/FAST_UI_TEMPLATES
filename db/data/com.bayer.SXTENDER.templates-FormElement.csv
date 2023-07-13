@@ -22,19 +22,12 @@ a25007d5-d866-4077-a302-7ee1ee171198;Selling Company;true;ec306324-e407-4b8a-a89
 6f169d0a-92da-4da3-9ec4-77e06fa399e8;Division;true;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
 fc3a7dd9-d0a4-4371-8329-49e6e5a2ca67;Payment Term;true;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
 02ec30b2-1cae-11ee-be56-0242ac120002;Client Comment;true;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
-e6dc7c48-f5b0-11ed-b67e-0242ac120002;Reference;true;a19856f2-f5b0-11ed-b67e-0242ac120002
 e6dc812a-f5b0-11ed-b67e-0242ac120002;Alternate Offer;true;a19856f2-f5b0-11ed-b67e-0242ac120002
 e6dc826a-f5b0-11ed-b67e-0242ac120002;Requested Volume;true;a19856f2-f5b0-11ed-b67e-0242ac120002
 e6dc83a0-f5b0-11ed-b67e-0242ac120002;UoM;true;a19856f2-f5b0-11ed-b67e-0242ac120002
 e6dc84c2-f5b0-11ed-b67e-0242ac120002;Samples;true;a19856f2-f5b0-11ed-b67e-0242ac120002
-e6dc87c4-f5b0-11ed-b67e-0242ac120002;Incoterms;true;a19856f2-f5b0-11ed-b67e-0242ac120002
 e6dc88f0-f5b0-11ed-b67e-0242ac120002;Decline;true;a19856f2-f5b0-11ed-b67e-0242ac120002
 e6dc8a1c-f5b0-11ed-b67e-0242ac120002;Sample Quantity;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-e6dc8b34-f5b0-11ed-b67e-0242ac120002;Documents?;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-e6dc8c56-f5b0-11ed-b67e-0242ac120002;First Shipment(Text);true;a1985daa-f5b0-11ed-b67e-0242ac120002
-e6dc8d78-f5b0-11ed-b67e-0242ac120002;Number Of Lots;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-e6dc8f12-f5b0-11ed-b67e-0242ac120002;Interval b/w Shipments[Months];true;a1985daa-f5b0-11ed-b67e-0242ac120002
-e6dc9368-f5b0-11ed-b67e-0242ac120002;Payment Term;true;a1985daa-f5b0-11ed-b67e-0242ac120002
 e6dc949e-f5b0-11ed-b67e-0242ac120002;Comment;true;a1985daa-f5b0-11ed-b67e-0242ac120002
 33bd4c74-15d9-4e36-af87-bae612cd104e;Molecule Name;true;a1985daa-f5b0-11ed-b67e-0242ac120002
 e7d48e2b-e33c-4cff-8f65-8d8889ad277d;Decline Comment;true;a1985daa-f5b0-11ed-b67e-0242ac120002
