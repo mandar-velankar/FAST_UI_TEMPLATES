@@ -1,6 +1,6 @@
 ID;COUNTRYCODE;KEYID;VALUETEXT;VALUEHELP_ID
-111efd13-e1c5-4352-9bfd-aa89b25e6ac6;GB;No;No;3f9e5739-c4e2-419d-b333-cff446872d53
-df81e530-bb77-48f0-8b01-c60bf191cfc5;GB;Yes;Yes;3f9e5739-c4e2-419d-b333-cff446872d53
+111efd13-e1c5-4352-9bfd-aa89b25e6ac6;GB;1;20 days from month end of invoice;3f9e5739-c4e2-419d-b333-cff446872d53
+df81e530-bb77-48f0-8b01-c60bf191cfc5;GB;2;NHS - 30 days from day of invoice;3f9e5739-c4e2-419d-b333-cff446872d53
 7aff504b-052e-43f6-a7b5-89734d7e4ade;;;;71f4dcae-5768-4ee5-9cd5-fb373e61e193
 20cd44a2-fe6f-11ed-be56-0242ac120002;;;;b2e6d106-fe6e-11ed-be56-0242ac120002
 23b45ed0-fe6f-11ed-be56-0242ac120002;;No;No;b2e6d106-fe6e-11ed-be56-0242ac120002
@@ -23,3 +23,9 @@ ca6a57ca-d9d2-45b2-9dda-60d9b179fb66;;Pack;Pack;1ebc2043-fe3f-49e4-8042-faf7c558
 dfcbd489-e1c5-4e47-a172-5b37a1e50a82;;;;5fc1fc1a-b792-4b3e-9ab5-f05a41eb1c0b
 acd54fbb-60da-4199-b881-8f6cbf5645ff;;Unit;Unit;5fc1fc1a-b792-4b3e-9ab5-f05a41eb1c0b
 c8d779fc-436b-4086-b112-bed5a6d03a60;;Pack;Pack;5fc1fc1a-b792-4b3e-9ab5-f05a41eb1c0b
+6bef6d5a-816c-4135-b60e-527e50579328;;;;3190523d-d402-4824-ad46-7056916a7225
+5cb2d011-2663-451c-980e-118a9a9e29ac;;No;No;3190523d-d402-4824-ad46-7056916a7225
+5db33e3f-5e47-4cf9-8e1b-eb32ce3ac347;;Yes;Yes;3190523d-d402-4824-ad46-7056916a7225
+bd46db7c-0878-484b-8dad-d891b675fc86;;;;f913deac-c703-4471-b94f-6a1fdfbf3a70
+7df2804f-ce54-4a20-9dde-3502ef705e0e;;1;Bayer;f913deac-c703-4471-b94f-6a1fdfbf3a70
+778fc652-d300-4cc9-929c-c7b967541cbe;;2;Distributor;f913deac-c703-4471-b94f-6a1fdfbf3a70

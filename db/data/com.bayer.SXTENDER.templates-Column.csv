@@ -26,7 +26,7 @@ fccf196c-57b1-4be7-bb95-bf4a9cb92c3c;Institute Type;Institute Type;None;false;fa
 e44d324a-2433-43ef-8f75-802d84cff620;Tender Channel;Tender Channel;None;false;false;4e3f438d-be56-4ffb-8175-313d183b3c6f
 8118b2e6-c599-42e2-a83d-562166d2a9c9;Division Name;Division Name;None;true;true;0d2203db-c1e1-4a1e-86a1-34bf001ef75a
 cc65eabb-5335-41fd-89f4-61aec5a7a12a;Distributor Name;Distributor Name;None;true;true;eadae450-4d37-4cda-ae30-b45103086c7e
-94234bac-98f9-49e5-8d03-c9695e5437c3;Wholesale Offer;Wholesale Offer;None;false;false;cc8cf758-5472-4c10-af22-aacee902ae30
+94234bac-98f9-49e5-8d03-c9695e5437c3;Payment Terms;Payment Terms;None;false;false;cc8cf758-5472-4c10-af22-aacee902ae30
 66cbc6cf-304f-4310-ad9d-10a63ee6ebba;Selling Company Name;Selling Company Name;None;true;true;11d63cea-11c5-400f-91a8-54b21ee6087d
 6c7c52dc-fe72-11ed-be56-0242ac120002;Alternate Offer;Alternate Offer;None;false;false;c7c3fad8-fe71-11ed-be56-0242ac120002
 6faf04cc-fe72-11ed-be56-0242ac120002;Unit Per Pack;Unit Per Pack;None;false;false;cb318ea6-fe71-11ed-be56-0242ac120002
@@ -37,3 +37,5 @@ cc65eabb-5335-41fd-89f4-61aec5a7a12a;Distributor Name;Distributor Name;None;true
 35652d82-2b3c-4472-84dd-fac089145814;Currency;Currency value;None;true;true;4df2f8cd-56e3-42d6-b861-d1368ce1e11a
 3bb81433-da95-4d01-af80-2e1ca8b10373;Outcome;Outcome;None;true;true;f13dcb6c-2226-447a-8040-2d28171a6888
 c4a42cd3-6aec-4899-a2a3-339258df1af0;Reason;Reason;None;true;true;d317c6cd-e40f-4d90-8c00-176fcaa7caf8
+854f0f6a-feb5-4487-b9ec-88993bd975b7;CWID;CWID;None;true;false;41c1a54b-e070-4d89-b95f-4b1564f0120d
+a6da583c-7d58-4bfe-aa8a-d44a2ce5f953;UserName;UserName;None;false;true;41c1a54b-e070-4d89-b95f-4b1564f0120d
