@@ -386,3 +386,6 @@ f28f3e3a-6d85-4540-a97c-87cc72712108;enabled;true;true;82ecb218-14a7-4e21-be83-8
 87de0386-0a72-4771-ac1e-cc77213bef09;required;false;false;82ecb218-14a7-4e21-be83-8bdf8555811f
 c7c33c29-18a2-43b7-98b3-a7ec8d63b9d2;key;CWID;true;ed89d137-09eb-4a00-8b4d-84fc810e6631
 ab5e767d-6a0a-4b46-a3d2-26d399882a22;text;UserName;true;7ed33f70-a7b6-43f1-b6fa-51b74abd9baa
+ca96bfec-a571-4a61-90ef-3659c4f96cc1;selectedKey;Currency;true;0b8abd2f-7b58-4146-a1f2-2ac6a85c60c4
+a72f90bd-09cb-4838-85f4-6e0db2c282a4;enabled;true;true;0b8abd2f-7b58-4146-a1f2-2ac6a85c60c4
+872db911-1710-4d64-bd00-8b69c9f1c955;required;true;false;0b8abd2f-7b58-4146-a1f2-2ac6a85c60c4
