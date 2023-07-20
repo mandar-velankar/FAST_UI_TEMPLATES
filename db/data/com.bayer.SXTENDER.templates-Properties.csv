@@ -146,8 +146,8 @@ a3b237f4-cbba-4b0b-890a-5e080fe4d152;required;true;false;422c7e8e-f3f1-11ed-a05b
 1bb7dd1f-9dbf-41ff-994d-c649c743b033;text;ProductPackName;true;48178cc0-d512-456d-90b8-2f0ec56cf28b
 68eeb1e7-e35b-41ff-a464-97c4ffc791bf;text;RequestedVolume;true;0235e5fc-29d4-402e-8a2f-a627595cc2c8
 00f15e23-1f46-4751-bbc1-a8a1c9f2c4a8;text;UoM;true;fc876cd7-ca18-4f15-ab35-102753f62d81
-249a8410-9f67-4d7c-bbd2-b4cb8fe73cf4;text;parts: ['NetPrice', 'ui>/currency'], type: 'sap.ui.model.type.Currency', formatOptions: { showMeasure: false, preserveDecimals: false};true;46af4d4d-4631-4f95-aa6d-26fbf4aa1568
-dfb154fb-ce93-4d58-9099-703d95d928e2;text;parts: ['TotalAmount', 'ui>/currency'], type: 'sap.ui.model.type.Currency', formatOptions: { showMeasure: false, preserveDecimals: false};true;6b01d2dd-4995-44d1-bbb7-f524f6d46387
+249a8410-9f67-4d7c-bbd2-b4cb8fe73cf4;text;parts: ['NetPrice', 'Currency'], type: 'sap.ui.model.type.Currency', formatOptions: { showMeasure: true, preserveDecimals: false};true;46af4d4d-4631-4f95-aa6d-26fbf4aa1568
+dfb154fb-ce93-4d58-9099-703d95d928e2;text;parts: ['TotalAmount', 'Currency'], type: 'sap.ui.model.type.Currency', formatOptions: { showMeasure: true, preserveDecimals: false};true;6b01d2dd-4995-44d1-bbb7-f524f6d46387
 a5fa7454-df3f-41d8-9d91-4ae2b5a5516c;labelSpanXL;12;false;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
 adb6114a-9249-47ff-8695-872928cc6f9c;labelSpanL;12;false;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
 de27c4e9-bac4-4eff-8c24-babb022a13ea;labelSpanM;12;false;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
