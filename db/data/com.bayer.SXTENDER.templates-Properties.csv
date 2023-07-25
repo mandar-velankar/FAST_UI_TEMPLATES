@@ -136,7 +136,7 @@ cd123ed1-e79d-4e76-87d9-6bcf95abfc9b;value;path :'OfferDueDate', type: 'sap.ui.m
 8357943e-cc4e-4167-9145-754f5725efe9;required;false;false;6d36157e-920c-4d30-8679-1ba3a56f0a3f
 58e4cc1c-9853-42da-9cf5-7c77431897f0;enabled;false;true;6d36157e-920c-4d30-8679-1ba3a56f0a3f
 5e19c59d-b8c8-4b64-94cb-b468b3c0367f;selectedKey;Custom_String_1;true;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
-79980f03-950c-4af0-bdd4-0f8bbd3d73f2;required;false;false;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
+79980f03-950c-4af0-bdd4-0f8bbd3d73f2;required;true;false;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
 73cb4d53-fc9c-4877-a1b0-77ea5991ebc9;enabled;true;true;0907e3c4-e0e0-43bd-9333-cac04dd54ae5
 55d16aca-1cb5-11ee-be56-0242ac120002;enabled;true;true;099ff010-1cb3-11ee-be56-0242ac120002
 55d172ea-1cb5-11ee-be56-0242ac120002;value;Comment;true;099ff010-1cb3-11ee-be56-0242ac120002
