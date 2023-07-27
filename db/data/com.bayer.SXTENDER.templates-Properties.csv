@@ -357,7 +357,7 @@ d3e5f07a-137a-4351-8ddd-5b58a21021aa;enabled;false;true;907a54e4-209c-11ee-be56-
 4ff8dc51-ab2a-4111-8f84-97b863470c36;value;Code3;true;907a561a-209c-11ee-be56-0242ac120002
 dfa9b2a2-1363-47ca-bc34-d40b60a17477;required;true;false;907a561a-209c-11ee-be56-0242ac120002
 41acdd47-ea9b-4a97-a4d9-483e7374f15b;enabled;true;true;907a5750-209c-11ee-be56-0242ac120002
-a75e9892-2478-4daa-80de-5ba9272ea27b;value;Custom_Integer_1;true;907a5750-209c-11ee-be56-0242ac120002
+a75e9892-2478-4daa-80de-5ba9272ea27b;value;path:'Custom_Integer_1',type:'com.bayer.tender.statenderapp.model.datatypes.CustomNumberType';true;907a5750-209c-11ee-be56-0242ac120002
 a8c7586f-5893-40ab-ae2e-54615d3c1b76;required;true;false;907a5750-209c-11ee-be56-0242ac120002
 d2485219-cf94-4ab2-b255-f9829566725d;type;Number;false;907a5750-209c-11ee-be56-0242ac120002
 989669a6-c070-4244-b8ba-377a7c6a793e;enabled;true;true;907a5886-209c-11ee-be56-0242ac120002
