@@ -379,3 +379,27 @@ ab5e767d-6a0a-4b46-a3d2-26d399882a22;text;UserName;true;7ed33f70-a7b6-43f1-b6fa-
 ca96bfec-a571-4a61-90ef-3659c4f96cc1;selectedKey;Currency;true;0b8abd2f-7b58-4146-a1f2-2ac6a85c60c4
 a72f90bd-09cb-4838-85f4-6e0db2c282a4;enabled;true;true;0b8abd2f-7b58-4146-a1f2-2ac6a85c60c4
 872db911-1710-4d64-bd00-8b69c9f1c955;required;true;false;0b8abd2f-7b58-4146-a1f2-2ac6a85c60c4
+e7cc0f30-31e0-11ee-be56-0242ac120002;value;path :'ActualDeliveryDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;b5fc5f56-31df-11ee-be56-0242ac120002
+e7cc12e6-31e0-11ee-be56-0242ac120002;enabled;false;true;b5fc5f56-31df-11ee-be56-0242ac120002
+258fd0ea-31e1-11ee-be56-0242ac120002;enabled;true;true;b5fc6294-31df-11ee-be56-0242ac120002
+258fd55e-31e1-11ee-be56-0242ac120002;value;ActualDeliveryQuantity;true;b5fc6294-31df-11ee-be56-0242ac120002
+258fd7ac-31e1-11ee-be56-0242ac120002;required;false;false;b5fc6294-31df-11ee-be56-0242ac120002
+7bd7a3b0-31e1-11ee-be56-0242ac120002;enabled;true;true;b5fc6424-31df-11ee-be56-0242ac120002
+7bd7a6f8-31e1-11ee-be56-0242ac120002;value;PO;true;b5fc6424-31df-11ee-be56-0242ac120002
+7bd7ab58-31e1-11ee-be56-0242ac120002;required;false;false;b5fc6424-31df-11ee-be56-0242ac120002
+a466cb44-31e1-11ee-be56-0242ac120002;enabled;true;true;b5fc65f0-31df-11ee-be56-0242ac120002
+a466cec8-31e1-11ee-be56-0242ac120002;value;InvoiceNo;true;b5fc65f0-31df-11ee-be56-0242ac120002
+a466d080-31e1-11ee-be56-0242ac120002;required;false;false;b5fc65f0-31df-11ee-be56-0242ac120002
+a6058fbc-31e6-11ee-be56-0242ac120002;labelSpanXL;3;false;73031aae-31e5-11ee-be56-0242ac120002
+a605939a-31e6-11ee-be56-0242ac120002;labelSpanL;3;false;73031aae-31e5-11ee-be56-0242ac120002
+a6059778-31e6-11ee-be56-0242ac120002;labelSpanM;3;false;73031aae-31e5-11ee-be56-0242ac120002
+a60599a8-31e6-11ee-be56-0242ac120002;labelSpanS;3;false;73031aae-31e5-11ee-be56-0242ac120002
+a6059d36-31e6-11ee-be56-0242ac120002;adjustLabelSpan;false;false;73031aae-31e5-11ee-be56-0242ac120002
+a6059ff2-31e6-11ee-be56-0242ac120002;emptySpanXL;0;false;73031aae-31e5-11ee-be56-0242ac120002
+a605a128-31e6-11ee-be56-0242ac120002;emptySpanL;0;false;73031aae-31e5-11ee-be56-0242ac120002
+a605a24a-31e6-11ee-be56-0242ac120002;emptySpanM;0;false;73031aae-31e5-11ee-be56-0242ac120002
+a605a376-31e6-11ee-be56-0242ac120002;emptySpanS;0;false;73031aae-31e5-11ee-be56-0242ac120002
+a605a4de-31e6-11ee-be56-0242ac120002;columnsXL;1;false;73031aae-31e5-11ee-be56-0242ac120002
+a605ac4a-31e6-11ee-be56-0242ac120002;columnsL;1;false;73031aae-31e5-11ee-be56-0242ac120002
+a605adb2-31e6-11ee-be56-0242ac120002;columnsM;1;false;73031aae-31e5-11ee-be56-0242ac120002
+a605aeca-31e6-11ee-be56-0242ac120002;singleContainerFullSize;false;false;73031aae-31e5-11ee-be56-0242ac120002
