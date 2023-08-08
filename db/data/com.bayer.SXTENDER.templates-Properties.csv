@@ -217,7 +217,7 @@ cfe76f80-fed8-11ed-be56-0242ac120002;required;true;false;e6dc83a0-f5b0-11ed-b67e
 20871084-fdd6-11ed-be56-0242ac120002;enabled;true;true;e6dc88f0-f5b0-11ed-b67e-0242ac120002
 20871336-fdd6-11ed-be56-0242ac120002;selectedKey;ActiveProduct;true;e6dc88f0-f5b0-11ed-b67e-0242ac120002
 107c08b2-f595-487b-a0ad-26d29bb6614f;required;true;false;e6dc88f0-f5b0-11ed-b67e-0242ac120002
-20871458-fdd6-11ed-be56-0242ac120002;enabled;true;true;e6dc8a1c-f5b0-11ed-b67e-0242ac120002
+20871458-fdd6-11ed-be56-0242ac120002;enabled;false;true;e6dc8a1c-f5b0-11ed-b67e-0242ac120002
 20871566-fdd6-11ed-be56-0242ac120002;value;SampleQuantity;true;e6dc8a1c-f5b0-11ed-b67e-0242ac120002
 e2c43e36-fec8-11ed-be56-0242ac120002;type;Number;false;e6dc8a1c-f5b0-11ed-b67e-0242ac120002
 20871674-fdd6-11ed-be56-0242ac120002;enabled;true;true;e6dc8b34-f5b0-11ed-b67e-0242ac120002
@@ -325,7 +325,7 @@ a8969164-140e-43e9-ba92-7fa368102dcc;value;COMMENT;true;a62317bf-0a88-421c-a64e-
 d2a063a0-20a5-11ee-be56-0242ac120002;enabled;false;true;907a459e-209c-11ee-be56-0242ac120002
 6abfd167-4671-4a13-8e9a-0b9507669e92;value;MoleculeName;true;907a459e-209c-11ee-be56-0242ac120002
 528457f4-4031-4751-86db-ded0b4328a8f;required;true;false;907a459e-209c-11ee-be56-0242ac120002
-e63049e0-a46f-4fee-9a00-b7fe1a30f6e6;enabled;true;true;907a4a80-209c-11ee-be56-0242ac120002
+e63049e0-a46f-4fee-9a00-b7fe1a30f6e6;enabled;false;true;907a4a80-209c-11ee-be56-0242ac120002
 f0bb4ff8-bb29-4a98-941f-cf47b94056c8;value;Comment;true;907a4a80-209c-11ee-be56-0242ac120002
 80b38744-d713-49ae-a3ec-6cd9eb9f566e;required;false;false;907a4a80-209c-11ee-be56-0242ac120002
 96974d98-48d5-4b1c-a334-280efb88a6d5;enabled;false;true;907a4bd4-209c-11ee-be56-0242ac120002
