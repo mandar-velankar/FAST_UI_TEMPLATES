@@ -130,6 +130,7 @@ ee632d94-c723-4c4e-a45f-7ca16fc06f8b;columnsM;3;false;1517f8e2-5c6d-4e9a-8788-e5
 4d110d80-f40e-4f2b-8dff-7cc2177cd9ac;enabled;false;false;a25007d5-d866-4077-a302-7ee1ee171198
 3489c514-a8fa-4a35-8ab3-5d1794234bd4;value;path :'InternalBidDueDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
 99c9590c-a60c-4eab-bb1d-c087370330f9;minDate;path :'ui>/minDate';true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
+0245166f-2ee1-47bb-ab4c-ad7424147ede;maxDate;path :'OfferDueDate';true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
 b5207f1b-6cff-49dd-9788-1b3f0923b090;required;true;false;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
 f505ccbc-be80-49fd-b7f8-41ae7ea350ee;enabled;true;true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
 cd123ed1-e79d-4e76-87d9-6bcf95abfc9b;value;path :'OfferDueDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;6d36157e-920c-4d30-8679-1ba3a56f0a3f
