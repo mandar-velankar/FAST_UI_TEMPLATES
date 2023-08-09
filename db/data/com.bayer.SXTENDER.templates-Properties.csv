@@ -239,7 +239,7 @@ cce8a13b-301e-43f5-a644-f3c91c31f2a3;showValueHelp;true;false;a9c108ea-95f4-4219
 ca9bb480-572f-49d5-928b-fb6b7e302fba;enabled;false;true;27fae7e5-6869-4d52-bc6d-c9d1dbf9d3b9
 0dd0bcc5-7ab5-46cb-9621-eaf097c23bbe;value;path :'OFFERVALIDITY', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;4bc89d04-89cc-46fa-bf04-f497322a6e45
 bf331d1b-2a67-42c5-b250-345ce6972639;enabled;true;true;4bc89d04-89cc-46fa-bf04-f497322a6e45
-8194f202-138d-4300-baee-b319840d22fc;value;PAYMENTTERMS;true;077d87ff-9148-4023-a5a9-f547240f3403
+8194f202-138d-4300-baee-b319840d22fc;selectedKey;PAYMENTTERMS;true;077d87ff-9148-4023-a5a9-f547240f3403
 2f0c049d-666f-4831-85fe-bec6d0b49314;enabled;false;true;077d87ff-9148-4023-a5a9-f547240f3403
 451ffb5d-3fa7-43a2-ab1d-432963eb7f30;value;CUSTOM_REMARKS;true;861babf5-54d5-4362-86b7-dcdc3d61d27c
 88b3389c-4643-4376-ba06-aff04f82f591;enabled;true;true;861babf5-54d5-4362-86b7-dcdc3d61d27c
