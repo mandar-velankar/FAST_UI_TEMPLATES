@@ -11,7 +11,7 @@ b2e6d106-fe6e-11ed-be56-0242ac120002;Alternate Offer;;0de7e488-febe-11ed-be56-02
 b6cda4ac-fe6e-11ed-be56-0242ac120002;Unit Per Pack;;e6dc83a0-f5b0-11ed-b67e-0242ac120002;true;"[{""ID"": """", ""Name"": ""UnitPerPack""}]";
 b9d3578c-fe6e-11ed-be56-0242ac120002;Sample;;e6dc84c2-f5b0-11ed-b67e-0242ac120002;true;"[{""ID"": """", ""Name"": ""SampleYN""}]";
 bddf5402-fe6e-11ed-be56-0242ac120002;Documents Required;;e6dc8b34-f5b0-11ed-b67e-0242ac120002;true;"[{""ID"": """", ""Name"": ""DocumentsRequired""}]";
-ed91d6f2-fecd-11ed-be56-0242ac120002;Product Included;;e6dc88f0-f5b0-11ed-b67e-0242ac120002;true;"[{""ID"": """", ""Name"": ""ActiveProduct""}]";
+ed91d6f2-fecd-11ed-be56-0242ac120002;ProductIncluded;;e6dc88f0-f5b0-11ed-b67e-0242ac120002;true;"[{""ID"": """", ""Name"": ""ActiveProduct""}]";
 be227299-85f7-4545-a418-2f311e8324d0;Issued By;;34ec37fe-3177-4b4e-8332-3ee43d730181;true;"[{""ID"": """", ""Name"": ""NAME""}]";c69b96d6-974c-493c-959e-28f3ec003e0f
 3e7a4f25-fb1e-4e5d-b83a-de6e09568141;Company Stamp;;13677327-988c-4f53-917a-a3581f5dc10c;true;"[{""ID"": """", ""Name"": ""NAME""}]";c1922284-5558-46d4-877a-598b2389c4e6
 039ce350-3297-446d-8fc2-b2cb0dbfd4f7;Currency;;d97f8619-c3a5-423d-9498-b39179647266;false;"[{""ID"": """", ""Name"": """"}]";4df2f8cd-56e3-42d6-b861-d1368ce1e11a
