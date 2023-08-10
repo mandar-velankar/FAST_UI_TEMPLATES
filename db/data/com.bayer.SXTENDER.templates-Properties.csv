@@ -9,7 +9,7 @@ a2008c91-5385-4a0f-bb42-863fe6134272;text;CountryCode;true;f6df5ef6-ee78-11ed-a0
 a2008c91-5385-4a0f-bb42-863fe6134273;text;TenderID;true;0b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
 3f22361c-ee6e-11ed-a05b-0242ac120003;text;Classification;true;1b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
 3f2238ec-ee6e-11ed-a05b-0242ac120003;text;TenderName;true;94853c32-ee6c-11ed-a05b-0242ac120003
-3f223a22-ee6e-11ed-a05b-0242ac120003;text;createdBy;true;94853ea8-ee6c-11ed-a05b-0242ac120003
+3f223a22-ee6e-11ed-a05b-0242ac120003;text;createdByName;true;94853ea8-ee6c-11ed-a05b-0242ac120003
 3f223b3a-ee6e-11ed-a05b-0242ac120003;text;DistributorName;true;94853fde-ee6c-11ed-a05b-0242ac120003
 a2008c91-5385-4a0f-bb42-863fe6134274;text;InstituteName;true;948542d6-ee6c-11ed-a05b-0242ac120003
 a2008c91-5385-4a0f-bb42-863fe6134279;text;OfferID;true;3b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
