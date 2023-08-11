@@ -13,7 +13,7 @@ a2008c91-5385-4a0f-bb42-863fe6134273;text;TenderID;true;0b3f9c9d-1704-4dc2-9ad3-
 3f223b3a-ee6e-11ed-a05b-0242ac120003;text;DistributorName;true;94853fde-ee6c-11ed-a05b-0242ac120003
 a2008c91-5385-4a0f-bb42-863fe6134274;text;InstituteName;true;948542d6-ee6c-11ed-a05b-0242ac120003
 a2008c91-5385-4a0f-bb42-863fe6134279;text;OfferID;true;3b3f9c9d-1704-4dc2-9ad3-7e2a8bbc70ce
-483ea359-a464-428a-9c91-67bc105bf88c;text;VALUE;true;6deba627-e830-4b36-9fbc-6c29dfeba728
+483ea359-a464-428a-9c91-67bc105bf88c;text;path: 'VALUE',type: 'com.bayer.tender.statenderapp.model.datatypes.CustomDecimalType';true;6deba627-e830-4b36-9fbc-6c29dfeba728
 2c641042-8ded-4626-807b-6ea0cd9a536d;text;STATUS;true;467399a2-3404-40ad-bb0f-ad68f6fd9c98
 1e5b5258-0309-4d0d-ab8c-b8074cad5a23;text;path: 'PublicationDate',type: 'sap.ui.model.type.Date',formatOptions: {pattern: 'yyyy-MM-dd'};true;703838c1-2123-4250-887f-f60f2a54b381
 9e13e3b6-17a7-4ad6-844b-81943992e425;text;path: 'InternalBidDueDate',type: 'sap.ui.model.type.Date',formatOptions: {pattern: 'yyyy-MM-dd'};true;4365b01b-224b-4ce6-9596-e410ab8b7c2e
