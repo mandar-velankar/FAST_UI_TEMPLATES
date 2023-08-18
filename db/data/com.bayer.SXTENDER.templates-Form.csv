@@ -6,3 +6,4 @@ ID;TITLE;DESCRIPTION;FORMID;ENTITY;XMLVIEW_ID
 3bbfed68-f5b0-11ed-b67e-0242ac120002;Product Info;Product;ProductForm;OfferProductsDetailView;
 ed65ccaf-5ec3-490f-a8a7-451cbae6b300;Awarded Product;Awarded Products Form;AwardedProductForm;AwardedProductFormView;853caca8-0fe4-4f9d-a1c2-eaa88f2b83b5
 af148864-a2c3-4ddd-87ec-341a10887989;Competitor Results detail;Competitor Results Form;CompetitorResultsForm;CompetitorResultsTableView;ab6b217e-a1ca-445f-990c-3e148cfdd3bb
+6a08408a-3151-11ee-be56-0242ac120002;Delivery Tracking detail;Delivery Tracking Form;DeliveryTrackingForm;CompetitorResultsTableView;

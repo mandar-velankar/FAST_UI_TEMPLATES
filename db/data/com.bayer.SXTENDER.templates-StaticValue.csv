@@ -2,6 +2,9 @@ ID;COUNTRYCODE;KEYID;VALUETEXT;VALUEHELP_ID
 1b118902-ffd9-411b-b4d4-3b908154480d;GB;1;;3f9e5739-c4e2-419d-b333-cff446872d53
 111efd13-e1c5-4352-9bfd-aa89b25e6ac6;GB;2;20 days from month end of invoice;3f9e5739-c4e2-419d-b333-cff446872d53
 df81e530-bb77-48f0-8b01-c60bf191cfc5;GB;3;NHS - 30 days from day of invoice;3f9e5739-c4e2-419d-b333-cff446872d53
+9534b451-f94b-4436-8328-4b3996cd67af;GB;1;;67e4c8dc-d8a0-4be3-833b-c7e2b42b7ea2
+d4ca9836-e6b1-45b6-a2a1-b9d8108e05de;GB;2;20 days from month end of invoice;67e4c8dc-d8a0-4be3-833b-c7e2b42b7ea2
+2a0e35cb-4f11-404d-8455-e59fadb50a96;GB;3;NHS - 30 days from day of invoice;67e4c8dc-d8a0-4be3-833b-c7e2b42b7ea2
 7aff504b-052e-43f6-a7b5-89734d7e4ade;;;;71f4dcae-5768-4ee5-9cd5-fb373e61e193
 20cd44a2-fe6f-11ed-be56-0242ac120002;;;;b2e6d106-fe6e-11ed-be56-0242ac120002
 23b45ed0-fe6f-11ed-be56-0242ac120002;;No;No;b2e6d106-fe6e-11ed-be56-0242ac120002

@@ -6,12 +6,13 @@ d620f2f1-9063-471a-9a5a-a22b9dad9fbe;Institute Name;;770600d0-f46f-4aec-bda0-9cc
 f4c273bf-2911-478c-9f33-25c02a0b20a6;Division;;422c7e8e-f3f1-11ed-a05b-0242ac120003;true;"[{""ID"": """", ""Name"": ""Division""}]";0d2203db-c1e1-4a1e-86a1-34bf001ef75a
 c313b385-8d17-49fa-a863-f6cf14ab5003;Distributor;;3747e509-6f2b-4af7-929c-56b47b1657d2;true;"[{""ID"": """", ""Name"": ""DistributorName""}]";eadae450-4d37-4cda-ae30-b45103086c7e
 3f9e5739-c4e2-419d-b333-cff446872d53;Payment Terms;;0907e3c4-e0e0-43bd-9333-cac04dd54ae5;true;"[{""ID"": """", ""Name"": ""Custom_String_1""}]";
+67e4c8dc-d8a0-4be3-833b-c7e2b42b7ea2;Payment Terms;;077d87ff-9148-4023-a5a9-f547240f3403;true;"[{""ID"": """", ""Name"": ""Custom_String_1""}]";
 5d600683-8ca4-4e1b-a0bc-78aa5c58f80d;Selling Company;;a25007d5-d866-4077-a302-7ee1ee171198;true;"[{""ID"": """", ""Name"": ""LegalEntityName""}]";11d63cea-11c5-400f-91a8-54b21ee6087d
 b2e6d106-fe6e-11ed-be56-0242ac120002;Alternate Offer;;0de7e488-febe-11ed-be56-0242ac120002;true;"[{""ID"": """", ""Name"": ""AlternateOfferYN""}]";
 b6cda4ac-fe6e-11ed-be56-0242ac120002;Unit Per Pack;;e6dc83a0-f5b0-11ed-b67e-0242ac120002;true;"[{""ID"": """", ""Name"": ""UnitPerPack""}]";
 b9d3578c-fe6e-11ed-be56-0242ac120002;Sample;;e6dc84c2-f5b0-11ed-b67e-0242ac120002;true;"[{""ID"": """", ""Name"": ""SampleYN""}]";
 bddf5402-fe6e-11ed-be56-0242ac120002;Documents Required;;e6dc8b34-f5b0-11ed-b67e-0242ac120002;true;"[{""ID"": """", ""Name"": ""DocumentsRequired""}]";
-ed91d6f2-fecd-11ed-be56-0242ac120002;Product Included;;e6dc88f0-f5b0-11ed-b67e-0242ac120002;true;"[{""ID"": """", ""Name"": ""ActiveProduct""}]";
+ed91d6f2-fecd-11ed-be56-0242ac120002;ProductIncluded;;e6dc88f0-f5b0-11ed-b67e-0242ac120002;true;"[{""ID"": """", ""Name"": ""ActiveProduct""}]";
 be227299-85f7-4545-a418-2f311e8324d0;Issued By;;34ec37fe-3177-4b4e-8332-3ee43d730181;true;"[{""ID"": """", ""Name"": ""NAME""}]";c69b96d6-974c-493c-959e-28f3ec003e0f
 3e7a4f25-fb1e-4e5d-b83a-de6e09568141;Company Stamp;;13677327-988c-4f53-917a-a3581f5dc10c;true;"[{""ID"": """", ""Name"": ""NAME""}]";c1922284-5558-46d4-877a-598b2389c4e6
 039ce350-3297-446d-8fc2-b2cb0dbfd4f7;Currency;;d97f8619-c3a5-423d-9498-b39179647266;false;"[{""ID"": """", ""Name"": """"}]";4df2f8cd-56e3-42d6-b861-d1368ce1e11a
@@ -25,3 +26,4 @@ be227299-85f7-4545-a418-2f311e8324d0;Issued By;;34ec37fe-3177-4b4e-8332-3ee43d73
 f913deac-c703-4471-b94f-6a1fdfbf3a70;Distribution;;907a539a-209c-11ee-be56-0242ac120002;true;"[{""ID"": """", ""Name"": ""Channel""}]";
 5f040f19-d827-4405-b71f-f071ed61e547;Contract Owner;;850787da-0df7-41c1-a17f-d39be53c30d2;true;"[{""ID"": """", ""Name"": ""Custom_String_2""}]";41c1a54b-e070-4d89-b95f-4b1564f0120d
 a6e61395-b0ac-442e-925b-ce8151a405fa;Currency;;0b8abd2f-7b58-4146-a1f2-2ac6a85c60c4;false;"[{""ID"": """", ""Name"": """"}]";4df2f8cd-56e3-42d6-b861-d1368ce1e11a
+9f3445a8-36a9-11ee-be56-0242ac120002;Regions;;18ce82e6-369d-11ee-be56-0242ac120002;true;"[{""ID"": """", ""Name"": ""Name""}]";1d3863e0-36a9-11ee-be56-0242ac120002
