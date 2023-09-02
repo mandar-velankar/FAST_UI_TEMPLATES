@@ -1,7 +1,13 @@
-COUNTRYCODE;APPLICATION;PAGE
-GB;StandardTenders;MASTER
-GB;StandardTenders;DETAIL
-GB;StandardTenders;DETAIL-OFFERPRODUCTDETAIL
-GB;StandardTenders;DETAIL-TAB1
-GB;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL
-GB;StandardTenders;DETAIL-DELIVERYTRACKINGDETAIL
+COUNTRYCODE;APPLICATION;PAGE;PRODUCTSCOPE
+GB;StandardTenders;MASTER;Pharma
+GB;StandardTenders;DETAIL;Pharma
+GB;StandardTenders;DETAIL-OFFERPRODUCTDETAIL;Pharma
+GB;StandardTenders;DETAIL-TAB1;Pharma
+GB;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL;Pharma
+GB;StandardTenders;DETAIL-DELIVERYTRACKINGDETAIL;Pharma
+GB;StandardTenders;MASTER;Consumer Health
+GB;StandardTenders;DETAIL;Consumer Health
+GB;StandardTenders;DETAIL-OFFERPRODUCTDETAIL;Consumer Health
+GB;StandardTenders;DETAIL-TAB1;Consumer Health
+GB;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL;Consumer Health
+GB;StandardTenders;DETAIL-DELIVERYTRACKINGDETAIL;Consumer Health

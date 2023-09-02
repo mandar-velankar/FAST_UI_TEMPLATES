@@ -12,7 +12,7 @@ export type GenericFormModelData = {
     // new: TodoItem;
     // edit: TodoItem;
 };
-export type templateKeys = {countryCode?:string,appID?:string,page?:string,keys?:object};
+export type templateKeys = {countryCode?:string,appID?:string,page?:string,productScope?:string,keys?:object};
 /**
  * @namespace com.bayer.SXTENDER.templates.GenericFormComponent.state
  */
