@@ -1,10 +1,10 @@
 ID;TITLE;DESCRIPTION;SERVICE;TYPE;COUNTRYTEMPLATE_COUNTRYCODE;COUNTRYTEMPLATE_APPLICATION;COUNTRYTEMPLATE_PAGE;COUNTRYTEMPLATE_PRODUCTSCOPE;TABLE_ID;FORM_ID
-ba3214ff-9af8-45fb-a8cf-7a2bc2b91cf7;Table Config;Table configuration for standard tender app;sta_tender;TABLE;GB;StandardTenders;MASTER;Consumer Health;19d02332-079c-4f2e-8a6c-6fceb1f7af6a;30d02332-079c-4f2e-8a6c-6fceb1f7af6a
-ba3214ff-9af8-45fb-a8cf-7a2bc2b91cf8;Tab Template;Tabs configuration for standard tender app;sta_tender;TABS;GB;StandardTenders;DETAIL;Consumer Health;;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
-ba3214ff-9af8-45fb-a8cf-7a2bc2b91cf9;Form Only Template;Demo Form Only Template;sta_tender;FORM;GB;StandardTenders;DETAIL-TAB1;Consumer Health;;40d02332-079c-4f2e-8a6c-6fceb1f7af6a
-1256ab92-f5b0-11ed-b67e-0242ac120002;Form Config;Form Config for the Product Detail Detail Page;sta_tender;FORM;GB;StandardTenders;DETAIL-OFFERPRODUCTDETAIL;Consumer Health;;3bbfed68-f5b0-11ed-b67e-0242ac120002
-eca3c9db-ec93-4cf0-98a5-cbbedef2b67c;Award Product Form Config;Form Config for the Awarded Product Detail Detail Page;sta_tender;TABS;GB;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL;Consumer Health;;ed65ccaf-5ec3-490f-a8a7-451cbae6b300
-6a083cfc-3151-11ee-be56-0242ac120002;Delivery Tracking Form Config;Form Config for the Delivery Tracking Detail Detail Page;sta_tender;FORM;GB;StandardTenders;DETAIL-DELIVERYTRACKINGDETAIL;Consumer Health;;6a08408a-3151-11ee-be56-0242ac120002
+ba3214ff-9af8-45fb-a8cf-7a2bc2b91cf7;Table Config;Table configuration for standard tender app;sta_tender;TABLE;GB;StandardTenders;MASTER;ConsumerHealth;19d02332-079c-4f2e-8a6c-6fceb1f7af6a;30d02332-079c-4f2e-8a6c-6fceb1f7af6a
+ba3214ff-9af8-45fb-a8cf-7a2bc2b91cf8;Tab Template;Tabs configuration for standard tender app;sta_tender;TABS;GB;StandardTenders;DETAIL;ConsumerHealth;;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
+ba3214ff-9af8-45fb-a8cf-7a2bc2b91cf9;Form Only Template;Demo Form Only Template;sta_tender;FORM;GB;StandardTenders;DETAIL-TAB1;ConsumerHealth;;40d02332-079c-4f2e-8a6c-6fceb1f7af6a
+1256ab92-f5b0-11ed-b67e-0242ac120002;Form Config;Form Config for the Product Detail Detail Page;sta_tender;FORM;GB;StandardTenders;DETAIL-OFFERPRODUCTDETAIL;ConsumerHealth;;3bbfed68-f5b0-11ed-b67e-0242ac120002
+eca3c9db-ec93-4cf0-98a5-cbbedef2b67c;Award Product Form Config;Form Config for the Awarded Product Detail Detail Page;sta_tender;TABS;GB;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL;ConsumerHealth;;ed65ccaf-5ec3-490f-a8a7-451cbae6b300
+6a083cfc-3151-11ee-be56-0242ac120002;Delivery Tracking Form Config;Form Config for the Delivery Tracking Detail Detail Page;sta_tender;FORM;GB;StandardTenders;DETAIL-DELIVERYTRACKINGDETAIL;ConsumerHealth;;6a08408a-3151-11ee-be56-0242ac120002
 c8bff4ba-3d68-4db4-8acb-5e7891d2c7d3;Table Config;Table configuration for standard tender app;sta_tender;TABLE;GB;StandardTenders;MASTER;Pharma;19d02332-079c-4f2e-8a6c-6fceb1f7af6a;30d02332-079c-4f2e-8a6c-6fceb1f7af6a
 83358a75-02ca-429c-b7c3-ff347d544149;Tab Template;Tabs configuration for standard tender app;sta_tender;TABS;GB;StandardTenders;DETAIL;Pharma;;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
 38dab360-6bca-4e8e-a0e8-11e996123994;Form Only Template;Demo Form Only Template;sta_tender;FORM;GB;StandardTenders;DETAIL-TAB1;Pharma;;40d02332-079c-4f2e-8a6c-6fceb1f7af6a

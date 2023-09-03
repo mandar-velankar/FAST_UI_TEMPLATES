@@ -5,9 +5,9 @@ GB;StandardTenders;DETAIL-OFFERPRODUCTDETAIL;Pharma
 GB;StandardTenders;DETAIL-TAB1;Pharma
 GB;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL;Pharma
 GB;StandardTenders;DETAIL-DELIVERYTRACKINGDETAIL;Pharma
-GB;StandardTenders;MASTER;Consumer Health
-GB;StandardTenders;DETAIL;Consumer Health
-GB;StandardTenders;DETAIL-OFFERPRODUCTDETAIL;Consumer Health
-GB;StandardTenders;DETAIL-TAB1;Consumer Health
-GB;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL;Consumer Health
-GB;StandardTenders;DETAIL-DELIVERYTRACKINGDETAIL;Consumer Health
+GB;StandardTenders;MASTER;ConsumerHealth
+GB;StandardTenders;DETAIL;ConsumerHealth
+GB;StandardTenders;DETAIL-OFFERPRODUCTDETAIL;ConsumerHealth
+GB;StandardTenders;DETAIL-TAB1;ConsumerHealth
+GB;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL;ConsumerHealth
+GB;StandardTenders;DETAIL-DELIVERYTRACKINGDETAIL;ConsumerHealth
