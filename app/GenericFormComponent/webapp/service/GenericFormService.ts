@@ -7,6 +7,7 @@ import { templateKeys } from "../state/GenericFormState";
 
 export interface CountryTemplateEntity {
     CountryCode: string;
+    ProductScope: string;
     Application: string;
     Page:string;
     Template: TemplateEntity;
@@ -80,11 +81,12 @@ export default class GenericFormService extends Object{
     constructor(model: ODataModel) {
         this.model = model;
     }
-    public async getTemplate({countryCode, appID,page}:templateKeys): Promise<CountryTemplateEntity> {
+    public async getTemplate({countryCode, appID,page,productScope}:templateKeys): Promise<CountryTemplateEntity> {
         const keys = await this.model.requestKeyPredicate('/CountryTemplate', { 
             CountryCode: countryCode || 'BR', 
             Application: appID || 'StandardTenders', 
-            Page: page || 'DETAIL'
+            Page: page || 'DETAIL',
+            ProductScope: productScope
         });
         const templateBinding = this.model.bindContext(`/CountryTemplate${keys}`, null, {
             $expand: {
