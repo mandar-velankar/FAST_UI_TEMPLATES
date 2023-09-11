@@ -7,6 +7,7 @@ import { templateKeys } from "../state/GenericTableState";
 
 export interface CountryTemplateEntity {
     CountryCode: string;
+    ProductScope: string;
     Application: string;
     Page:string;
     Template: TemplateEntity;

@@ -7,6 +7,7 @@ entity CountryTemplate {
       key CountryCode : String;
       key Application : String;
       key Page : String; //todo: change to Section
+      key ProductScope : String;
       // key Section: String;
           //Associations
           Template    : Association to Template
