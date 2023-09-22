@@ -185,7 +185,7 @@ a0a45cda-a9ba-40f4-896f-c74b7cad682d;showValueHelp;true;false;770600d0-f46f-4aec
 5351b562-a84d-407a-b082-6c658bda5bfa;valueHelpOnly;true;false;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 12dd9684-668f-4931-86a0-1ded444044d2;required;true;false;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 9cf91d80-b6f3-4f7d-b1b6-9801b360139f;text;InstituteName;true;2a8b6876-4da5-4d7d-82e5-63b7989378ac
-79131ab4-9bff-43b3-9502-7496b87e605f;text;InstituteID;true;a3b944f4-8d6f-42bd-a306-280ae082ffaf
+79131ab4-9bff-43b3-9502-7496b87e605f;text;CustomerID;true;a3b944f4-8d6f-42bd-a306-280ae082ffaf
 a3457473-f063-4fcb-8c82-fd73cb896cec;text;CLASSIFICATION;true;9fffda57-429f-4c9e-9412-af6305c94260
 7db0699b-3810-4e7d-a661-0c4f16c90568;text;ChannelName;true;c7cff28b-200e-474d-8c14-99c987e874d7
 f13f935d-c5c8-44b4-98b8-948cb52741b4;text;DivisionName;true;8bd3b39e-483d-427f-a955-fe5b06b36014
