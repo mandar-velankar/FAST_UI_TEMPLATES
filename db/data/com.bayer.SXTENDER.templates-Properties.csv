@@ -185,7 +185,7 @@ a0a45cda-a9ba-40f4-896f-c74b7cad682d;showValueHelp;true;false;770600d0-f46f-4aec
 5351b562-a84d-407a-b082-6c658bda5bfa;valueHelpOnly;true;false;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 12dd9684-668f-4931-86a0-1ded444044d2;required;true;false;770600d0-f46f-4aec-bda0-9cc3f4447bbf
 9cf91d80-b6f3-4f7d-b1b6-9801b360139f;text;InstituteName;true;2a8b6876-4da5-4d7d-82e5-63b7989378ac
-79131ab4-9bff-43b3-9502-7496b87e605f;text;InstituteID;true;a3b944f4-8d6f-42bd-a306-280ae082ffaf
+79131ab4-9bff-43b3-9502-7496b87e605f;text;CustomerID;true;a3b944f4-8d6f-42bd-a306-280ae082ffaf
 a3457473-f063-4fcb-8c82-fd73cb896cec;text;CLASSIFICATION;true;9fffda57-429f-4c9e-9412-af6305c94260
 7db0699b-3810-4e7d-a661-0c4f16c90568;text;ChannelName;true;c7cff28b-200e-474d-8c14-99c987e874d7
 f13f935d-c5c8-44b4-98b8-948cb52741b4;text;DivisionName;true;8bd3b39e-483d-427f-a955-fe5b06b36014
@@ -197,8 +197,6 @@ f2cf2eb8-13ec-4fad-a167-c2c238b872ca;selectedKey;DistributorID;true;3747e509-6f2
 0b5451c1-c294-40d7-a897-5b006d5b3629;selectedKey;SellingCompany;true;a25007d5-d866-4077-a302-7ee1ee171198
 9f6678c1-a6f9-4957-983d-beb7bddfa9d9;text;LegalEntityName;true;93a9ecf1-383c-4f85-a65b-d323bfbffea0
 909dd9e6-28c6-4507-baf2-bb27eb390949;key;LegalEntityCode;true;93a9ecf1-383c-4f85-a65b-d323bfbffea0
-2086fb9e-fdd6-11ed-be56-0242ac120002;enabled;true;true;e6dc949e-f5b0-11ed-b67e-0242ac120002
-2086fe32-fdd6-11ed-be56-0242ac120002;value;Comment;true;e6dc949e-f5b0-11ed-b67e-0242ac120002
 2086ff7c-fdd6-11ed-be56-0242ac120002;enabled;true;true;e6dc7c48-f5b0-11ed-b67e-0242ac120002
 2087009e-fdd6-11ed-be56-0242ac120002;value;Reference;true;e6dc7c48-f5b0-11ed-b67e-0242ac120002
 208701c0-fdd6-11ed-be56-0242ac120002;enabled;true;true;0de7e488-febe-11ed-be56-0242ac120002
@@ -325,7 +323,7 @@ a8969164-140e-43e9-ba92-7fa368102dcc;value;COMMENT;true;a62317bf-0a88-421c-a64e-
 d2a063a0-20a5-11ee-be56-0242ac120002;enabled;false;true;907a459e-209c-11ee-be56-0242ac120002
 6abfd167-4671-4a13-8e9a-0b9507669e92;value;MoleculeName;true;907a459e-209c-11ee-be56-0242ac120002
 528457f4-4031-4751-86db-ded0b4328a8f;required;true;false;907a459e-209c-11ee-be56-0242ac120002
-e63049e0-a46f-4fee-9a00-b7fe1a30f6e6;enabled;false;true;907a4a80-209c-11ee-be56-0242ac120002
+e63049e0-a46f-4fee-9a00-b7fe1a30f6e6;enabled;true;true;907a4a80-209c-11ee-be56-0242ac120002
 f0bb4ff8-bb29-4a98-941f-cf47b94056c8;value;Comment;true;907a4a80-209c-11ee-be56-0242ac120002
 80b38744-d713-49ae-a3ec-6cd9eb9f566e;required;false;false;907a4a80-209c-11ee-be56-0242ac120002
 96974d98-48d5-4b1c-a334-280efb88a6d5;enabled;false;true;907a4bd4-209c-11ee-be56-0242ac120002
