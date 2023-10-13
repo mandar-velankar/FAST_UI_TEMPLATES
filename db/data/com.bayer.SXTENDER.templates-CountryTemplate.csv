@@ -11,3 +11,8 @@ GB;StandardTenders;DETAIL-OFFERPRODUCTDETAIL;ConsumerHealth
 GB;StandardTenders;DETAIL-TAB1;ConsumerHealth
 GB;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL;ConsumerHealth
 GB;StandardTenders;DETAIL-DELIVERYTRACKINGDETAIL;ConsumerHealth
+PK;StandardTenders;MASTER;All
+PK;StandardTenders;DETAIL;All
+PK;StandardTenders;DETAIL-OFFERPRODUCTDETAIL;All
+PK;StandardTenders;DETAIL-TAB1;All
+PK;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL;All
