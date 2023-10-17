@@ -5,6 +5,11 @@ df81e530-bb77-48f0-8b01-c60bf191cfc5;GB;3;NHS - 30 days from day of invoice;3f9e
 9534b451-f94b-4436-8328-4b3996cd67af;GB;1;;67e4c8dc-d8a0-4be3-833b-c7e2b42b7ea2
 d4ca9836-e6b1-45b6-a2a1-b9d8108e05de;GB;2;20 days from month end of invoice;67e4c8dc-d8a0-4be3-833b-c7e2b42b7ea2
 2a0e35cb-4f11-404d-8455-e59fadb50a96;GB;3;NHS - 30 days from day of invoice;67e4c8dc-d8a0-4be3-833b-c7e2b42b7ea2
+64d0bcb7-55ed-451a-8851-7e08f479d26b;PK;1;;67b186ec-0079-4585-9c76-4858329ec037
+722f905b-4540-4ffc-b7d0-20493b8ede28;PK;2;Hospital/Med. Centre;67b186ec-0079-4585-9c76-4858329ec037
+cd8c7c28-5845-49f8-93e4-be64de855c12;PK;3;Clinic/Dispensary;67b186ec-0079-4585-9c76-4858329ec037
+2a9ee160-4695-4162-92e3-9966cd19c27d;PK;4;Diagnostic Centre;67b186ec-0079-4585-9c76-4858329ec037
+c04a0868-f1f2-4a6e-af2a-dcaf282ce654;PK;5;Non-Govt/Non-Profit;67b186ec-0079-4585-9c76-4858329ec037
 7aff504b-052e-43f6-a7b5-89734d7e4ade;GB;;;71f4dcae-5768-4ee5-9cd5-fb373e61e193
 20cd44a2-fe6f-11ed-be56-0242ac120002;GB;;;b2e6d106-fe6e-11ed-be56-0242ac120002
 23b45ed0-fe6f-11ed-be56-0242ac120002;GB;No;No;b2e6d106-fe6e-11ed-be56-0242ac120002
