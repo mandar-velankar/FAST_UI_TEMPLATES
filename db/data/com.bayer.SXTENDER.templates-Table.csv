@@ -35,3 +35,4 @@ f0722d4b-6a6b-462b-a7a1-559f2496316d;Distributor Name;Distributor Name Value hel
 884ac83b-aafa-486c-9df5-3ab78d436827;Currency;Currency Value help table;CurrencyTable;MasterCountryCurrencies;
 92a1a770-d962-4828-9d52-d826bf3ce799;Outcome;Outcome Value help table;OutcomeTable;MasterCountryOutComes;
 9095faa9-d316-4be2-afa4-4b07577f4d0c;Reason;Reason Value help table;ReasonTable;MasterOutComeReasons;
+16f29f50-7b45-4ef7-9acf-c695b1e25257;Quotation Institute;Quotation Institute Value help table;QuotationInstituteTable;ChildInstitutesView;
