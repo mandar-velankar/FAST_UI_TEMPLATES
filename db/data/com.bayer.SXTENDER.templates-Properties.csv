@@ -625,7 +625,7 @@ b6ca7ba7-7987-4fd7-bd79-c6d675983a79;value;IncoTerm;true;cbe5b9b9-0e18-448d-8c80
 38daa9e1-50cd-4c90-9460-3f8fe8973b73;required;false;false;8962529b-058b-44f9-b363-b72f57064fd2
 bbceec55-72f8-4804-a7da-1fa9f25c8e84;value;BU;true;8962529b-058b-44f9-b363-b72f57064fd2
 de54d27f-c93e-4a29-87c5-9eda6a68796b;enabled;false;true;dc270890-b1e5-4327-9392-eaffab0f7a90
-e6b18296-a542-4c1a-aceb-6218e1e548f4;value;Distributor;true;dc270890-b1e5-4327-9392-eaffab0f7a90
+e6b18296-a542-4c1a-aceb-6218e1e548f4;value;PakistanDistributorName;true;dc270890-b1e5-4327-9392-eaffab0f7a90
 3e7a2e9d-d34f-46df-abc1-799658e2c4d8;required;false;false;dc270890-b1e5-4327-9392-eaffab0f7a90
 2a0244a5-9cac-4403-912c-20ff84c7fb7a;selectedKey;PAYMENTTERMS;true;149698c7-0a2a-40e8-889b-c80c0e3719f6
 45317c22-b41c-406e-a5b9-62754a7a8ba0;enabled;false;true;149698c7-0a2a-40e8-889b-c80c0e3719f6
