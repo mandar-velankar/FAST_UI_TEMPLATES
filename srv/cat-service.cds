@@ -16,4 +16,7 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
     entity ValueHelp as projection on templates.ValueHelp;
     entity Filter as projection on templates.Filter;
     entity StaticValue as projection on templates.StaticValue;
+    entity MandatoryFields @(cds.redirection.target:false) as select from templates.FormElement as formElement{
+        formElement.Label
+    } where formElement.Controls.Properties.Name = 'required' and formElement.Controls.Properties.Value = 'true'
 }
