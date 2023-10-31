@@ -469,7 +469,7 @@ dac1e4c6-f458-4807-a525-49cd741c1810;columnsL;3;false;c7127448-aeb4-4b2d-b9eb-cc
 4ec4f7fe-4349-4c62-bdb1-6efe8bd3672e;columnsM;3;false;c7127448-aeb4-4b2d-b9eb-cce8dc2979ed
 53c8766b-71fd-486c-8d8f-c7f04e94635f;singleContainerFullSize;false;false;c7127448-aeb4-4b2d-b9eb-cce8dc2979ed
 867dd884-daee-443f-88b5-6d4392035235;value;DistributorName;true;7dde65f4-3165-49ef-8915-571b72733c54
-e1b47bdd-a950-45ba-8625-8e256500455c;required;false;false;dd64cdd8-aac5-4cb3-a51b-6bdc797a6d09
+e1b47bdd-a950-45ba-8625-8e256500455c;required;true;false;dd64cdd8-aac5-4cb3-a51b-6bdc797a6d09
 93203bbd-9d7f-4b03-8351-01f9172d3627;required;true;false;7dde65f4-3165-49ef-8915-571b72733c54
 195c8ec1-27f7-4978-9e64-ba6db7a03e53;enabled;true;true;7dde65f4-3165-49ef-8915-571b72733c54
 3212c098-4d0d-455e-b8c2-ad2ac2923e68;value;LegalEntityName;true;9d10bb3a-09c8-4799-be18-0c50c06e961f
@@ -656,3 +656,6 @@ b1f06607-9285-491e-a3f7-9c2d1246e8a7;enabled;true;true;1d27a8cd-a06a-46b6-b336-2
 cc5b415b-5933-4139-acea-90316d4d19ad;selectedKey;REASON;true;5cbd7a3a-9cd0-41b8-8e2b-bb0ff7032998
 9482fde4-ee80-4bb8-967e-d032c032bf8a;enabled;true;true;5cbd7a3a-9cd0-41b8-8e2b-bb0ff7032998
 8cafd5a8-a70a-4e41-8ee8-d811f7f5d5e3;text;InstituteName;true;90887058-8500-49dc-b3b8-2e83968a377e
+1694412d-552a-4ca7-9e26-b63cd6fd6210;text;PaymentTerms;true;a67853ba-b946-4cc9-9870-fc61e9ab75eb
+4b0a8983-211d-4bf9-8891-ac3a8f85a6d4;key;PaymentTerms;true;a67853ba-b946-4cc9-9870-fc61e9ab75eb
+5a861f69-64df-49e0-888f-88e793b99283;enabled;true;true;a67853ba-b946-4cc9-9870-fc61e9ab75eb
