@@ -30,7 +30,7 @@ c7d3bc72-65ef-4032-8534-65f123704118;Classification;;c6456b81-67b8-442c-9c2b-cb7
 28f57328-de99-4889-b055-385bb9181c64;Institute Type;;411d2e58-72c9-4ba1-bc31-44f26d75470d;true;"[{""ID"": """", ""Name"": ""ChannelName""}]";e6ffbfe4-79dd-4d29-a461-00f79e396cf1
 139b8659-1cc4-4249-bd30-862584f55537;Institute Name;;3d8b627f-b8e5-44a1-a5ee-bfce4930b79d;true;"[{""ID"": ""InstituteID"", ""Name"": ""InstituteName""},{""ID"": ""DirectTender"", ""Name"": ""InstituteName""}]";6b3584b0-fb1c-4721-8100-033656a48bad
 21aa626b-15eb-4ff3-a738-76a3d66b92ba;Tender Channel;;699e154a-492c-4bdc-99e9-d9d12a822fca;true;"[{""ID"": """", ""Name"": ""ChannelName""}]";c5f3b126-e325-4ca9-9624-7510ec7594ff
-46817ce5-1fff-4fa9-b4ca-5eaa3468b04d;Payment Terms;;dd64cdd8-aac5-4cb3-a51b-6bdc797a6d09;true;"[{""ID"": """", ""Name"": ""Custom_String_1""}]";
+46817ce5-1fff-4fa9-b4ca-5eaa3468b04d;Payment Terms;;dd64cdd8-aac5-4cb3-a51b-6bdc797a6d09;true;"[{""ID"": """", ""Name"": ""Custom_String_1""}]";e6f2a8be-1d47-4f5f-b40b-4eefb7e9f346
 56cc8ac9-6f3f-4b68-bc9c-2e5960c75159;Distributor;;7dde65f4-3165-49ef-8915-571b72733c54;true;"[{""ID"": """", ""Name"": ""DistributorName""}]";f0722d4b-6a6b-462b-a7a1-559f2496316d
 d41ff1fb-268b-472e-8e67-52a721c3ee17;Selling Company;;9d10bb3a-09c8-4799-be18-0c50c06e961f;true;"[{""ID"": """", ""Name"": ""LegalEntityName""}]";4c0d2280-8f10-4582-8b34-7544dff20ed5
 127152c6-7020-4490-a1a2-a8296fc410b3;Currency;;cfa145b9-cde1-4039-b6ef-9e624732abff;false;"[{""ID"": """", ""Name"": """"}]";775642b8-f6d6-4532-9c51-6c22ee48b2b6
@@ -43,4 +43,4 @@ ae5010e6-6fe7-4892-8e19-2f7901fdc23d;Reason;;51d4348c-87d2-4895-b401-42e52836358
 c0a0859f-54e9-4fdf-a11e-0e725a4c4dc1;UoM;;1cd4f848-e3f0-4bf7-ace8-bfb7c71ab590;false;"[{""ID"": """", ""Name"": """"}]";
 ff2be8f0-74c6-4f1a-9204-b46a72465bd0;Reason;;5cbd7a3a-9cd0-41b8-8e2b-bb0ff7032998;false;"[{""ID"": """", ""Name"": ""TenderOutcomeReasons""}]";9095faa9-d316-4be2-afa4-4b07577f4d0c
 a6e61395-b0ac-442e-925b-ce8151a405fa;Currency;;0b8abd2f-7b58-4146-a1f2-2ac6a85c60c4;false;"[{""ID"": """", ""Name"": ""Currency""}]";4df2f8cd-56e3-42d6-b861-d1368ce1e11a
-845df67a-f55a-4664-a170-30580e8643b7;Quotation Institute;;3f06ae6e-1bc8-4f83-9035-c4bdee1786d4;true;"[{""ID"": ""QuotationInstituteID"", ""Name"": ""InstituteName""}]";16f29f50-7b45-4ef7-9acf-c695b1e25257
+845df67a-f55a-4664-a170-30580e8643b7;QuotationInstitute;;3f06ae6e-1bc8-4f83-9035-c4bdee1786d4;true;"[{""ID"": ""QuotationInstituteID"", ""Name"": ""InstituteName""}]";16f29f50-7b45-4ef7-9acf-c695b1e25257
