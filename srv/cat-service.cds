@@ -25,18 +25,27 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
     };
 
     entity PropertiesView as select from templates.Control as control
-    left outer join templates.Properties as prop on prop.ParentID = control.ID{
-        key control.ID AS ControlID,
-        prop.Name AS PropertyName,
-        prop.Value AS PropertyValue
-    } where prop.Name = 'required';
+    inner join templates.Properties as prop1 on prop1.ParentID = control.ID
+    inner join templates.Properties as prop2 on prop1.ParentID = prop2.ParentID
+    {
+        key control.ID as ControlID,
+        control.Type as Type,
+        prop1.Value as FieldName
+    } where (prop1.Name = 'value' or prop1.Name = 'selectedKey') and prop2.Name = 'required' and prop2.Value = true
+    group by 
+    control.ID, 
+    control.Type, 
+    prop1.Value, 
+    prop1.Name, 
+    prop2.Name, 
+    prop2.Value;
 
     entity MandatoryFieldsView as select from templates.Form as form
         left join ProductScopeView as productscope on productscope.FormID = form.ID
         inner join templates.FormContainer as formcontainer on form.ID = formcontainer.Form.ID
         inner join templates.FormElement as formelem on formcontainer.ID = formelem.FormContainer.ID
         inner join templates.Control as control on control.ParentID = formelem.ID
-        left outer join PropertiesView as propview on propview.ControlID = control.ID
+        inner join PropertiesView as propview on propview.ControlID = control.ID
     {
         key 
             Case 
@@ -50,15 +59,15 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
             end as Section:String,
         key productscope.CountryCode as CountryCode:String,
         key ifnull(productscope.ProductScope, 'All') as ProductScope:String,
-        formelem.Label as Field:String,
-    } where propview.PropertyName = 'required' and propview.PropertyValue = true
+        formelem.Label as Label:String,
+        propview.FieldName as Field:String
+    }
     group by
     control.ValueHelp.ID,
     control.ValueHelp.Table.Entity,
     formcontainer.Title,
     formelem.Label,
-    propview.PropertyName,
-    propview.PropertyValue,
+    propview.FieldName,
     productscope.CountryCode,
     productscope.ProductScope
 }
