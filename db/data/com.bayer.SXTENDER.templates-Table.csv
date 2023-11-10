@@ -37,3 +37,4 @@ f0722d4b-6a6b-462b-a7a1-559f2496316d;Distributor Name;Distributor Name Value hel
 9095faa9-d316-4be2-afa4-4b07577f4d0c;Reason;Reason Value help table;ReasonTable;MasterOutComeReasons;
 16f29f50-7b45-4ef7-9acf-c695b1e25257;Quotation Institute;Quotation Institute Value help table;QuotationInstituteTable;ChildInstitutesView;
 e6f2a8be-1d47-4f5f-b40b-4eefb7e9f346;Payment Terms;Payment Terms Value help table;PaymentTermsTable;ChildInstitutesView;
+86f2256e-7f01-11ee-b962-0242ac120002;Distributor Name;Distributor Name Value help Table;PKDistributorNamesTable;PakistanMasterDistributors;
