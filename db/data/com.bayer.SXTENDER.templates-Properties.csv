@@ -126,7 +126,7 @@ ee632d94-c723-4c4e-a45f-7ca16fc06f8b;columnsM;3;false;1517f8e2-5c6d-4e9a-8788-e5
 8f927feb-53e5-47f1-aac2-8bfa02e1705f;required;true;false;3747e509-6f2b-4af7-929c-56b47b1657d2
 93564ee2-c6bc-4401-b3d5-4a5782eb3b56;enabled;true;true;3747e509-6f2b-4af7-929c-56b47b1657d2
 7e6a222b-4c5d-45a3-a620-32c72ba768cc;value;LegalEntityName;true;a25007d5-d866-4077-a302-7ee1ee171198
-3223d3ef-6eb0-4b1b-898c-40ae23baf06a;required;true;false;a25007d5-d866-4077-a302-7ee1ee171198
+3223d3ef-6eb0-4b1b-898c-40ae23baf06a;required;false;false;a25007d5-d866-4077-a302-7ee1ee171198
 4d110d80-f40e-4f2b-8dff-7cc2177cd9ac;enabled;false;false;a25007d5-d866-4077-a302-7ee1ee171198
 3489c514-a8fa-4a35-8ab3-5d1794234bd4;value;path :'InternalBidDueDate', type: 'sap.ui.model.type.Date', formatOptions: { pattern: 'dd.MM.yyyy' , UTC:true};true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
 99c9590c-a60c-4eab-bb1d-c087370330f9;minDate;path :'ui>/minDate';true;9dc93bbf-cc93-427e-9eec-f9b93ce1b887
@@ -473,7 +473,7 @@ e1b47bdd-a950-45ba-8625-8e256500455c;required;true;false;dd64cdd8-aac5-4cb3-a51b
 93203bbd-9d7f-4b03-8351-01f9172d3627;required;true;false;7dde65f4-3165-49ef-8915-571b72733c54
 195c8ec1-27f7-4978-9e64-ba6db7a03e53;enabled;true;true;7dde65f4-3165-49ef-8915-571b72733c54
 3212c098-4d0d-455e-b8c2-ad2ac2923e68;value;LegalEntityName;true;9d10bb3a-09c8-4799-be18-0c50c06e961f
-f2536810-28af-48de-82df-7879d62a16ba;required;true;false;9d10bb3a-09c8-4799-be18-0c50c06e961f
+f2536810-28af-48de-82df-7879d62a16ba;required;false;false;9d10bb3a-09c8-4799-be18-0c50c06e961f
 c7fb7790-5920-451f-b6b0-a17f5771c18a;enabled;false;false;9d10bb3a-09c8-4799-be18-0c50c06e961f
 a9a7bf6f-5eb0-417e-b4cb-b4a4eeeea431;selectedKey;SellingCompany;true;9d10bb3a-09c8-4799-be18-0c50c06e961f
 83a92143-0983-4325-8002-47ab881ce2b1;minDate;path :'ui>/minDate';true;86234dd0-1da7-4f3a-966a-8c904192346d
@@ -619,7 +619,7 @@ ce6e2a63-a391-4964-a922-3f29f97691ef;required;false;false;1ceef2f0-3495-43f8-bc9
 87b733b2-939f-470d-809a-ad5db62a1ce4;value;FirstShipment;true;50337d6b-1a20-43ad-839d-679ef968aa7b
 37e3c5d4-eb8a-4a88-9cac-396a16a63329;required;false;false;50337d6b-1a20-43ad-839d-679ef968aa7b
 6399a80c-0384-4f4e-ba37-d50d703097f1;enabled;false;true;cbe5b9b9-0e18-448d-8c80-3af13f788a3e
-b6ca7ba7-7987-4fd7-bd79-c6d675983a79;value;IncoTerm;true;cbe5b9b9-0e18-448d-8c80-3af13f788a3e
+b6ca7ba7-7987-4fd7-bd79-c6d675983a79;value;INCOTerms;true;cbe5b9b9-0e18-448d-8c80-3af13f788a3e
 467c0653-ad61-4cbd-a090-7cdf122df92c;required;false;false;cbe5b9b9-0e18-448d-8c80-3af13f788a3e
 990473c7-eb1a-404c-bf11-eebba89d9aa2;enabled;false;true;8962529b-058b-44f9-b363-b72f57064fd2
 38daa9e1-50cd-4c90-9460-3f8fe8973b73;required;false;false;8962529b-058b-44f9-b363-b72f57064fd2

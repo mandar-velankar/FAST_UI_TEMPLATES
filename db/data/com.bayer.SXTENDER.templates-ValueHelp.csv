@@ -45,4 +45,4 @@ c0a0859f-54e9-4fdf-a11e-0e725a4c4dc1;UoM;;1cd4f848-e3f0-4bf7-ace8-bfb7c71ab590;f
 ff2be8f0-74c6-4f1a-9204-b46a72465bd0;Reason;;5cbd7a3a-9cd0-41b8-8e2b-bb0ff7032998;false;"[{""ID"": """", ""Name"": ""TenderOutcomeReasons""}]";9095faa9-d316-4be2-afa4-4b07577f4d0c
 a6e61395-b0ac-442e-925b-ce8151a405fa;Currency;;0b8abd2f-7b58-4146-a1f2-2ac6a85c60c4;false;"[{""ID"": """", ""Name"": ""Currency""}]";4df2f8cd-56e3-42d6-b861-d1368ce1e11a
 845df67a-f55a-4664-a170-30580e8643b7;QuotationInstitute;;3f06ae6e-1bc8-4f83-9035-c4bdee1786d4;true;"[{""ID"": ""QuotationInstituteID"", ""Name"": ""InstituteName""}]";16f29f50-7b45-4ef7-9acf-c695b1e25257
-ed833746-7f06-11ee-b962-0242ac120002;Distributor;dc270890-b1e5-4327-9392-eaffab0f7a90;false;"[{""ID"": """", ""Name"": ""DistributorName""}]";86f2256e-7f01-11ee-b962-0242ac120002
+ed833746-7f06-11ee-b962-0242ac120002;Distributor;;dc270890-b1e5-4327-9392-eaffab0f7a90;false;"[{""ID"": """", ""Name"": ""DistributorName""}]";86f2256e-7f01-11ee-b962-0242ac120002
