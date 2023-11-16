@@ -1,0 +1,40 @@
+ID;TITLE;DESCRIPTION;TABLEID;ENTITY;XMLVIEW_ID
+19d02332-079c-4f2e-8a6c-6fceb1f7af6a;Tenders;Tender Master table;TandersMasterTable;TenderMasterView;
+317bec97-2cf2-4c09-8ad4-dd4fdab747e1;Award Criteria;Award Criteria table;AwardCriteria;AwardCriteriaTableView;c2cbb55c-b46b-4679-aac2-81ec29c2b131
+e2974134-cdb2-4dc2-a727-10e757b167b5;Products;Offer Products table;OfferProductsTable;OfferProductsTableView;09611301-5b74-47bf-8eb9-5769a2ee7888
+403ee636-e2f7-4ce0-8dfb-9323a7f1335e;Classification;Classification Value help Table;ClassificationTable;ClassifiactionsView;
+8811b856-8026-47e7-8a84-75cc0e1fa72c;Institute Type;Institute Type Value help Table;InstituteTypeTable;CountryInstituteTypeView;
+5251c092-600e-4629-ae6e-b3424ef03597;Institutes;Institute Name Value help Table;InstituteNamesTable;InstitutesView;
+4e3f438d-be56-4ffb-8175-313d183b3c6f;Tender Channel;Tender Channel Value help Table;TenderChannelTable;TenderChannel;
+0d2203db-c1e1-4a1e-86a1-34bf001ef75a;Division;Division Value help Table;DivisionsTable;StandardDivisions;
+cc8cf758-5472-4c10-af22-aacee902ae30;Payment Terms;Payment terms Value help Table;;;
+eadae450-4d37-4cda-ae30-b45103086c7e;Distributor Name;Distributor Name Value help Table;DistributorNamesTable;MasterDistributors;
+11d63cea-11c5-400f-91a8-54b21ee6087d;Selling Company;Selling Company Value help Table;SellingCompNamesTable;CountryLegalEntity;
+c7c3fad8-fe71-11ed-be56-0242ac120002;Alternate Offer;Alternate Offer Value help Table;;;
+cb318ea6-fe71-11ed-be56-0242ac120002;Unit Per Pack;Unit Per Pack Value help Table;;;
+ceb66d4e-fe71-11ed-be56-0242ac120002;Sample;Sample Value help Table;;;
+d1bfd638-fe71-11ed-be56-0242ac120002;Documents;Documents Value help Table;;;
+c69b96d6-974c-493c-959e-28f3ec003e0f;Issued By;Issued By Value help table;IssueByTable;CountryLegalEntitySignatories;
+c1922284-5558-46d4-877a-598b2389c4e6;Company Stamp;Company Stamp Value help table;CompanyStampTable;CountryLegalEntitySignatories;
+4df2f8cd-56e3-42d6-b861-d1368ce1e11a;Currency;Currency Value help table;CurrencyTable;MasterCountryCurrencies;
+f13dcb6c-2226-447a-8040-2d28171a6888;Outcome;Outcome Value help table;OutcomeTable;MasterCountryOutComes;
+d317c6cd-e40f-4d90-8c00-176fcaa7caf8;Reason;Reason Value help table;ReasonTable;MasterOutComeReasons;
+41c1a54b-e070-4d89-b95f-4b1564f0120d;Contract Owner;Contract Owner Value Help Table;ContractOwnerTable;UsersHavingOneCountry;
+1d3863e0-36a9-11ee-be56-0242ac120002;Regions;Region Value Help Table;RegionTable;CountryRegionsTableView;
+1b0d4ddf-eead-4a95-afb3-0a6a6af75756;Tenders;Tender Master table;TandersMasterTable;TenderMasterView;
+3d8abeed-5e76-46fe-9053-63f640ccbb46;Classification;Classification Value help Table;ClassificationTable;ClassifiactionsView;
+e6ffbfe4-79dd-4d29-a461-00f79e396cf1;Institute Type;Institute Type Value help Table;InstituteTypeTable;CountryInstituteTypeView;
+6b3584b0-fb1c-4721-8100-033656a48bad;Institutes;Institute Name Value help Table;InstituteNamesTable;InstitutesView;
+c5f3b126-e325-4ca9-9624-7510ec7594ff;Tender Channel;Tender Channel Value help Table;TenderChannelTable;TenderChannel;
+ee109a54-e4fb-443d-bc6a-69cfafec8b0d;Award Criteria;Award Criteria table;AwardCriteria;AwardCriteriaTableView;4dd08c77-e829-4c0a-904a-74ab012bc417
+aac68df9-46f1-482f-96b4-e3d102b53bf4;Products;Offer Products table;OfferProductsTable;OfferProductsTableView;9b5e28e8-73cf-4b6f-8447-e21c5644752b
+775642b8-f6d6-4532-9c51-6c22ee48b2b6;Currency;Currency Value help table;CurrencyTable;MasterCountryCurrencies;
+c564ea67-dab5-4a85-9aba-aa97028188da;Division;Division Value help Table;DivisionsTable;StandardDivisions;
+f0722d4b-6a6b-462b-a7a1-559f2496316d;Distributor Name;Distributor Name Value help Table;DistributorNamesTable;MasterDistributors;
+4c0d2280-8f10-4582-8b34-7544dff20ed5;Selling Company;Selling Company Value helpTable;SellingCompNamesTable;CountryLegalEntity;
+884ac83b-aafa-486c-9df5-3ab78d436827;Currency;Currency Value help table;CurrencyTable;MasterCountryCurrencies;
+92a1a770-d962-4828-9d52-d826bf3ce799;Outcome;Outcome Value help table;OutcomeTable;MasterCountryOutComes;
+9095faa9-d316-4be2-afa4-4b07577f4d0c;Reason;Reason Value help table;ReasonTable;MasterOutComeReasons;
+16f29f50-7b45-4ef7-9acf-c695b1e25257;Quotation Institute;Quotation Institute Value help table;QuotationInstituteTable;ChildInstitutesView;
+e6f2a8be-1d47-4f5f-b40b-4eefb7e9f346;Payment Terms;Payment Terms Value help table;PaymentTermsTable;ChildInstitutesView;
+86f2256e-7f01-11ee-b962-0242ac120002;Distributor Name;Distributor Name Value help Table;PKDistributorNamesTable;PakistanMasterDistributors;

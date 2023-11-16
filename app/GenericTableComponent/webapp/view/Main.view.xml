@@ -1,0 +1,24 @@
+<mvc:View controllerName="com.bayer.SXTENDER.templates.GenericTableComponent.controller.Main" displayBlock="true" xmlns="sap.m" xmlns:f="sap.f" xmlns:mvc="sap.ui.core.mvc" xmlns:t="sap.ui.table">
+    <!-- <f:DynamicPage id="masterPage" stickySubheaderProvider="iconTabBar" class="sapUiNoContentPadding"> -->
+        <!-- <f:title>
+            <f:DynamicPageTitle>
+                <f:heading>
+                    <Title text="{i18n>appTitle}" level="H2" />
+                </f:heading>
+                <f:actions />
+            </f:DynamicPageTitle>
+        </f:title> -->
+        <!-- <f:content> -->
+            <Table id="genericTable" 
+                columns="{path:'tempModel>/countryTemplate/template/table/columns'}"
+                itemPress=".onItemPress"
+            >
+                <columns>
+                    <Column>
+                        <Text text="{tempModel>title}" />
+                    </Column>
+                </columns>
+            </Table>
+        <!-- </f:content>
+    </f:DynamicPage> -->
+</mvc:View>

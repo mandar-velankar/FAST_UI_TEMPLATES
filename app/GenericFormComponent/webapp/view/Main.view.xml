@@ -1,0 +1,63 @@
+<mvc:View
+	controllerName="com.bayer.SXTENDER.templates.GenericFormComponent.controller.Main"
+	displayBlock="true"
+	xmlns="sap.m"
+	xmlns:f="sap.f"
+	xmlns:l="sap.ui.layout"
+	xmlns:form="sap.ui.layout.form"
+	xmlns:core="sap.ui.core"
+	xmlns:mvc="sap.ui.core.mvc">
+	<!-- <f:DynamicPage id="formPage" stickySubheaderProvider="iconTabBar" class="sapUiNoContentPadding">
+        <f:title>
+            <f:DynamicPageTitle>
+                <f:heading>
+                    <Title text="{i18n>appTitle}" level="H2" />
+                </f:heading>
+                <f:actions />
+            </f:DynamicPageTitle>
+        </f:title>
+        <f:content> -->
+			<IconTabBar id="iconTabBar" class="sapUiResponsiveContentPadding" items="{tempModel>/countryTemplate/template/tabs}">
+				<items>
+					<IconTabFilter text="{tempModel>title}" icon="sap-icon://{tempModel>icon}" content="{path:'tempModel>forms'}" >
+						<form:Form
+							editable="true"
+							formContainers="{path:'tempModel>formContainers'}">
+							<form:title>
+								<core:Title text="{tempModel>title}" />
+							</form:title>
+							<form:layout>
+								<form:ResponsiveGridLayout
+									labelSpanXL="{tempModel>layout/labelSpanXL}"
+									labelSpanL="{tempModel>layout/labelSpanL}"
+									labelSpanM="{tempModel>layout/labelSpanM}"
+									labelSpanS="{tempModel>layout/labelSpanS}"
+									adjustLabelSpan="{tempModel>layout/adjustLabelSpan}"
+									emptySpanXL="{tempModel>layout/emptySpanXL}"
+									emptySpanL="{tempModel>layout/emptySpanL}"
+									emptySpanM="{tempModel>layout/emptySpanM}"
+									emptySpanS="{tempModel>layout/emptySpanS}"
+									columnsXL="{tempModel>layout/columnsXL}"
+									columnsL="{tempModel>layout/columnsL}"
+									columnsM="{tempModel>layout/columnsM}"
+									singleContainerFullSize="{tempModel>layout/singleContainerFullSize}" />
+							</form:layout>
+							<form:formContainers>
+								<form:FormContainer title="{tempModel>title}" formElements="{path:'tempModel>formElements'}">
+									<form:formElements>
+										<form:FormElement label="{tempModel>label}" fields="{path:'tempModel>controls',factory:'.fieldsFactory'}">
+											<!-- <form:fields>
+												<Input value="{tempModel>control/type}"/>
+											</form:fields> -->
+										</form:FormElement>
+									</form:formElements>
+								</form:FormContainer>
+							</form:formContainers>
+						</form:Form>
+					</IconTabFilter>
+				</items>
+			</IconTabBar>
+        <!-- </f:content>
+    </f:DynamicPage> -->
+
+</mvc:View>
