@@ -35,3 +35,6 @@ e48925e6-5cf3-4ff9-9de7-de3f0f439021;CountryCode;EQ;SelectedCountry;;46817ce5-1f
 31b3444c-7fca-11ee-b962-0242ac120002;CountryCode;EQ;SelectedCountry;;ed833746-7f06-11ee-b962-0242ac120002
 31b3480c-7fca-11ee-b962-0242ac120002;InstituteID;EQ;SelectedInstituteID;;ed833746-7f06-11ee-b962-0242ac120002
 31b34942-7fca-11ee-b962-0242ac120002;BU;EQ;SelectedBU;;ed833746-7f06-11ee-b962-0242ac120002
+f855df77-004d-410f-b318-fed8e4f8635a;CountryCode;EQ;SelectedCountry;;48664630-2d13-448b-8dcf-d179ab82e0e1
+dd2834fe-af97-40b5-8ec2-e60e1ed113aa;QuotationInstituteID;EQ;SelectedQuotationInstituteID;;48664630-2d13-448b-8dcf-d179ab82e0e1
+aeb4fdb1-ae88-47e5-a013-8a18102d9fdf;ParentInstituteID;EQ;SelectedInstituteID;;48664630-2d13-448b-8dcf-d179ab82e0e1
