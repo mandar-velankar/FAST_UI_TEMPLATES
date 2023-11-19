@@ -278,7 +278,7 @@ aed67150-2f27-4a6c-8ad6-9c7c0b30f9f9;enabled;true;true;accd1675-45a3-4f19-b124-0
 b1ebf863-7b21-4709-b5e7-f0350228d8d2;enabled;true;true;bf0af002-8054-4b1b-beca-3e2f47c65f69
 9ea52a2f-41d9-4c88-9648-9e83e73951c9;value;AwardedCompany;true;62113082-e173-4b24-adac-40f4b47acdf5
 b3cc52a4-1733-41ef-b873-dcbd941034ae;enabled;false;true;62113082-e173-4b24-adac-40f4b47acdf5
-6cb16490-3d3b-42e0-b2bb-63ca1fbd0d1b;value;AwardedPrice;true;b27baf1d-a34a-40e2-b744-d41c7d2c82b2
+6cb16490-3d3b-42e0-b2bb-63ca1fbd0d1b;value;path: 'AwardedPrice', type: 'sap.ui.model.odata.type.Double', formatOptions: { showMeasure: false, preserveDecimals: false, minFractionDigits: 2, maxFractionDigits: 2};true;b27baf1d-a34a-40e2-b744-d41c7d2c82b2
 2e919a16-a9c8-4ebe-87c6-d90ae6c39199;enabled;true;true;b27baf1d-a34a-40e2-b744-d41c7d2c82b2
 5f9a3f78-1de2-4e42-8719-efefab81cad4;value;RequestedVolume;true;a58b218d-41b6-4f57-81b9-b0e4ac93801c
 d8c92ac2-aae7-4370-b1bf-d17a224358d5;enabled;true;true;a58b218d-41b6-4f57-81b9-b0e4ac93801c
@@ -641,7 +641,7 @@ d176fc56-9a80-48aa-9289-ed0ab91a346a;selectedKey;Reason;true;55c278fa-2c85-46c6-
 c6a02816-1b00-4491-93d9-ae39a1d969f9;enabled;true;true;55c278fa-2c85-46c6-bf1a-c1c42201f859
 e386627e-f3c0-4c49-9d74-6bd3cee3b13a;value;AwardedCompany;true;b1ad6531-75f0-42ad-ab1f-d8ea734b1738
 de6eccfb-02b5-4954-9bc5-1c139d194b28;enabled;false;true;b1ad6531-75f0-42ad-ab1f-d8ea734b1738
-d70c1feb-f232-4212-b6a2-dd5f350c9391;value;AwardedPrice;true;7a7e5ae5-d2f0-45d3-831b-6d6fbf06bce9
+d70c1feb-f232-4212-b6a2-dd5f350c9391;value;path: 'AwardedPrice', type: 'sap.ui.model.odata.type.Double', formatOptions: { showMeasure: false, preserveDecimals: false, minFractionDigits: 2, maxFractionDigits: 2};true;7a7e5ae5-d2f0-45d3-831b-6d6fbf06bce9
 971b3fa4-3c40-41f6-980c-5262d2ca8cc8;enabled;true;true;7a7e5ae5-d2f0-45d3-831b-6d6fbf06bce9
 cd9479c0-68f0-474d-8dca-d7bc06c7a42d;value;RequestedVolume;true;bde8c312-6002-41c2-a5d7-b3ed94576864
 3697f66a-483f-496c-93b0-b4ab5f4f688f;enabled;true;true;bde8c312-6002-41c2-a5d7-b3ed94576864
