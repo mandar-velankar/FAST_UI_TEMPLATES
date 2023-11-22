@@ -41,3 +41,4 @@ e6f2a8be-1d47-4f5f-b40b-4eefb7e9f346;Payment Terms;Payment Terms Value help tabl
 dc4f0c27-6aa7-4ddf-9268-87734f8fe48b;Tenders;Tender Master table;TandersMasterTable;TenderMasterView;
 f8e5a08c-5219-442f-8d19-fd1eb309243c;Institute Type;Institute Type Value help Table;InstituteTypeTable;CountryInstituteTypeView;
 fbd4e0b2-a09e-49d4-b7b0-14794a640892;Institutes;Institute Name Value help Table;InstituteNamesTable;InstitutesView;
+d52e51cc-4947-4ea9-8a74-3c91554f3b00;Institute In Branch;Institute In Branch Value help Table;InstituteInBranchTable;InstituteInBranchView;
