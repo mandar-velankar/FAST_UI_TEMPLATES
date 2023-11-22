@@ -15,9 +15,9 @@ bddf5402-fe6e-11ed-be56-0242ac120002;Documents Required;;e6dc8b34-f5b0-11ed-b67e
 ed91d6f2-fecd-11ed-be56-0242ac120002;ProductIncluded;;e6dc88f0-f5b0-11ed-b67e-0242ac120002;true;"[{""ID"": """", ""Name"": ""ActiveProduct""}]";
 be227299-85f7-4545-a418-2f311e8324d0;Issued By;;34ec37fe-3177-4b4e-8332-3ee43d730181;true;"[{""ID"": """", ""Name"": ""NAME""}]";c69b96d6-974c-493c-959e-28f3ec003e0f
 3e7a4f25-fb1e-4e5d-b83a-de6e09568141;Company Stamp;;13677327-988c-4f53-917a-a3581f5dc10c;true;"[{""ID"": """", ""Name"": ""NAME""}]";c1922284-5558-46d4-877a-598b2389c4e6
-039ce350-3297-446d-8fc2-b2cb0dbfd4f7;Currency;;d97f8619-c3a5-423d-9498-b39179647266;false;"[{""ID"": """", ""Name"": """"}]";4df2f8cd-56e3-42d6-b861-d1368ce1e11a
+039ce350-3297-446d-8fc2-b2cb0dbfd4f7;Currency;;d97f8619-c3a5-423d-9498-b39179647266;false;"[{""ID"": """", ""Name"": ""Currency""}]";4df2f8cd-56e3-42d6-b861-d1368ce1e11a
 1ebc2043-fe3f-49e4-8042-faf7c558619e;UoM;;21fabc19-97db-4cf1-abec-846991f2f59d;false;"[{""ID"": """", ""Name"": """"}]";
-0cc41f98-1540-41e5-8ff7-36f8d91b8bf2;Outcome;;accd1675-45a3-4f19-b124-089c422d99e7;false;"[{""ID"": """", ""Name"": """"}]";f13dcb6c-2226-447a-8040-2d28171a6888
+0cc41f98-1540-41e5-8ff7-36f8d91b8bf2;Outcome;;accd1675-45a3-4f19-b124-089c422d99e7;false;"[{""ID"": """", ""Name"": ""Outcome""}]";f13dcb6c-2226-447a-8040-2d28171a6888
 670f4152-aa3c-400d-84ba-ba7711e67f2c;Reason;;bf0af002-8054-4b1b-beca-3e2f47c65f69;false;"[{""ID"": """", ""Name"": ""TenderOutcomeReasons""}]";d317c6cd-e40f-4d90-8c00-176fcaa7caf8
 79cfb750-257b-40bc-a81b-d570e8aaeaf7;Subm. Error;;aa454525-ffd3-402a-ae30-64b884b37ca8;false;"[{""ID"": """", ""Name"": """"}]";
 5fc1fc1a-b792-4b3e-9ab5-f05a41eb1c0b;UoM;;2f8e72a5-6a3a-4909-97a2-ab59afbf02ff;false;"[{""ID"": """", ""Name"": """"}]";
@@ -25,7 +25,6 @@ be227299-85f7-4545-a418-2f311e8324d0;Issued By;;34ec37fe-3177-4b4e-8332-3ee43d73
 3190523d-d402-4824-ad46-7056916a7225;Pharma QC updated as required;;907a4f76-209c-11ee-be56-0242ac120002;true;"[{""ID"": """", ""Name"": ""Custom_String_1""}]";
 f913deac-c703-4471-b94f-6a1fdfbf3a70;Distribution;;907a539a-209c-11ee-be56-0242ac120002;true;"[{""ID"": """", ""Name"": ""Channel""}]";
 5f040f19-d827-4405-b71f-f071ed61e547;Contract Owner;;850787da-0df7-41c1-a17f-d39be53c30d2;true;"[{""ID"": """", ""Name"": ""Custom_String_2""}]";41c1a54b-e070-4d89-b95f-4b1564f0120d
-a6e61395-b0ac-442e-925b-ce8151a405fa;Currency;;0b8abd2f-7b58-4146-a1f2-2ac6a85c60c4;false;"[{""ID"": """", ""Name"": """"}]";4df2f8cd-56e3-42d6-b861-d1368ce1e11a
 9f3445a8-36a9-11ee-be56-0242ac120002;Regions;;18ce82e6-369d-11ee-be56-0242ac120002;true;"[{""ID"": """", ""Name"": ""Name""}]";1d3863e0-36a9-11ee-be56-0242ac120002
 c7d3bc72-65ef-4032-8534-65f123704118;Classification;;c6456b81-67b8-442c-9c2b-cb728eeb1d42;true;"[{""ID"": """", ""Name"": ""CLASSIFICATION""}]";3d8abeed-5e76-46fe-9053-63f640ccbb46
 28f57328-de99-4889-b055-385bb9181c64;Institute Type;;411d2e58-72c9-4ba1-bc31-44f26d75470d;true;"[{""ID"": """", ""Name"": ""ChannelName""}]";e6ffbfe4-79dd-4d29-a461-00f79e396cf1
@@ -46,3 +45,4 @@ ff2be8f0-74c6-4f1a-9204-b46a72465bd0;Reason;;5cbd7a3a-9cd0-41b8-8e2b-bb0ff703299
 a6e61395-b0ac-442e-925b-ce8151a405fa;Currency;;0b8abd2f-7b58-4146-a1f2-2ac6a85c60c4;false;"[{""ID"": """", ""Name"": ""Currency""}]";4df2f8cd-56e3-42d6-b861-d1368ce1e11a
 845df67a-f55a-4664-a170-30580e8643b7;QuotationInstitute;;3f06ae6e-1bc8-4f83-9035-c4bdee1786d4;true;"[{""ID"": ""QuotationInstituteID"", ""Name"": ""InstituteName""}]";16f29f50-7b45-4ef7-9acf-c695b1e25257
 ed833746-7f06-11ee-b962-0242ac120002;Distributor;;dc270890-b1e5-4327-9392-eaffab0f7a90;false;"[{""ID"": """", ""Name"": ""DistributorName""}]";86f2256e-7f01-11ee-b962-0242ac120002
+48664630-2d13-448b-8dcf-d179ab82e0e1;Payment Terms;;149698c7-0a2a-40e8-889b-c80c0e3719f6;true;"[{""ID"": """", ""Name"": """"}]";e6f2a8be-1d47-4f5f-b40b-4eefb7e9f346
