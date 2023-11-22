@@ -12,3 +12,5 @@ c56139c2-454a-4f8d-93d7-d8ae979b46f5;Form Config;Form Config for the Product Det
 e9d55856-c01e-41ab-8fcc-b6f1e35dbd77;Award Product Form Config;Form Config for the Awarded Product Detail Detail Page;sta_tender;TABS;PK;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL;All;;603010fb-f2e0-4520-a189-84618394d3b9
 08d9c7c0-0927-4656-8d7d-b4d52a75b1e6;Table Config;Table configuration for standard tender app;sta_tender;TABLE;TW;StandardTenders;MASTER;All;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b;feb78a51-e027-49e6-ba44-23a049625f6c
 7e59c4a8-3685-478f-bc9a-dcfef6e93f02;Tab Template;Tabs configuration for standard tender app;sta_tender;TABS;TW;StandardTenders;DETAIL;All;;9be63a7a-bc69-4e16-90d4-9ddc4ae6d621
+5ad8e8ad-337f-4fb5-81ee-ff200946319d;Form Only Template;Demo Form Only Template;sta_tender;FORM;TW;StandardTenders;DETAIL-TAB1;All;;48b7779e-899d-431d-8bdc-8840e06349a8
+3f394dc9-c4a0-44d7-9af5-5f59417ae486;Form Config;Form Config for the Product Detail Detail Page;sta_tender;FORM;TW;StandardTenders;DETAIL-OFFERPRODUCTDETAIL;All;;74010290-8391-49ef-858d-add5404a617c
