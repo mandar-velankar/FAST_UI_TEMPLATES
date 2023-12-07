@@ -12,3 +12,6 @@ PK;StandardTenders;DETAIL-TAB1;All
 PK;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL;All
 TW;StandardTenders;MASTER;All
 TW;StandardTenders;DETAIL;All
+TW;StandardTenders;DETAIL-OFFERPRODUCTDETAIL;All
+TW;StandardTenders;DETAIL-TAB1;All
+TW;StandardTenders;DETAIL-AWARDEDRODUCTDETAIL;All

@@ -28,7 +28,7 @@ b293ed41-c9b9-4b3d-a559-c67c1d57c4ba;DirectTender;EQ;DirectTender;;21aa626b-15eb
 dccce12a-4664-42e3-b275-b03770f6bc3e;CountryCode;EQ;SelectedCountry;;127152c6-7020-4490-a1a2-a8296fc410b3
 7e3905cf-1732-4917-8261-16d2942c9262;CountryCode;EQ;SelectedCountry;;56cc8ac9-6f3f-4b68-bc9c-2e5960c75159
 051999f9-eb07-42bb-992a-17588d4ceffc;CountryCode;EQ;SelectedCountry;;845df67a-f55a-4664-a170-30580e8643b7
-93758cbf-0267-49c5-9a82-7a6535f9a6f9;ParentInstituteID;EQ;SelectedInstituteID;;845df67a-f55a-4664-a170-30580e8643b7
+93758cbf-0267-49c5-9a82-7a6535f9a6f9;ParentInstituteID;EQ;InstituteID;;845df67a-f55a-4664-a170-30580e8643b7
 e48925e6-5cf3-4ff9-9de7-de3f0f439021;CountryCode;EQ;SelectedCountry;;46817ce5-1fff-4fa9-b4ca-5eaa3468b04d
 885dbe80-d6a3-4aca-8992-41fcccdd70e0;QuotationInstituteID;EQ;SelectedQuotationInstituteID;;46817ce5-1fff-4fa9-b4ca-5eaa3468b04d
 770b0ab7-d217-41d5-b810-ce3a1f5a3323;ParentInstituteID;EQ;SelectedInstituteID;;46817ce5-1fff-4fa9-b4ca-5eaa3468b04d
@@ -38,3 +38,10 @@ e48925e6-5cf3-4ff9-9de7-de3f0f439021;CountryCode;EQ;SelectedCountry;;46817ce5-1f
 f855df77-004d-410f-b318-fed8e4f8635a;CountryCode;EQ;SelectedCountry;;48664630-2d13-448b-8dcf-d179ab82e0e1
 dd2834fe-af97-40b5-8ec2-e60e1ed113aa;QuotationInstituteID;EQ;SelectedQuotationInstituteID;;48664630-2d13-448b-8dcf-d179ab82e0e1
 aeb4fdb1-ae88-47e5-a013-8a18102d9fdf;ParentInstituteID;EQ;SelectedInstituteID;;48664630-2d13-448b-8dcf-d179ab82e0e1
+c8602cf8-fcee-4bb0-8a33-12ffc690e5c0;CountryCode;EQ;SelectedCountry;;0ece223f-8453-470e-9c6e-648bfad1894c
+de74ebb8-3101-42bb-9128-16b2e3f43cd6;CountryCode;EQ;SelectedCountry;;4ee1f8e0-c766-4280-a353-b9c29b54afc3
+a13febfb-5de4-49b6-a7ee-b5c63e883d13;InstituteType;EQ;InstituteType;;fede286d-f753-4e1e-b26b-9b0585d4b6d0
+167087bd-e652-4a3c-97cc-8b76d88ef41b;CountryCode;EQ;SelectedCountry;;fede286d-f753-4e1e-b26b-9b0585d4b6d0
+cd41c8db-3293-4e46-805f-dba0fd72abc9;CountryCode;EQ;SelectedCountry;;e72054ff-2aae-46f6-ab25-1f1399515285
+12015ce8-2d42-49f1-a745-945518fe9818;ParentInstituteID;EQ;ParentInstituteID;;e72054ff-2aae-46f6-ab25-1f1399515285
+14dc8152-5225-4d1e-a238-2b0685e1cfff;InstituteID;NE;InstituteID;;e72054ff-2aae-46f6-ab25-1f1399515285

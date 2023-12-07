@@ -72,3 +72,20 @@ a2d2ccfe-6950-48ab-a455-58b470fbf8cd;Division Name;Division Name;None;true;true;
 9094d176-d9c6-4bf7-8227-4c79bf489434;Institute Name;Institute Name;None;false;false;16f29f50-7b45-4ef7-9acf-c695b1e25257
 910ac1ef-e2ea-4251-8927-a100b64a3173;Payment Terms;Payment Terms;None;true;true;e6f2a8be-1d47-4f5f-b40b-4eefb7e9f346
 1a390a5e-7f02-11ee-b962-0242ac120002;Distributor Name;Distributor Name;None;true;true;86f2256e-7f01-11ee-b962-0242ac120002
+a590ea3f-3521-45b7-9a23-ee7f4d9b15e2;Country;CountryCode;None;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+06b60b22-7632-4ff2-a3b0-422c8b9f32d4;ID;TenderID;None;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+a74a4cdd-2a3a-4cad-a477-59f7a4982422;Classification;Classification;None;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+690fdeb3-41f2-413c-bdff-b5cf0e7ef339;Name/Reference;TenderName;None;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+994ed2e1-f06e-4425-b114-3a4998cfc839;Created By;Created By;High;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+fa8a635c-29b1-47d8-9f27-bbfe4f942a06;Distributor;Distributor Name;Low;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+9a0abab2-5077-45ab-b8ea-358e14daab48;Institute;Institute Name;None;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+db795285-5c22-41ce-b44c-eb2670a78eaa;OfferID;Offer ID;High;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+e68bb107-171c-4300-ad32-4188f4c7a08a;Value;Value;None;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+a9180d4c-21d0-468b-9135-ac31c0e0b749;Status;Status;High;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+619be71e-66c3-421f-85eb-35d5c0da8ba3;Publication Date;Publication Date;None;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+7b5579ee-f016-400d-9ca2-73d820501108;Bid Due Date;Bid Due Date;Low;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+2e92924a-4f50-4fcc-9bb2-493b49235681;Closing Date;Closing Date;None;false;false;dc4f0c27-6aa7-4ddf-9268-87734f8fe48b
+f75ceabd-ed12-4b32-82a4-7f9ab2a8fe52;Institute Name;Institute Name;None;false;false;fbd4e0b2-a09e-49d4-b7b0-14794a640892
+30bedad0-da5e-4014-a41d-cd9b02fb5d21;Cutomer ID;Customer ID;None;false;false;fbd4e0b2-a09e-49d4-b7b0-14794a640892
+e7065290-5192-4e77-835b-c82876072005;Institute Type;Institute Type;None;false;false;f8e5a08c-5219-442f-8d19-fd1eb309243c
+67a5ed84-3b6f-4284-a78e-b50c217a6fee;Intitute;Intitute;None;false;true;d52e51cc-4947-4ea9-8a74-3c91554f3b00
