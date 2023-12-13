@@ -709,3 +709,5 @@ a392149f-08a3-4acc-aba3-30b4670517ad;text;InstituteName;true;45102d22-382a-48e1-
 7cfd7c9d-0c25-4147-8cac-385e25299117;text;CustomerID;true;03206a27-9663-4447-95aa-ca44bf5db2b4
 78a8cac6-d354-4045-9d82-25fcc0316d6c;text;ChannelName;true;312c2f8f-ea84-4171-b6f0-b3b9b3a7bf1e
 c4a9160f-f63d-4ace-a1ac-96ea1f49aee0;text;InstituteName;true;26da4e53-1903-43dc-8f4a-775ea8c3e365
+f806bc04-cacc-4f38-98e9-2b06a264e595;value;State;true;f88d04a4-bd88-434b-9f69-12b11a550b82
+2732469d-1b3c-453f-b7b7-5c472c6a7552;enabled;false;false;f88d04a4-bd88-434b-9f69-12b11a550b82
