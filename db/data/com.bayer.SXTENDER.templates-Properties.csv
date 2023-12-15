@@ -695,12 +695,12 @@ f1c924ca-d516-4a88-9e11-69de8a730aec;value;InstituteName;true;26fb0e0f-f42a-4b80
 a64126b6-3719-409c-a7bc-40109bd40716;showValueHelp;true;false;26fb0e0f-f42a-4b80-97c0-537d324cbb27
 a3695a6b-5030-438c-8412-b8c25cb0c3bf;valueHelpOnly;true;false;26fb0e0f-f42a-4b80-97c0-537d324cbb27
 5ca10591-a4e2-4bcb-8d87-c177782c44af;required;true;false;26fb0e0f-f42a-4b80-97c0-537d324cbb27
-f87046fc-327d-4918-b3e8-51015136d949;value;Custom_Integer_1;true;d72ef12e-65be-426a-82ea-af739da92b5f
-2f3c4033-64e1-4d8f-9df3-8116d7ee52b1;enabled;true;true;d72ef12e-65be-426a-82ea-af739da92b5f
+f87046fc-327d-4918-b3e8-51015136d949;value;External_InstituteId;true;d72ef12e-65be-426a-82ea-af739da92b5f
+2f3c4033-64e1-4d8f-9df3-8116d7ee52b1;enabled;false;false;d72ef12e-65be-426a-82ea-af739da92b5f
 4b5bc3d1-ef59-4588-94bb-741b17473d9a;required;true;false;d72ef12e-65be-426a-82ea-af739da92b5f
 4c6b7d70-426e-4c5d-ac09-3d2f145b3f22;required;false;false;f995f73d-6668-4c90-9c3f-b6fd8b4fb66e
-46427032-41a5-42b2-9851-bd41b7ba3ca8;value;Custom_String_2;true;f995f73d-6668-4c90-9c3f-b6fd8b4fb66e
-880f3d99-fa87-46f7-af32-8744d3406947;enabled;true;true;f995f73d-6668-4c90-9c3f-b6fd8b4fb66e
+46427032-41a5-42b2-9851-bd41b7ba3ca8;value;Address;true;f995f73d-6668-4c90-9c3f-b6fd8b4fb66e
+880f3d99-fa87-46f7-af32-8744d3406947;enabled;false;false;f995f73d-6668-4c90-9c3f-b6fd8b4fb66e
 62f39d66-a4e2-4484-a9a2-2fc98cb7f7f1;enabled;true;true;b2287979-15b3-48f2-b869-bb09f63370e1
 fc6a4acf-307e-4082-9fe7-41b38919b9ec;required;false;true;b2287979-15b3-48f2-b869-bb09f63370e1
 704e8bdc-b8d0-4e58-bff4-5145b8829beb;showValueHelp;true;false;b2287979-15b3-48f2-b869-bb09f63370e1
