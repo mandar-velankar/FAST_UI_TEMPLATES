@@ -97,6 +97,14 @@
     {
       "name": "$XSAPPNAME.f_tnndr_cag_standardtenderdownload_user",
       "description": "f_tnndr_cag_standardtenderdownload_user"
+    },
+    {
+      "name": "$XSAPPNAME.f_tndr_cag_distributormanagement_user",
+      "description": "f_tndr_cag_distributormanagement_user"
+    },
+    {
+      "name": "$XSAPPNAME.f_tnndr_cag_standardtenderzuelligextract_user",
+      "description": "f_tnndr_cag_standardtenderzuelligextract_user"
     }
   ],
   "attributes": [],
@@ -292,6 +300,22 @@
         "$XSAPPNAME.f_tnndr_cag_standardtenderdownload_user"
       ],
       "attribute-references": []
-    }	  
+    },
+    {		  
+      "name": "f_tndr_cag_distributormanagement_user",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.f_tndr_cag_distributormanagement_user"
+      ],
+      "attribute-references": []
+    },
+    {		  
+      "name": "f_tnndr_cag_standardtenderzuelligextract_user",
+      "description": "generated",
+      "scope-references": [
+        "$XSAPPNAME.f_tnndr_cag_standardtenderzuelligextract_user"
+      ],
+      "attribute-references": []
+    }
   ]
 }
