@@ -89,3 +89,12 @@ f75ceabd-ed12-4b32-82a4-7f9ab2a8fe52;Institute Name;Institute Name;None;false;fa
 30bedad0-da5e-4014-a41d-cd9b02fb5d21;Cutomer ID;Customer ID;None;false;false;fbd4e0b2-a09e-49d4-b7b0-14794a640892
 e7065290-5192-4e77-835b-c82876072005;Institute Type;Institute Type;None;false;false;f8e5a08c-5219-442f-8d19-fd1eb309243c
 67a5ed84-3b6f-4284-a78e-b50c217a6fee;Intitute;Intitute;None;false;true;d52e51cc-4947-4ea9-8a74-3c91554f3b00
+4c3ad67f-411e-4b44-9086-1ac2661d2826;ID;ID;None;false;true;d377147d-b09f-4820-8b62-98a096ab33b4
+6bda636a-9804-486c-8124-60640438a467;Offer ID;Offer ID;None;false;false;d377147d-b09f-4820-8b62-98a096ab33b4
+bb2ea53e-889e-4ca9-929b-6cbe3165ec5d;Institute Name;Institute Name;None;false;false;d377147d-b09f-4820-8b62-98a096ab33b4
+95584698-4ed9-4dbb-844f-66e4b24b358a;Product Name;Product Name;None;false;false;d377147d-b09f-4820-8b62-98a096ab33b4
+a10c37b6-ce68-4c33-a734-5e535bf9f5b4;UOM;UOM;None;false;false;d377147d-b09f-4820-8b62-98a096ab33b4
+a121b2bf-3f6a-4966-a8d8-e43b42886daf;Offer Price;Offer Price;None;false;false;d377147d-b09f-4820-8b62-98a096ab33b4
+640bb284-3bc9-4f27-9828-11fb438ed98b;Discount;Discount;None;false;false;d377147d-b09f-4820-8b62-98a096ab33b4
+29b29480-3f80-49eb-bc53-0d1f6fc06d3c;FOC;FOC;None;false;false;d377147d-b09f-4820-8b62-98a096ab33b4
+2c1b9aa4-e7a7-4cbb-a7e7-d30ba2016d82;Status;Status;None;false;false;d377147d-b09f-4820-8b62-98a096ab33b4

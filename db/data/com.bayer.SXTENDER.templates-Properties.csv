@@ -711,3 +711,12 @@ a392149f-08a3-4acc-aba3-30b4670517ad;text;InstituteName;true;45102d22-382a-48e1-
 c4a9160f-f63d-4ace-a1ac-96ea1f49aee0;text;InstituteName;true;26da4e53-1903-43dc-8f4a-775ea8c3e365
 f806bc04-cacc-4f38-98e9-2b06a264e595;value;State;true;f88d04a4-bd88-434b-9f69-12b11a550b82
 2732469d-1b3c-453f-b7b7-5c472c6a7552;enabled;false;false;f88d04a4-bd88-434b-9f69-12b11a550b82
+69faa080-cdb2-4634-98d1-875117afbaa8;text;TenderID;true;4a4fb933-c600-4e48-a0d5-44b9cdbff069
+14885229-1f6a-4ba6-914c-77961dbd4d21;text;OfferID;true;c9b94fe4-923d-449d-a368-b5b6bc714b8e
+0576f9d4-5d35-4d67-b6e0-7faa0e893b1e;text;INSTITUTE_NAME;true;1508a135-1a02-448f-8052-f37bdf25441a
+7d046ad0-86f0-4f5a-8b60-fd3bb4489cc0;text;PRODUCT_NAME;true;4bfa7e58-c4ab-404c-a5e3-171d69c81fb4
+5922551e-39af-4625-9317-96f7f55f3b74;text;UnitPerPack;true;b3136f50-facb-46e5-a8c5-8d52e5ecf191
+6ab592b0-a61a-4ca2-8872-370d2416e81a;text;parts: ['Price1', 'Currency'], type: 'sap.ui.model.type.Currency', formatOptions: { showMeasure: true, preserveDecimals: false, minFractionDigits: 2, maxFractionDigits: 2};true;42abc4a5-446e-4e47-aa83-2ba748caf223
+77f7ab4d-caf5-4dad-be7e-62cb2d159259;text;path: 'Level1Discount1',type: 'com.bayer.tender.statenderapp.model.datatypes.CustomPercentageType';true;abbac1bc-6dff-4533-813d-373b34a013c1
+7bdae7a1-fc7a-45a5-8c2e-d8e3da732c54;text;FOC;true;c46b86a4-767d-456d-9c41-753584ca0173
+f4e5ee16-41f1-484f-a17a-5150f038b9a8;text;OUTCOME;true;5f63e572-001f-49e1-95d7-78a2f9ee685b
