@@ -1,151 +1,151 @@
-ID;LABEL;VISIBLE;FORMCONTAINER_ID
-a9a177af-b535-432d-a347-9fceb661de8b;ID;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
-8f8c996f-255b-409d-bcbf-8c3cb429e445;Tender Reference;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
-fdbdf626-9596-4592-a315-e51ee279d383;Classification;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
-ae54564a-8e32-42da-9758-8dafbb94ae20;Institute Type;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
-13ebded3-e2d4-41d3-89c8-1c97dacf856d;Institute Name;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
-84739079-54bb-4e76-8770-4eb7e36e060b;Institute State;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
-5d554eeb-d9d9-4b5a-8d33-99bedeb5f867;Tender Channel;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
-6c105624-1c11-11ee-be56-0242ac120002;Tender Contact;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
-df2a781c-1c19-11ee-be56-0242ac120002;Created By;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
-22d02332-079c-4f2e-8a6c-6fceb1f7af6a;Label A;true;51d02332-079c-4f2e-8a6c-6fceb1f7af6a
-23d02332-079c-4f2e-8a6c-6fceb1f7af6a;Label B;true;51d02332-079c-4f2e-8a6c-6fceb1f7af6a
-439d1cf2-935f-4e3d-ad3f-49e50df11330;Publication Date;true;7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318
-764551e9-6b64-44ec-b68e-aa2182ee39f8;Offer Due Date;true;7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318
-c3d65c39-f197-491d-99ab-d82b047c86d9;Expected Award Date;true;7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318
-f957f20f-41a9-49ee-82c0-4fd18ee483a9;Next Publication Date;true;7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318
-b5ceb298-29ff-49a3-ac6a-abe84b6943ea;Contract Length [months];true;7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318
-530cac96-292a-4cda-be00-da36cf77dd89;Extension Period [months];true;7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318
-fb57e036-12cb-4abf-b006-77ef7dc5ce7e;Distributor Name;true;ec306324-e407-4b8a-a895-93d7ccfd1dce
-a25007d5-d866-4077-a302-7ee1ee171198;Selling Company;true;ec306324-e407-4b8a-a895-93d7ccfd1dce
-981b668e-b571-4b70-b3a7-487eba861af8;Internal Due Date;true;1890158e-c275-46e1-9f3b-9fa3f3d77ce0
-6d36157e-920c-4d30-8679-1ba3a56f0a3f;Offer Due Date;true;1890158e-c275-46e1-9f3b-9fa3f3d77ce0
-6f169d0a-92da-4da3-9ec4-77e06fa399e8;Division;true;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
-fc3a7dd9-d0a4-4371-8329-49e6e5a2ca67;Payment Term;true;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
-d6338291-9bdc-441f-b6a7-342c48555a51;Currency;false;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
-02ec30b2-1cae-11ee-be56-0242ac120002;Client Comment;true;ec306324-e407-4b8a-a895-93d7ccfd1dce
-e6dc812a-f5b0-11ed-b67e-0242ac120002;Alternate Offer;true;a19856f2-f5b0-11ed-b67e-0242ac120002
-e6dc826a-f5b0-11ed-b67e-0242ac120002;Requested Volume;true;a19856f2-f5b0-11ed-b67e-0242ac120002
-e6dc83a0-f5b0-11ed-b67e-0242ac120002;UoM;true;a19856f2-f5b0-11ed-b67e-0242ac120002
-e6dc84c2-f5b0-11ed-b67e-0242ac120002;Samples;true;a19856f2-f5b0-11ed-b67e-0242ac120002
-e6dc8a1c-f5b0-11ed-b67e-0242ac120002;Sample Quantity;true;a19856f2-f5b0-11ed-b67e-0242ac120002
-e6dc88f0-f5b0-11ed-b67e-0242ac120002;Decline;true;a19856f2-f5b0-11ed-b67e-0242ac120002
-e7d48e2b-e33c-4cff-8f65-8d8889ad277d;Comment;true;a19856f2-f5b0-11ed-b67e-0242ac120002
-33bd4c74-15d9-4e36-af87-bae612cd104e;Molecule Name;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-05d214c2-5f3e-490e-9254-d8619c58840f;AAH product code;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-6d4b2143-7064-45da-80c4-e4ac44538699;License number;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-a6d3871e-4a0b-440f-82ac-7b67f12e40ad;Generic Product Description;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-3b85aa9f-351b-417a-bb99-cf6556b37d50;Pharma QC updated as required;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-7350f24d-4b62-4bb7-9265-0762d22489e0;Distribution;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-f04ae9ae-6df5-4d81-b822-d048d7a691cc;EAN / GTIN - the barcode;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-69263a5f-8f60-4434-b784-d6b4611cb974;PIP code;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-5c305272-5b7d-4947-9333-c75789803418;Pack size required;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-80582963-1caa-485a-ad0e-aabdbf3cc1ab;Buffer stock holding level;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-cb6beb83-696b-4999-ae71-7ed05b0351bc;Investment;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-156c589a-ea33-425d-a78c-a631db753a64;Budgeted profitability;true;a1985daa-f5b0-11ed-b67e-0242ac120002
-e9936d83-3d3d-46a2-bcc9-580d88c0d8a0;Offer Date;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
-29e18ce6-2180-4e64-bb21-5d1e6322499c;Offer Validity;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
-f22b8265-0450-4a20-ac81-eb6b8ffde153;Payment Terms;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
-f739b97d-c23c-41f9-bda0-8b069b8d3ce1;Remarks;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
-d3b5c500-0192-4ee8-93e7-5f05bea8d45e;Contract Start Date;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
-2a226bda-d53f-48e3-9848-6f22a7752358;Contract End Date;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
-f50eeb1e-147c-4e55-8c77-7bf4b564c358;ContractNo;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
-ed920e3a-ffa7-4fba-881d-354e87bd6933;Currency;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
-7a576bb7-8127-40a0-8fac-365ebddc91ae;FOC;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
-a3be29f5-1063-452d-a4df-0eb0fe08a13f;UoM;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
-280ac4ba-bd93-4573-9276-26f4f5430d21;Outcome;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
-e0efdb1a-0049-4635-8e1d-d0c3bfb1a782;Reason;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
-f3220002-8af9-4d9b-abd8-050e78dd88ec;Awarded Company;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
-a081bfa3-a938-4d40-9b69-9c72f12bb134;Awarded Price;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
-f97f33d7-c484-4549-916d-2988829252fd;Requested Volume;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
-9ad7066d-1087-4cd2-bce1-3b3c5bf56dd9;Awarded Quantity;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
-e0fade04-c328-4f1f-b103-40f78200de02;Subm. Error;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
-6ff50e8e-acfc-4b92-b75e-a46552f7db6a;Comment;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
-bcc1554f-b0ee-4dff-b185-0f4c02a09dd2;Awarded Qty;true;65523d86-3e0d-4fd5-bbc9-f1b9451c9dd4
-3e9ea266-b319-49ea-93b4-2f8ef19356ea;UoM;true;65523d86-3e0d-4fd5-bbc9-f1b9451c9dd4
-910d83e7-7605-40bb-979f-ce2b0647936e;Reason;true;65523d86-3e0d-4fd5-bbc9-f1b9451c9dd4
-3f3dd701-4ed1-471c-ae87-99dcdd1508c8;Comments;true;5eb4f756-34d0-40ce-83e2-bc6dfb684afc
-4f69c7c9-8876-44e2-aca9-1037727bea9b;Total Awarded Value;true;5eb4f756-34d0-40ce-83e2-bc6dfb684afc
-56372c65-639c-4d54-b953-3cc6f4ebd17b;Contract termination reason;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
-4a1f4358-c911-407c-a704-2a10d76af3f9;Contract Owner;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
-8269a298-c8d3-41c7-bbd3-54854a978ac1;% Difference to Competitor;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
-47fbb0d8-bdc2-4b25-b088-a583e6b9126b;Contract termination date;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
-51f43cf4-31df-11ee-be56-0242ac120002;Actual Delivery Date;true;30965402-31df-11ee-be56-0242ac120002
-51f440b4-31df-11ee-be56-0242ac120002;Actual Quantity;true;30965402-31df-11ee-be56-0242ac120002
-51f442da-31df-11ee-be56-0242ac120002;Purchase Order;true;3096568c-31df-11ee-be56-0242ac120002
-51f447bc-31df-11ee-be56-0242ac120002;Invoice Number;true;3096568c-31df-11ee-be56-0242ac120002
-d947eb1c-369c-11ee-be56-0242ac120002;Regions;false;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
-b552620f-94fb-4991-9194-d9ddb6ff4faa;ID;false;fa898654-8055-430e-9842-dc102dc3983a
-2d36ee77-f692-4479-9477-98d437578fa7;Tender Reference;true;fa898654-8055-430e-9842-dc102dc3983a
-6cf8ae68-3746-4b54-83fc-058e5787f5d8;Offer Classification;true;fa898654-8055-430e-9842-dc102dc3983a
-d994030f-0eba-4a2a-9074-a8533eee5163;Ownership Type;true;fa898654-8055-430e-9842-dc102dc3983a
-a3612561-6bb2-4998-9738-0e4075f68319;Institute Name;true;fa898654-8055-430e-9842-dc102dc3983a
-933f8315-c760-4b7a-a8a2-01893294ef7f;Distributor Channel;true;fa898654-8055-430e-9842-dc102dc3983a
-78a96709-7252-46f0-b3b2-113e735ce07b;Publication Date;true;c16eabe0-0524-4b82-aed8-072429141bd8
-7810c3fd-5aa9-4c65-a0b3-859f6c882d83;Offer Due Date;true;c16eabe0-0524-4b82-aed8-072429141bd8
-17a28c38-7cc7-45ed-ae82-50b13474094e;Next Publication Date;true;c16eabe0-0524-4b82-aed8-072429141bd8
-e6ab0e53-8f1c-487e-9ddb-eface1beaa04;Cont. Duration (months);true;c16eabe0-0524-4b82-aed8-072429141bd8
-0d529d2f-31b4-4e7a-8923-46a398979b74;Extendable (months);true;c16eabe0-0524-4b82-aed8-072429141bd8
-aefbbb5f-a6dd-4b63-9ac0-4ca9e9e3f47e;Distributor Name;true;60a166b9-53c0-4854-b8c2-a4fbfc906202
-cd25f83c-9a1e-4b32-961c-0a7e2beda111;Selling Company;true;60a166b9-53c0-4854-b8c2-a4fbfc906202
-efbda04c-3459-4f1c-8fb5-0d1db338d895;Internal Due Date;true;cc0d6b1a-99dc-4473-8df4-5ddd8adf5bc2
-913c49e5-74e9-487a-b9db-0a1d26569345;Offer Due Date;true;cc0d6b1a-99dc-4473-8df4-5ddd8adf5bc2
-f260593d-a5c7-46b8-9569-6ba934104d78;Business Unit;true;951c2a28-54e8-4a8e-8ac0-7e88e17bbc73
-9de24693-445e-436c-9e54-4f721abdea36;Payment Term;true;951c2a28-54e8-4a8e-8ac0-7e88e17bbc73
-f064d4a3-3960-4238-9073-8f51d0cac7b6;Currency;false;951c2a28-54e8-4a8e-8ac0-7e88e17bbc73
-678287a4-d118-47ac-8252-0f6bb4293b5f;Activity Type;true;fa898654-8055-430e-9842-dc102dc3983a
-d772144b-93cd-49cc-8999-77711d81ba59;Label A;true;485fac07-91b8-49e7-bd4b-f4f3a7abd14e
-74050cd3-31ef-4a0f-9026-e0567b16f084;Label B;true;485fac07-91b8-49e7-bd4b-f4f3a7abd14e
-b307d737-5001-4ff5-a884-ca2dfa06d729;Requested Volume;true;756f357b-fc87-4b04-8dc0-12cb96b58770
-06dcfcd6-5dc3-4393-8e59-7a030fcdf480;UoM;true;756f357b-fc87-4b04-8dc0-12cb96b58770
-1b871c0b-3c4c-4991-8a55-8f21466b3e1b;Samples;true;756f357b-fc87-4b04-8dc0-12cb96b58770
-f7e18257-8156-427b-9bc7-2318fb4724e0;Sample Quantity;true;756f357b-fc87-4b04-8dc0-12cb96b58770
-0c979569-b3cf-4c4f-869e-f83b4a9a9fc9;Decline;true;756f357b-fc87-4b04-8dc0-12cb96b58770
-16019bf1-bee0-4172-b133-40234b22c203;Quotation Institute;true;60a166b9-53c0-4854-b8c2-a4fbfc906202
-16f3505f-b82c-4e49-8248-8ad2cf601eee;Molecule Name;true;92008f17-6bd0-4d97-8de3-91ce07bd5e73
-a9d7dd1f-7ebc-43a8-98b7-4d3a9bbf54dc;Offer Date;true;cc0869e1-3646-4232-bcde-7ba6341ebd0f
-b4421f0b-491a-4204-b581-80d9b6cc1377;Offer Validity;true;cc0869e1-3646-4232-bcde-7ba6341ebd0f
-c6cc7904-1345-4c77-aa62-f76476dd0b57;Remarks;true;cc0869e1-3646-4232-bcde-7ba6341ebd0f
-badcc8db-e7df-4f84-825b-61d349ac0375;Contract Start Date;true;cc0869e1-3646-4232-bcde-7ba6341ebd0f
-ab5e5783-a64c-4135-bef2-4dfdc2413b02;Contract End Date;true;cc0869e1-3646-4232-bcde-7ba6341ebd0f
-23ef626b-bcfa-4702-804d-4cd27b112bdc;Brand;true;92008f17-6bd0-4d97-8de3-91ce07bd5e73
-d9695b6c-980e-4853-a4e1-e49f72696939;Decline Comment;true;756f357b-fc87-4b04-8dc0-12cb96b58770
-ed84c9f1-bdf8-4e4f-8d32-4975fdb8db94;First Shipment;true;756f357b-fc87-4b04-8dc0-12cb96b58770
-8215b13b-894b-4978-bbcb-1cf30592a643;Incoterm;true;756f357b-fc87-4b04-8dc0-12cb96b58770
-c9e7d908-7e89-4cab-9454-0f22005815a6;BU;true;756f357b-fc87-4b04-8dc0-12cb96b58770
-e6f7da55-908e-488b-ba04-6fc2c56214ae;Distributor;true;756f357b-fc87-4b04-8dc0-12cb96b58770
-c9645c1c-c5c2-4986-9fad-bb953cfb2398;Payment Terms;true;cc0869e1-3646-4232-bcde-7ba6341ebd0f
-6cfe9570-7640-4e67-89bd-85ec7080ec6e;ContractNo;true;01c5ab9e-6567-41d6-b8c2-c8122d589a4c
-9b103ceb-dec3-4e21-adf6-cb9bf1dd8eb9;Currency;true;01c5ab9e-6567-41d6-b8c2-c8122d589a4c
-4592c056-5454-4960-bacf-bb995ddfd5ca;UoM;true;01c5ab9e-6567-41d6-b8c2-c8122d589a4c
-74a46215-57e7-4844-886e-3b79063e24d8;Outcome;true;01c5ab9e-6567-41d6-b8c2-c8122d589a4c
-495c6012-0a57-410f-9dcf-f9164207106d;Reason;true;01c5ab9e-6567-41d6-b8c2-c8122d589a4c
-b8905641-2239-4515-853f-4abb5d308c1f;Awarded Company;true;d71e0a16-7394-4694-a740-e1feba03a6f6
-0e56d99a-533e-4db4-8c36-553d29626f9d;Awarded Price;true;d71e0a16-7394-4694-a740-e1feba03a6f6
-899f55e0-8d11-4d5b-a1e7-e6943d4df6f6;Requested Volume;true;d71e0a16-7394-4694-a740-e1feba03a6f6
-9b255c3f-d8bf-4e5a-b5f6-a26eb01fd1d8;Awarded Quantity;true;d71e0a16-7394-4694-a740-e1feba03a6f6
-06d456ea-8f82-4781-9717-6b2fa79f9639;Comment;true;d71e0a16-7394-4694-a740-e1feba03a6f6
-873ebdd5-ced9-4b15-89db-698acbe736e8;Awarded Qty;true;8360af25-d861-4067-990d-72e8e3deda75
-aa3e79df-ac59-43fb-a56e-77b51b3d3309;UoM;true;8360af25-d861-4067-990d-72e8e3deda75
-aa62ec85-cdc5-44ac-b852-7dae1f165047;Reason;true;8360af25-d861-4067-990d-72e8e3deda75
-15a73998-8fd0-4d84-bf4d-40e20ae75553;Comments;true;09d67b56-3391-4775-898c-b2ff7cf647c2
-2743cee8-39e3-49fb-adef-02873e4d7549;Total Awarded Value;true;09d67b56-3391-4775-898c-b2ff7cf647c2
-87de659a-cfdc-45c2-8499-beed4a8d70a5;ID;false;b00f63e9-93cf-4567-b811-dd2cdcdf211f
-39e42c9a-b9e1-42b4-9823-8472d594f182;Reference;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
-f1c15922-5e2f-43b5-a503-015e4d4921cf;Classification;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
-c602dd21-eee3-4586-bc6a-16de0fa5079e;Institute Type;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
-e288fadf-ad88-494f-b225-bb4ab5fbae73;Institute Name;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
-85027dde-ed63-457c-9a8e-3682c2590e15;Institute Code;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
-a6b3b0c6-4f85-4196-935e-8390ed023eee;Institute Address;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
-569dced6-78e9-4685-8ef9-e757e1f29bbd;Institute In Branch;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
-d5947d80-8d64-4291-9b40-932ce6045193;Publication Date;true;6888a9e1-1618-43fa-8619-f24e39d13640
-9a6c8112-6964-4058-87f8-0430100264b0;Offer Due Date;true;6888a9e1-1618-43fa-8619-f24e39d13640
-f13b4b00-12a2-476f-97d9-3c77f3264105;Expected Award Date;true;6888a9e1-1618-43fa-8619-f24e39d13640
-82d82abd-9274-412f-8b91-28d987db7828;Next Publication Date;true;6888a9e1-1618-43fa-8619-f24e39d13640
-fe1a5116-3ddc-477e-8727-9b0c5dece57e;Contract Length [months];true;6888a9e1-1618-43fa-8619-f24e39d13640
-3270c2eb-2946-40c3-8e74-b165654ef575;Extension Period [months];true;6888a9e1-1618-43fa-8619-f24e39d13640
-25ac6a43-691c-4670-a55b-b6f34a05d976;Distributor Name;true;de555f83-71dc-4b8c-8682-9a016c4b2b68
-4aa68037-7137-4529-b176-f78c1f39f394;Selling Company;true;de555f83-71dc-4b8c-8682-9a016c4b2b68
-63f65c42-681a-477a-a415-223b6d9e795f;Client Comment;true;de555f83-71dc-4b8c-8682-9a016c4b2b68
-329f3814-bb9d-4d6f-8c26-67c8b02f361a;Division;true;f4890bb9-63d3-47ee-813c-d480b14e694b
-27c51ea7-4de5-4144-86ad-b394737a4ea3;Currency;false;f4890bb9-63d3-47ee-813c-d480b14e694b
+ID;LABEL;LABELLOCALE;VISIBLE;FORMCONTAINER_ID
+a9a177af-b535-432d-a347-9fceb661de8b;ID;;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
+8f8c996f-255b-409d-bcbf-8c3cb429e445;Tender Reference;;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
+fdbdf626-9596-4592-a315-e51ee279d383;Classification;;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
+ae54564a-8e32-42da-9758-8dafbb94ae20;Institute Type;;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
+13ebded3-e2d4-41d3-89c8-1c97dacf856d;Institute Name;;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
+84739079-54bb-4e76-8770-4eb7e36e060b;Institute State;;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
+5d554eeb-d9d9-4b5a-8d33-99bedeb5f867;Tender Channel;;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
+6c105624-1c11-11ee-be56-0242ac120002;Tender Contact;;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
+df2a781c-1c19-11ee-be56-0242ac120002;Created By;;true;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
+22d02332-079c-4f2e-8a6c-6fceb1f7af6a;Label A;;true;51d02332-079c-4f2e-8a6c-6fceb1f7af6a
+23d02332-079c-4f2e-8a6c-6fceb1f7af6a;Label B;;true;51d02332-079c-4f2e-8a6c-6fceb1f7af6a
+439d1cf2-935f-4e3d-ad3f-49e50df11330;Publication Date;;true;7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318
+764551e9-6b64-44ec-b68e-aa2182ee39f8;Offer Due Date;;true;7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318
+c3d65c39-f197-491d-99ab-d82b047c86d9;Expected Award Date;;true;7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318
+f957f20f-41a9-49ee-82c0-4fd18ee483a9;Next Publication Date;;true;7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318
+b5ceb298-29ff-49a3-ac6a-abe84b6943ea;Contract Length [months];;true;7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318
+530cac96-292a-4cda-be00-da36cf77dd89;Extension Period [months];;true;7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318
+fb57e036-12cb-4abf-b006-77ef7dc5ce7e;Distributor Name;;true;ec306324-e407-4b8a-a895-93d7ccfd1dce
+a25007d5-d866-4077-a302-7ee1ee171198;Selling Company;;true;ec306324-e407-4b8a-a895-93d7ccfd1dce
+981b668e-b571-4b70-b3a7-487eba861af8;Internal Due Date;;true;1890158e-c275-46e1-9f3b-9fa3f3d77ce0
+6d36157e-920c-4d30-8679-1ba3a56f0a3f;Offer Due Date;;true;1890158e-c275-46e1-9f3b-9fa3f3d77ce0
+6f169d0a-92da-4da3-9ec4-77e06fa399e8;Division;;true;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
+fc3a7dd9-d0a4-4371-8329-49e6e5a2ca67;Payment Term;;true;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
+d6338291-9bdc-441f-b6a7-342c48555a51;Currency;;false;e03f62ab-a0ae-42c0-9abe-d522c27de4cc
+02ec30b2-1cae-11ee-be56-0242ac120002;Client Comment;;true;ec306324-e407-4b8a-a895-93d7ccfd1dce
+e6dc812a-f5b0-11ed-b67e-0242ac120002;Alternate Offer;;true;a19856f2-f5b0-11ed-b67e-0242ac120002
+e6dc826a-f5b0-11ed-b67e-0242ac120002;Requested Volume;;true;a19856f2-f5b0-11ed-b67e-0242ac120002
+e6dc83a0-f5b0-11ed-b67e-0242ac120002;UoM;;true;a19856f2-f5b0-11ed-b67e-0242ac120002
+e6dc84c2-f5b0-11ed-b67e-0242ac120002;Samples;;true;a19856f2-f5b0-11ed-b67e-0242ac120002
+e6dc8a1c-f5b0-11ed-b67e-0242ac120002;Sample Quantity;;true;a19856f2-f5b0-11ed-b67e-0242ac120002
+e6dc88f0-f5b0-11ed-b67e-0242ac120002;Decline;;true;a19856f2-f5b0-11ed-b67e-0242ac120002
+e7d48e2b-e33c-4cff-8f65-8d8889ad277d;Comment;;true;a19856f2-f5b0-11ed-b67e-0242ac120002
+33bd4c74-15d9-4e36-af87-bae612cd104e;Molecule Name;;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+05d214c2-5f3e-490e-9254-d8619c58840f;AAH product code;;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+6d4b2143-7064-45da-80c4-e4ac44538699;License number;;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+a6d3871e-4a0b-440f-82ac-7b67f12e40ad;Generic Product Description;;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+3b85aa9f-351b-417a-bb99-cf6556b37d50;Pharma QC updated as required;;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+7350f24d-4b62-4bb7-9265-0762d22489e0;Distribution;;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+f04ae9ae-6df5-4d81-b822-d048d7a691cc;EAN / GTIN - the barcode;;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+69263a5f-8f60-4434-b784-d6b4611cb974;PIP code;;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+5c305272-5b7d-4947-9333-c75789803418;Pack size required;;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+80582963-1caa-485a-ad0e-aabdbf3cc1ab;Buffer stock holding level;;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+cb6beb83-696b-4999-ae71-7ed05b0351bc;Investment;;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+156c589a-ea33-425d-a78c-a631db753a64;Budgeted profitability;;true;a1985daa-f5b0-11ed-b67e-0242ac120002
+e9936d83-3d3d-46a2-bcc9-580d88c0d8a0;Offer Date;;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
+29e18ce6-2180-4e64-bb21-5d1e6322499c;Offer Validity;;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
+f22b8265-0450-4a20-ac81-eb6b8ffde153;Payment Terms;;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
+f739b97d-c23c-41f9-bda0-8b069b8d3ce1;Remarks;;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
+d3b5c500-0192-4ee8-93e7-5f05bea8d45e;Contract Start Date;;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
+2a226bda-d53f-48e3-9848-6f22a7752358;Contract End Date;;true;88d3ea8b-de60-47c1-8fdb-ff9b07374345
+f50eeb1e-147c-4e55-8c77-7bf4b564c358;ContractNo;;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+ed920e3a-ffa7-4fba-881d-354e87bd6933;Currency;;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+7a576bb7-8127-40a0-8fac-365ebddc91ae;FOC;;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+a3be29f5-1063-452d-a4df-0eb0fe08a13f;UoM;;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+280ac4ba-bd93-4573-9276-26f4f5430d21;Outcome;;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+e0efdb1a-0049-4635-8e1d-d0c3bfb1a782;Reason;;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+f3220002-8af9-4d9b-abd8-050e78dd88ec;Awarded Company;;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
+a081bfa3-a938-4d40-9b69-9c72f12bb134;Awarded Price;;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
+f97f33d7-c484-4549-916d-2988829252fd;Requested Volume;;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
+9ad7066d-1087-4cd2-bce1-3b3c5bf56dd9;Awarded Quantity;;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
+e0fade04-c328-4f1f-b103-40f78200de02;Subm. Error;;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
+6ff50e8e-acfc-4b92-b75e-a46552f7db6a;Comment;;true;75e0b14b-ebc4-4869-859d-76cce6a9d493
+bcc1554f-b0ee-4dff-b185-0f4c02a09dd2;Awarded Qty;;true;65523d86-3e0d-4fd5-bbc9-f1b9451c9dd4
+3e9ea266-b319-49ea-93b4-2f8ef19356ea;UoM;;true;65523d86-3e0d-4fd5-bbc9-f1b9451c9dd4
+910d83e7-7605-40bb-979f-ce2b0647936e;Reason;;true;65523d86-3e0d-4fd5-bbc9-f1b9451c9dd4
+3f3dd701-4ed1-471c-ae87-99dcdd1508c8;Comments;;true;5eb4f756-34d0-40ce-83e2-bc6dfb684afc
+4f69c7c9-8876-44e2-aca9-1037727bea9b;Total Awarded Value;;true;5eb4f756-34d0-40ce-83e2-bc6dfb684afc
+56372c65-639c-4d54-b953-3cc6f4ebd17b;Contract termination reason;;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+4a1f4358-c911-407c-a704-2a10d76af3f9;Contract Owner;;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+8269a298-c8d3-41c7-bbd3-54854a978ac1;% Difference to Competitor;;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+47fbb0d8-bdc2-4b25-b088-a583e6b9126b;Contract termination date;;true;2abe3a78-d04a-4c30-a2d6-ba93d207f985
+51f43cf4-31df-11ee-be56-0242ac120002;Actual Delivery Date;;true;30965402-31df-11ee-be56-0242ac120002
+51f440b4-31df-11ee-be56-0242ac120002;Actual Quantity;;true;30965402-31df-11ee-be56-0242ac120002
+51f442da-31df-11ee-be56-0242ac120002;Purchase Order;;true;3096568c-31df-11ee-be56-0242ac120002
+51f447bc-31df-11ee-be56-0242ac120002;Invoice Number;;true;3096568c-31df-11ee-be56-0242ac120002
+d947eb1c-369c-11ee-be56-0242ac120002;Regions;;false;50d02332-079c-4f2e-8a6c-6fceb1f7af6a
+b552620f-94fb-4991-9194-d9ddb6ff4faa;ID;;false;fa898654-8055-430e-9842-dc102dc3983a
+2d36ee77-f692-4479-9477-98d437578fa7;Tender Reference;;true;fa898654-8055-430e-9842-dc102dc3983a
+6cf8ae68-3746-4b54-83fc-058e5787f5d8;Offer Classification;;true;fa898654-8055-430e-9842-dc102dc3983a
+d994030f-0eba-4a2a-9074-a8533eee5163;Ownership Type;;true;fa898654-8055-430e-9842-dc102dc3983a
+a3612561-6bb2-4998-9738-0e4075f68319;Institute Name;;true;fa898654-8055-430e-9842-dc102dc3983a
+933f8315-c760-4b7a-a8a2-01893294ef7f;Distributor Channel;;true;fa898654-8055-430e-9842-dc102dc3983a
+78a96709-7252-46f0-b3b2-113e735ce07b;Publication Date;;true;c16eabe0-0524-4b82-aed8-072429141bd8
+7810c3fd-5aa9-4c65-a0b3-859f6c882d83;Offer Due Date;;true;c16eabe0-0524-4b82-aed8-072429141bd8
+17a28c38-7cc7-45ed-ae82-50b13474094e;Next Publication Date;;true;c16eabe0-0524-4b82-aed8-072429141bd8
+e6ab0e53-8f1c-487e-9ddb-eface1beaa04;Cont. Duration (months);;true;c16eabe0-0524-4b82-aed8-072429141bd8
+0d529d2f-31b4-4e7a-8923-46a398979b74;Extendable (months);;true;c16eabe0-0524-4b82-aed8-072429141bd8
+aefbbb5f-a6dd-4b63-9ac0-4ca9e9e3f47e;Distributor Name;;true;60a166b9-53c0-4854-b8c2-a4fbfc906202
+cd25f83c-9a1e-4b32-961c-0a7e2beda111;Selling Company;;true;60a166b9-53c0-4854-b8c2-a4fbfc906202
+efbda04c-3459-4f1c-8fb5-0d1db338d895;Internal Due Date;;true;cc0d6b1a-99dc-4473-8df4-5ddd8adf5bc2
+913c49e5-74e9-487a-b9db-0a1d26569345;Offer Due Date;;true;cc0d6b1a-99dc-4473-8df4-5ddd8adf5bc2
+f260593d-a5c7-46b8-9569-6ba934104d78;Business Unit;;true;951c2a28-54e8-4a8e-8ac0-7e88e17bbc73
+9de24693-445e-436c-9e54-4f721abdea36;Payment Term;;true;951c2a28-54e8-4a8e-8ac0-7e88e17bbc73
+f064d4a3-3960-4238-9073-8f51d0cac7b6;Currency;;false;951c2a28-54e8-4a8e-8ac0-7e88e17bbc73
+678287a4-d118-47ac-8252-0f6bb4293b5f;Activity Type;;true;fa898654-8055-430e-9842-dc102dc3983a
+d772144b-93cd-49cc-8999-77711d81ba59;Label A;;true;485fac07-91b8-49e7-bd4b-f4f3a7abd14e
+74050cd3-31ef-4a0f-9026-e0567b16f084;Label B;;true;485fac07-91b8-49e7-bd4b-f4f3a7abd14e
+b307d737-5001-4ff5-a884-ca2dfa06d729;Requested Volume;;true;756f357b-fc87-4b04-8dc0-12cb96b58770
+06dcfcd6-5dc3-4393-8e59-7a030fcdf480;UoM;;true;756f357b-fc87-4b04-8dc0-12cb96b58770
+1b871c0b-3c4c-4991-8a55-8f21466b3e1b;Samples;;true;756f357b-fc87-4b04-8dc0-12cb96b58770
+f7e18257-8156-427b-9bc7-2318fb4724e0;Sample Quantity;;true;756f357b-fc87-4b04-8dc0-12cb96b58770
+0c979569-b3cf-4c4f-869e-f83b4a9a9fc9;Decline;;true;756f357b-fc87-4b04-8dc0-12cb96b58770
+16019bf1-bee0-4172-b133-40234b22c203;Quotation Institute;;true;60a166b9-53c0-4854-b8c2-a4fbfc906202
+16f3505f-b82c-4e49-8248-8ad2cf601eee;Molecule Name;;true;92008f17-6bd0-4d97-8de3-91ce07bd5e73
+a9d7dd1f-7ebc-43a8-98b7-4d3a9bbf54dc;Offer Date;;true;cc0869e1-3646-4232-bcde-7ba6341ebd0f
+b4421f0b-491a-4204-b581-80d9b6cc1377;Offer Validity;;true;cc0869e1-3646-4232-bcde-7ba6341ebd0f
+c6cc7904-1345-4c77-aa62-f76476dd0b57;Remarks;;true;cc0869e1-3646-4232-bcde-7ba6341ebd0f
+badcc8db-e7df-4f84-825b-61d349ac0375;Contract Start Date;;true;cc0869e1-3646-4232-bcde-7ba6341ebd0f
+ab5e5783-a64c-4135-bef2-4dfdc2413b02;Contract End Date;;true;cc0869e1-3646-4232-bcde-7ba6341ebd0f
+23ef626b-bcfa-4702-804d-4cd27b112bdc;Brand;;true;92008f17-6bd0-4d97-8de3-91ce07bd5e73
+d9695b6c-980e-4853-a4e1-e49f72696939;Decline Comment;;true;756f357b-fc87-4b04-8dc0-12cb96b58770
+ed84c9f1-bdf8-4e4f-8d32-4975fdb8db94;First Shipment;;true;756f357b-fc87-4b04-8dc0-12cb96b58770
+8215b13b-894b-4978-bbcb-1cf30592a643;Incoterm;;true;756f357b-fc87-4b04-8dc0-12cb96b58770
+c9e7d908-7e89-4cab-9454-0f22005815a6;BU;;true;756f357b-fc87-4b04-8dc0-12cb96b58770
+e6f7da55-908e-488b-ba04-6fc2c56214ae;Distributor;;true;756f357b-fc87-4b04-8dc0-12cb96b58770
+c9645c1c-c5c2-4986-9fad-bb953cfb2398;Payment Terms;;true;cc0869e1-3646-4232-bcde-7ba6341ebd0f
+6cfe9570-7640-4e67-89bd-85ec7080ec6e;ContractNo;;true;01c5ab9e-6567-41d6-b8c2-c8122d589a4c
+9b103ceb-dec3-4e21-adf6-cb9bf1dd8eb9;Currency;;true;01c5ab9e-6567-41d6-b8c2-c8122d589a4c
+4592c056-5454-4960-bacf-bb995ddfd5ca;UoM;;true;01c5ab9e-6567-41d6-b8c2-c8122d589a4c
+74a46215-57e7-4844-886e-3b79063e24d8;Outcome;;true;01c5ab9e-6567-41d6-b8c2-c8122d589a4c
+495c6012-0a57-410f-9dcf-f9164207106d;Reason;;true;01c5ab9e-6567-41d6-b8c2-c8122d589a4c
+b8905641-2239-4515-853f-4abb5d308c1f;Awarded Company;;true;d71e0a16-7394-4694-a740-e1feba03a6f6
+0e56d99a-533e-4db4-8c36-553d29626f9d;Awarded Price;;true;d71e0a16-7394-4694-a740-e1feba03a6f6
+899f55e0-8d11-4d5b-a1e7-e6943d4df6f6;Requested Volume;;true;d71e0a16-7394-4694-a740-e1feba03a6f6
+9b255c3f-d8bf-4e5a-b5f6-a26eb01fd1d8;Awarded Quantity;;true;d71e0a16-7394-4694-a740-e1feba03a6f6
+06d456ea-8f82-4781-9717-6b2fa79f9639;Comment;;true;d71e0a16-7394-4694-a740-e1feba03a6f6
+873ebdd5-ced9-4b15-89db-698acbe736e8;Awarded Qty;;true;8360af25-d861-4067-990d-72e8e3deda75
+aa3e79df-ac59-43fb-a56e-77b51b3d3309;UoM;;true;8360af25-d861-4067-990d-72e8e3deda75
+aa62ec85-cdc5-44ac-b852-7dae1f165047;Reason;;true;8360af25-d861-4067-990d-72e8e3deda75
+15a73998-8fd0-4d84-bf4d-40e20ae75553;Comments;;true;09d67b56-3391-4775-898c-b2ff7cf647c2
+2743cee8-39e3-49fb-adef-02873e4d7549;Total Awarded Value;;true;09d67b56-3391-4775-898c-b2ff7cf647c2
+87de659a-cfdc-45c2-8499-beed4a8d70a5;ID;;false;b00f63e9-93cf-4567-b811-dd2cdcdf211f
+39e42c9a-b9e1-42b4-9823-8472d594f182;Reference;;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
+f1c15922-5e2f-43b5-a503-015e4d4921cf;Classification;;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
+c602dd21-eee3-4586-bc6a-16de0fa5079e;Institute Type;;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
+e288fadf-ad88-494f-b225-bb4ab5fbae73;Institute Name;;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
+85027dde-ed63-457c-9a8e-3682c2590e15;Institute Code;;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
+a6b3b0c6-4f85-4196-935e-8390ed023eee;Institute Address;;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
+569dced6-78e9-4685-8ef9-e757e1f29bbd;Institute In Branch;;true;b00f63e9-93cf-4567-b811-dd2cdcdf211f
+d5947d80-8d64-4291-9b40-932ce6045193;Publication Date;;true;6888a9e1-1618-43fa-8619-f24e39d13640
+9a6c8112-6964-4058-87f8-0430100264b0;Offer Due Date;;true;6888a9e1-1618-43fa-8619-f24e39d13640
+f13b4b00-12a2-476f-97d9-3c77f3264105;Expected Award Date;;true;6888a9e1-1618-43fa-8619-f24e39d13640
+82d82abd-9274-412f-8b91-28d987db7828;Next Publication Date;;true;6888a9e1-1618-43fa-8619-f24e39d13640
+fe1a5116-3ddc-477e-8727-9b0c5dece57e;Contract Length [months];;true;6888a9e1-1618-43fa-8619-f24e39d13640
+3270c2eb-2946-40c3-8e74-b165654ef575;Extension Period [months];;true;6888a9e1-1618-43fa-8619-f24e39d13640
+25ac6a43-691c-4670-a55b-b6f34a05d976;Distributor Name;;true;de555f83-71dc-4b8c-8682-9a016c4b2b68
+4aa68037-7137-4529-b176-f78c1f39f394;Selling Company;;true;de555f83-71dc-4b8c-8682-9a016c4b2b68
+63f65c42-681a-477a-a415-223b6d9e795f;Client Comment;;true;de555f83-71dc-4b8c-8682-9a016c4b2b68
+329f3814-bb9d-4d6f-8c26-67c8b02f361a;Division;;true;f4890bb9-63d3-47ee-813c-d480b14e694b
+27c51ea7-4de5-4144-86ad-b394737a4ea3;Currency;;false;f4890bb9-63d3-47ee-813c-d480b14e694b
