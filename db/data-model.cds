@@ -66,6 +66,7 @@ entity Table : cuid {
 
 entity Form : cuid {
       Title       : String;
+      TitleLocale  : String;
       Description : String;
       FormID      : String; // this ID will be used in the UI to do the binding
       Entity      : String;
@@ -91,6 +92,7 @@ entity Column : cuid {
 }
 entity FormContainer : cuid {
       Title:String;
+      TitleLocale  : String;
       //Associations
       Form         : Association to Form;
       FormElements    : Association to many FormElement
