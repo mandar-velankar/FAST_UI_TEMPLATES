@@ -1,33 +1,33 @@
-ID;TITLE;FORM_ID
-50d02332-079c-4f2e-8a6c-6fceb1f7af6a;Institute & Type;30d02332-079c-4f2e-8a6c-6fceb1f7af6a
-7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318;Timeline;30d02332-079c-4f2e-8a6c-6fceb1f7af6a
-51d02332-079c-4f2e-8a6c-6fceb1f7af6a;Title Y;40d02332-079c-4f2e-8a6c-6fceb1f7af6a
-ec306324-e407-4b8a-a895-93d7ccfd1dce;Offer;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
-1890158e-c275-46e1-9f3b-9fa3f3d77ce0;OfferSecondary;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
-e03f62ab-a0ae-42c0-9abe-d522c27de4cc;OfferThird;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
-a19856f2-f5b0-11ed-b67e-0242ac120002;Product Info1;3bbfed68-f5b0-11ed-b67e-0242ac120002
-a1985daa-f5b0-11ed-b67e-0242ac120002;Product Info2;3bbfed68-f5b0-11ed-b67e-0242ac120002
-88d3ea8b-de60-47c1-8fdb-ff9b07374345;Tender Offer Details1;59fc54dc-8b4a-4bf3-bf11-8fd5ea37956f
-adfb3dee-f397-405a-8663-36fd7a45b84e;Tender Offer Details2;59fc54dc-8b4a-4bf3-bf11-8fd5ea37956f
-2abe3a78-d04a-4c30-a2d6-ba93d207f985;Awarded Products;ed65ccaf-5ec3-490f-a8a7-451cbae6b300
-75e0b14b-ebc4-4869-859d-76cce6a9d493;Awarded Products;ed65ccaf-5ec3-490f-a8a7-451cbae6b300
-65523d86-3e0d-4fd5-bbc9-f1b9451c9dd4;Competitor Results Cont1;af148864-a2c3-4ddd-87ec-341a10887989
-5eb4f756-34d0-40ce-83e2-bc6dfb684afc;Competitor Results Cont2;af148864-a2c3-4ddd-87ec-341a10887989
-30965402-31df-11ee-be56-0242ac120002;Delivery Tracking Cont1;6a08408a-3151-11ee-be56-0242ac120002
-3096568c-31df-11ee-be56-0242ac120002;Delivery Tracking Cont2;6a08408a-3151-11ee-be56-0242ac120002
-fa898654-8055-430e-9842-dc102dc3983a;Institute & Type;bb3dfa9b-f885-4730-a411-9cd858d842fc
-c16eabe0-0524-4b82-aed8-072429141bd8;Timeline;bb3dfa9b-f885-4730-a411-9cd858d842fc
-60a166b9-53c0-4854-b8c2-a4fbfc906202;Offer;87efbe27-16d6-45c1-a996-bfa56f65504c
-cc0d6b1a-99dc-4473-8df4-5ddd8adf5bc2;OfferSecondary;87efbe27-16d6-45c1-a996-bfa56f65504c
-951c2a28-54e8-4a8e-8ac0-7e88e17bbc73;OfferThird;87efbe27-16d6-45c1-a996-bfa56f65504c
-485fac07-91b8-49e7-bd4b-f4f3a7abd14e;Title Y;66779a8d-bb95-4b80-a6d8-9b11db96325c
-756f357b-fc87-4b04-8dc0-12cb96b58770;Product Info1;6472366b-d938-47ff-bfed-813c2dc2a504
-92008f17-6bd0-4d97-8de3-91ce07bd5e73;Product Info2;6472366b-d938-47ff-bfed-813c2dc2a504
-cc0869e1-3646-4232-bcde-7ba6341ebd0f;Tender Offer Details1;8ab6275d-a3d3-412e-89e1-d3fc5c2f7d7d
-18c1c72a-1cfb-4002-87e4-4e7d6aa21195;Tender Offer Details2;8ab6275d-a3d3-412e-89e1-d3fc5c2f7d7d
-01c5ab9e-6567-41d6-b8c2-c8122d589a4c;Awarded Products;22656771-b5af-4276-8195-91059359f2b4
-d71e0a16-7394-4694-a740-e1feba03a6f6;Awarded Products;22656771-b5af-4276-8195-91059359f2b4
-8360af25-d861-4067-990d-72e8e3deda75;Competitor Results Cont1;0f1d928e-522d-4bc6-b072-8fb9c9a40a5f
-09d67b56-3391-4775-898c-b2ff7cf647c2;Competitor Results Cont2;0f1d928e-522d-4bc6-b072-8fb9c9a40a5f
-b00f63e9-93cf-4567-b811-dd2cdcdf211f;Institute & Type;feb78a51-e027-49e6-ba44-23a049625f6c
-6888a9e1-1618-43fa-8619-f24e39d13640;Timeline;feb78a51-e027-49e6-ba44-23a049625f6c
+ID;TITLE;TITLELOCALE;FORM_ID
+50d02332-079c-4f2e-8a6c-6fceb1f7af6a;Institute & Type;;30d02332-079c-4f2e-8a6c-6fceb1f7af6a
+7b39f8e5-f4d0-4ac7-9d9c-ccd9afcd1318;Timeline;;30d02332-079c-4f2e-8a6c-6fceb1f7af6a
+51d02332-079c-4f2e-8a6c-6fceb1f7af6a;Title Y;;40d02332-079c-4f2e-8a6c-6fceb1f7af6a
+ec306324-e407-4b8a-a895-93d7ccfd1dce;Offer;;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
+1890158e-c275-46e1-9f3b-9fa3f3d77ce0;OfferSecondary;;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
+e03f62ab-a0ae-42c0-9abe-d522c27de4cc;OfferThird;;1517f8e2-5c6d-4e9a-8788-e5ab26eba316
+a19856f2-f5b0-11ed-b67e-0242ac120002;Product Info1;;3bbfed68-f5b0-11ed-b67e-0242ac120002
+a1985daa-f5b0-11ed-b67e-0242ac120002;Product Info2;;3bbfed68-f5b0-11ed-b67e-0242ac120002
+88d3ea8b-de60-47c1-8fdb-ff9b07374345;Tender Offer Details1;;59fc54dc-8b4a-4bf3-bf11-8fd5ea37956f
+adfb3dee-f397-405a-8663-36fd7a45b84e;Tender Offer Details2;;59fc54dc-8b4a-4bf3-bf11-8fd5ea37956f
+2abe3a78-d04a-4c30-a2d6-ba93d207f985;Awarded Products;;ed65ccaf-5ec3-490f-a8a7-451cbae6b300
+75e0b14b-ebc4-4869-859d-76cce6a9d493;Awarded Products;;ed65ccaf-5ec3-490f-a8a7-451cbae6b300
+65523d86-3e0d-4fd5-bbc9-f1b9451c9dd4;Competitor Results Cont1;;af148864-a2c3-4ddd-87ec-341a10887989
+5eb4f756-34d0-40ce-83e2-bc6dfb684afc;Competitor Results Cont2;;af148864-a2c3-4ddd-87ec-341a10887989
+30965402-31df-11ee-be56-0242ac120002;Delivery Tracking Cont1;;6a08408a-3151-11ee-be56-0242ac120002
+3096568c-31df-11ee-be56-0242ac120002;Delivery Tracking Cont2;;6a08408a-3151-11ee-be56-0242ac120002
+fa898654-8055-430e-9842-dc102dc3983a;Institute & Type;;bb3dfa9b-f885-4730-a411-9cd858d842fc
+c16eabe0-0524-4b82-aed8-072429141bd8;Timeline;;bb3dfa9b-f885-4730-a411-9cd858d842fc
+60a166b9-53c0-4854-b8c2-a4fbfc906202;Offer;;87efbe27-16d6-45c1-a996-bfa56f65504c
+cc0d6b1a-99dc-4473-8df4-5ddd8adf5bc2;OfferSecondary;;87efbe27-16d6-45c1-a996-bfa56f65504c
+951c2a28-54e8-4a8e-8ac0-7e88e17bbc73;OfferThird;;87efbe27-16d6-45c1-a996-bfa56f65504c
+485fac07-91b8-49e7-bd4b-f4f3a7abd14e;Title Y;;66779a8d-bb95-4b80-a6d8-9b11db96325c
+756f357b-fc87-4b04-8dc0-12cb96b58770;Product Info1;;6472366b-d938-47ff-bfed-813c2dc2a504
+92008f17-6bd0-4d97-8de3-91ce07bd5e73;Product Info2;;6472366b-d938-47ff-bfed-813c2dc2a504
+cc0869e1-3646-4232-bcde-7ba6341ebd0f;Tender Offer Details1;;8ab6275d-a3d3-412e-89e1-d3fc5c2f7d7d
+18c1c72a-1cfb-4002-87e4-4e7d6aa21195;Tender Offer Details2;;8ab6275d-a3d3-412e-89e1-d3fc5c2f7d7d
+01c5ab9e-6567-41d6-b8c2-c8122d589a4c;Awarded Products;;22656771-b5af-4276-8195-91059359f2b4
+d71e0a16-7394-4694-a740-e1feba03a6f6;Awarded Products;;22656771-b5af-4276-8195-91059359f2b4
+8360af25-d861-4067-990d-72e8e3deda75;Competitor Results Cont1;;0f1d928e-522d-4bc6-b072-8fb9c9a40a5f
+09d67b56-3391-4775-898c-b2ff7cf647c2;Competitor Results Cont2;;0f1d928e-522d-4bc6-b072-8fb9c9a40a5f
+b00f63e9-93cf-4567-b811-dd2cdcdf211f;Institute & Type;;feb78a51-e027-49e6-ba44-23a049625f6c
+6888a9e1-1618-43fa-8619-f24e39d13640;Timeline;;feb78a51-e027-49e6-ba44-23a049625f6c
