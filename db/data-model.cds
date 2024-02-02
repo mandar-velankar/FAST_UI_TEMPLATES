@@ -30,6 +30,7 @@ entity Template : cuid {
 
 entity Tab : cuid {
       Title       : String;
+      TitleLocale  : String;
       Description : String;
       Icon        : String;
       //Associations
@@ -65,6 +66,7 @@ entity Table : cuid {
 
 entity Form : cuid {
       Title       : String;
+      TitleLocale  : String;
       Description : String;
       FormID      : String; // this ID will be used in the UI to do the binding
       Entity      : String;
@@ -78,6 +80,7 @@ entity Form : cuid {
 
 entity Column : cuid {
       Title       : String; //todo: rename to label or header?
+      TitleLocale  : String;
       Description : String; //tocheck: not needed?
       Importance  : String;
       IsValueHelpKey: Boolean default false; //if dropdown, specify this field is key -- if using a db entity
@@ -89,6 +92,7 @@ entity Column : cuid {
 }
 entity FormContainer : cuid {
       Title:String;
+      TitleLocale  : String;
       //Associations
       Form         : Association to Form;
       FormElements    : Association to many FormElement
@@ -96,6 +100,7 @@ entity FormContainer : cuid {
 }
 entity FormElement : cuid {
       Label       : String;
+      LabelLocale : String;
       Visible     : Boolean;
       //Associations
       FormContainer         : Association to FormContainer;

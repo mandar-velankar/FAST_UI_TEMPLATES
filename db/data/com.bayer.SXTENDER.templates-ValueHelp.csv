@@ -1,7 +1,7 @@
 ID;TITLE;TYPE;PARENTID;SEARCHABLE;SelectedField;TABLE_ID
 1c08908c-2e1a-4a1b-bbfa-76569f4d75dc;Classification;;ba4262f5-fec0-4c8e-9ae0-8ef697040727;true;"[{""ID"": """", ""Name"": ""CLASSIFICATION""}]";403ee636-e2f7-4ce0-8dfb-9323a7f1335e
-c4e6903d-a654-478e-bfe0-bc86c968780f;Institute Type;;e2b51192-ad0b-482e-8a10-a2857d62fdee;true;"[{""ID"": """", ""Name"": ""ChannelName""}]";8811b856-8026-47e7-8a84-75cc0e1fa72c
-d620f2f1-9063-471a-9a5a-a22b9dad9fbe;Institute Name;;770600d0-f46f-4aec-bda0-9cc3f4447bbf;true;"[{""ID"": ""InstituteID"", ""Name"": ""InstituteName""},{""ID"": ""DirectTender"", ""Name"": ""InstituteName""} ]";5251c092-600e-4629-ae6e-b3424ef03597
+c4e6903d-a654-478e-bfe0-bc86c968780f;InstituteType;;e2b51192-ad0b-482e-8a10-a2857d62fdee;true;"[{""ID"": """", ""Name"": ""ChannelName""}]";8811b856-8026-47e7-8a84-75cc0e1fa72c
+d620f2f1-9063-471a-9a5a-a22b9dad9fbe;Institute Name;;770600d0-f46f-4aec-bda0-9cc3f4447bbf;true;"[{""ID"": ""InstituteID"", ""Name"": ""InstituteName""},{""ID"": ""DirectTender"", ""Name"": ""InstituteName""},{""ID"": ""State"", ""Name"": ""InstituteName""} ]";5251c092-600e-4629-ae6e-b3424ef03597
 71f4dcae-5768-4ee5-9cd5-fb373e61e193;Tender Channel;;a9c108ea-95f4-4219-844f-d6ea26c7b4fa;true;"[{""ID"": """", ""Name"": ""ChannelName""}]";4e3f438d-be56-4ffb-8175-313d183b3c6f
 f4c273bf-2911-478c-9f33-25c02a0b20a6;Division;;422c7e8e-f3f1-11ed-a05b-0242ac120003;true;"[{""ID"": """", ""Name"": ""Division""}]";0d2203db-c1e1-4a1e-86a1-34bf001ef75a
 c313b385-8d17-49fa-a863-f6cf14ab5003;Distributor;;3747e509-6f2b-4af7-929c-56b47b1657d2;true;"[{""ID"": """", ""Name"": ""DistributorName""}]";eadae450-4d37-4cda-ae30-b45103086c7e
@@ -27,7 +27,7 @@ f913deac-c703-4471-b94f-6a1fdfbf3a70;Distribution;;907a539a-209c-11ee-be56-0242a
 5f040f19-d827-4405-b71f-f071ed61e547;Contract Owner;;850787da-0df7-41c1-a17f-d39be53c30d2;true;"[{""ID"": """", ""Name"": ""Custom_String_2""}]";41c1a54b-e070-4d89-b95f-4b1564f0120d
 9f3445a8-36a9-11ee-be56-0242ac120002;Regions;;18ce82e6-369d-11ee-be56-0242ac120002;true;"[{""ID"": """", ""Name"": ""Name""}]";1d3863e0-36a9-11ee-be56-0242ac120002
 c7d3bc72-65ef-4032-8534-65f123704118;Classification;;c6456b81-67b8-442c-9c2b-cb728eeb1d42;true;"[{""ID"": """", ""Name"": ""CLASSIFICATION""}]";3d8abeed-5e76-46fe-9053-63f640ccbb46
-28f57328-de99-4889-b055-385bb9181c64;Institute Type;;411d2e58-72c9-4ba1-bc31-44f26d75470d;true;"[{""ID"": """", ""Name"": ""ChannelName""}]";e6ffbfe4-79dd-4d29-a461-00f79e396cf1
+28f57328-de99-4889-b055-385bb9181c64;InstituteType;;411d2e58-72c9-4ba1-bc31-44f26d75470d;true;"[{""ID"": """", ""Name"": ""ChannelName""}]";e6ffbfe4-79dd-4d29-a461-00f79e396cf1
 139b8659-1cc4-4249-bd30-862584f55537;Institute Name;;3d8b627f-b8e5-44a1-a5ee-bfce4930b79d;true;"[{""ID"": ""InstituteID"", ""Name"": ""InstituteName""},{""ID"": ""DirectTender"", ""Name"": ""InstituteName""}]";6b3584b0-fb1c-4721-8100-033656a48bad
 21aa626b-15eb-4ff3-a738-76a3d66b92ba;Tender Channel;;699e154a-492c-4bdc-99e9-d9d12a822fca;true;"[{""ID"": """", ""Name"": ""ChannelName""}]";c5f3b126-e325-4ca9-9624-7510ec7594ff
 46817ce5-1fff-4fa9-b4ca-5eaa3468b04d;Payment Terms;;dd64cdd8-aac5-4cb3-a51b-6bdc797a6d09;true;"[{""ID"": """", ""Name"": ""Custom_String_1""}]";e6f2a8be-1d47-4f5f-b40b-4eefb7e9f346
@@ -46,3 +46,7 @@ a6e61395-b0ac-442e-925b-ce8151a405fa;Currency;;0b8abd2f-7b58-4146-a1f2-2ac6a85c6
 845df67a-f55a-4664-a170-30580e8643b7;QuotationInstitute;;3f06ae6e-1bc8-4f83-9035-c4bdee1786d4;true;"[{""ID"": ""QuotationInstituteID"", ""Name"": ""InstituteName""}]";16f29f50-7b45-4ef7-9acf-c695b1e25257
 ed833746-7f06-11ee-b962-0242ac120002;Distributor;;dc270890-b1e5-4327-9392-eaffab0f7a90;false;"[{""ID"": """", ""Name"": ""DistributorName""}]";86f2256e-7f01-11ee-b962-0242ac120002
 48664630-2d13-448b-8dcf-d179ab82e0e1;Payment Terms;;149698c7-0a2a-40e8-889b-c80c0e3719f6;true;"[{""ID"": """", ""Name"": """"}]";e6f2a8be-1d47-4f5f-b40b-4eefb7e9f346
+0ece223f-8453-470e-9c6e-648bfad1894c;Classification;;c95e9515-cae4-4a32-b826-cb37a8dc0e02;true;"[{""ID"": """", ""Name"": ""CLASSIFICATION""}]";403ee636-e2f7-4ce0-8dfb-9323a7f1335e
+4ee1f8e0-c766-4280-a353-b9c29b54afc3;InstituteType;;0f9725e0-ca2c-4c9e-ba6b-a6794677b16c;true;"[{""ID"": """", ""Name"": ""ChannelName""}]";f8e5a08c-5219-442f-8d19-fd1eb309243c
+fede286d-f753-4e1e-b26b-9b0585d4b6d0;Institute Name;;26fb0e0f-f42a-4b80-97c0-537d324cbb27;true;"[{""ID"": ""InstituteID"", ""Name"": ""InstituteName""},{""ID"": ""DirectTender"", ""Name"": ""InstituteName""},{""ID"": ""ParentInstituteID"", ""Name"": ""InstituteName""}, {""ID"": ""External_InstituteId"", ""Name"": ""InstituteName""}, {""ID"": ""Address"", ""Name"": ""InstituteName""}]";fbd4e0b2-a09e-49d4-b7b0-14794a640892
+e72054ff-2aae-46f6-ab25-1f1399515285;Institute In Branch;;b2287979-15b3-48f2-b869-bb09f63370e1;true;"[{""ID"": """", ""Name"": ""InstituteName""}]";d52e51cc-4947-4ea9-8a74-3c91554f3b00
