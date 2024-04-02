@@ -142,7 +142,7 @@ entity Filter: cuid {
 }
 
 entity StaticValue: cuid {
-      CountryCode : String(2);
+      CountryCode : String;
       KeyID       : String(40);
       ValueText   : String(40);
       ValueHelp   : Association to ValueHelp;
