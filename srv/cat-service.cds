@@ -46,6 +46,7 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
         inner join templates.FormElement as formelem on formcontainer.ID = formelem.FormContainer.ID
         inner join templates.Control as control on control.ParentID = formelem.ID
         inner join PropertiesView as propview on propview.ControlID = control.ID
+        left join templates.Tab as tab on tab.XMLView.ID = form.XMLView.ID
     {
         key 
             Case 
@@ -57,7 +58,11 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
                 when formcontainer.Title LIKE 'Tender Offer%' then 'Overview' 
                 when formcontainer.Title LIKE 'Competitor Results%' then 'CompetitorResults'
             end as Section:String,
-        key productscope.CountryCode as CountryCode:String,
+        key case 
+                when productscope.CountryCode is not null 
+                    then productscope.CountryCode
+                else tab.Template.CountryTemplate.CountryCode
+            end as CountryCode:String,
         key ifnull(productscope.ProductScope, 'All') as ProductScope:String,
         formelem.Label as Label:String,
         propview.FieldName as Field:String
@@ -69,5 +74,6 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
     formelem.Label,
     propview.FieldName,
     productscope.CountryCode,
-    productscope.ProductScope
+    productscope.ProductScope,
+    tab.Template.CountryTemplate.CountryCode
 }
