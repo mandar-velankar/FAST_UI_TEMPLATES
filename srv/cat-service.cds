@@ -57,6 +57,9 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
                 when formcontainer.Title LIKE 'Delivery Tracking%' then 'DeliveryDetails'
                 when formcontainer.Title LIKE 'Tender Offer%' then 'Overview' 
                 when formcontainer.Title LIKE 'Competitor Results%' then 'CompetitorResults'
+                when formcontainer.Title LIKE 'Compliance Officer%' then 'ComplianceOfficer'
+                when formcontainer.Title LIKE 'Supply Management%' then 'SupplyManagement'
+                when formcontainer.Title LIKE 'Global Strategic Marketing%' then 'GlobalStrategicMarketing' 
             end as Section:String,
         key case 
                 when productscope.CountryCode is not null 
