@@ -78,7 +78,7 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
     propview.FieldName,
     productscope.CountryCode,
     productscope.ProductScope,
-    tab.Template.CountryTemplate.CountryCode
+    tab.Template.CountryTemplate.CountryCode;
 
     entity FullPropertiesView as select from templates.Control as control
     inner join templates.Properties as prop1 on prop1.ParentID = control.ID
@@ -134,5 +134,5 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
     propview.FieldName,
     productscope.CountryCode,
     productscope.ProductScope,
-    tab.Template.CountryTemplate.CountryCode
+    tab.Template.CountryTemplate.CountryCode;
 }
