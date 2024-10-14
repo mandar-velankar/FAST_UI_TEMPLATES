@@ -79,4 +79,60 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
     productscope.CountryCode,
     productscope.ProductScope,
     tab.Template.CountryTemplate.CountryCode
+
+    entity FullPropertiesView as select from templates.Control as control
+    inner join templates.Properties as prop1 on prop1.ParentID = control.ID
+    inner join templates.Properties as prop2 on prop1.ParentID = prop2.ParentID
+    {
+        key control.ID as ControlID,
+        control.Type as Type,
+        prop1.Value as FieldName
+    } where (prop1.Name = 'value' or prop1.Name = 'selectedKey')
+    group by 
+    control.ID, 
+    control.Type, 
+    prop1.Value, 
+    prop1.Name, 
+    prop2.Name, 
+    prop2.Value;
+
+    entity FormFieldsView as select from templates.Form as form
+        left join ProductScopeView as productscope on productscope.FormID = form.ID
+        inner join templates.FormContainer as formcontainer on form.ID = formcontainer.Form.ID
+        inner join templates.FormElement as formelem on formcontainer.ID = formelem.FormContainer.ID
+        inner join templates.Control as control on control.ParentID = formelem.ID
+        inner join PropertiesView as propview on propview.ControlID = control.ID
+        left join templates.Tab as tab on tab.XMLView.ID = form.XMLView.ID
+    {
+        key 
+            Case 
+                when formcontainer.Title IN ('Institute & Type', 'Timeline') then 'Tender'
+                when formcontainer.Title = 'Awarded Products' then 'Award' 
+                when formcontainer.Title LIKE 'Offer%' then 'Offer'
+                when formcontainer.Title LIKE 'Product Info%' then 'OfferProduct'
+                when formcontainer.Title LIKE 'Delivery Tracking%' then 'DeliveryDetails'
+                when formcontainer.Title LIKE 'Tender Offer%' then 'Overview' 
+                when formcontainer.Title LIKE 'Competitor Results%' then 'CompetitorResults'
+                when formcontainer.Title LIKE 'Compliance Officer%' then 'ComplianceOfficer'
+                when formcontainer.Title LIKE 'Supply Management%' then 'SupplyManagement'
+                when formcontainer.Title LIKE 'Global Strategic Marketing%' then 'GlobalStrategicMarketing' 
+            end as Section:String,
+        key case 
+                when productscope.CountryCode is not null 
+                    then productscope.CountryCode
+                else tab.Template.CountryTemplate.CountryCode
+            end as CountryCode:String,
+        key ifnull(productscope.ProductScope, 'All') as ProductScope:String,
+        formelem.Label as Label:String,
+        propview.FieldName as Field:String
+    }
+    group by
+    control.ValueHelp.ID,
+    control.ValueHelp.Table.Entity,
+    formcontainer.Title,
+    formelem.Label,
+    propview.FieldName,
+    productscope.CountryCode,
+    productscope.ProductScope,
+    tab.Template.CountryTemplate.CountryCode
 }
