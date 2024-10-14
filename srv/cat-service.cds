@@ -127,8 +127,6 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
         propview.FieldName as Field:String
     }
     group by
-    control.ValueHelp.ID,
-    control.ValueHelp.Table.Entity,
     formcontainer.Title,
     formelem.Label,
     propview.FieldName,
