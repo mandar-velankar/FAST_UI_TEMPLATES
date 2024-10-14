@@ -101,7 +101,7 @@ service CatalogService @(path: 'UITemplates') @(requires:['f_tndr_cag_admin','f_
         inner join templates.FormContainer as formcontainer on form.ID = formcontainer.Form.ID
         inner join templates.FormElement as formelem on formcontainer.ID = formelem.FormContainer.ID
         inner join templates.Control as control on control.ParentID = formelem.ID
-        inner join PropertiesView as propview on propview.ControlID = control.ID
+        inner join FullPropertiesView as propview on propview.ControlID = control.ID
         left join templates.Tab as tab on tab.XMLView.ID = form.XMLView.ID
     {
         key 
