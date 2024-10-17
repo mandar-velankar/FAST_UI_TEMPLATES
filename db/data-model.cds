@@ -83,6 +83,7 @@ entity Column : cuid {
       TitleLocale  : String;
       Description : String; //tocheck: not needed?
       Importance  : String;
+      Rank: Integer;
       IsValueHelpKey: Boolean default false; //if dropdown, specify this field is key -- if using a db entity
       IsValueHelpText: Boolean default false; //if dropdown, specify the text here -- if using a db entity
       //Associations
